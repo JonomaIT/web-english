@@ -26,14 +26,14 @@ permissions:
 jobs:
   site:
     if: ${{ !inputs.destroy }}
-    uses: JonomaIT/pipelines/.github/workflows/build-static.yml@v2.9.0
+    uses: JonomaIT/pipelines/.github/workflows/build-static.yml@v2.9.1
 
   deploy:
     needs: site
     if: >-
       !cancelled() && github.ref == 'refs/heads/main' && github.event_name != 'pull_request' &&
       (needs.site.result == 'success' || inputs.destroy)
-    uses: JonomaIT/pipelines/.github/workflows/deploy-app.yml@v2.9.0
+    uses: JonomaIT/pipelines/.github/workflows/deploy-app.yml@v2.9.1
     with:
       environment: production
       destroy: ${{ inputs.destroy || false }}
