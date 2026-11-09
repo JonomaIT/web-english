@@ -1,0 +1,213 @@
+/* Componentes: peças reutilizáveis, sem saber em que seção estão. */
+
+/* ---- linha da marca: o gradiente do emblema, a assinatura ---- */
+.brand-line {
+  height: 2px;
+  background: var(--brand-gradient);
+}
+
+/* ---- laço (o infinito do emblema): desenhado quando a seção aparece. Sem JavaScript, ou com
+   "reduzir animações", já aparece pronto. ---- */
+.loop path {
+  fill: none;
+  stroke: url(#loop-gradient);
+  stroke-width: 6;
+  stroke-linecap: round;
+  stroke-dasharray: 1;
+  stroke-dashoffset: 0;
+}
+
+.js .reveal .loop path {
+  stroke-dashoffset: 1;
+}
+
+.js .reveal.is-visible .loop path {
+  animation: loop-draw 2.4s var(--ease-out) 0.3s forwards;
+}
+
+@keyframes loop-draw {
+  from {
+    stroke-dashoffset: 1;
+  }
+
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .js .reveal .loop path,
+  .js .reveal.is-visible .loop path {
+    stroke-dashoffset: 0;
+    animation: none;
+  }
+}
+
+/* ---- emblema: no escuro some no fundo; no claro ganha um quadro escuro ---- */
+.emblem {
+  background: var(--emblem-tile);
+  border-radius: 22%;
+}
+
+/* ---- botões ---- */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2);
+  min-height: 2.75rem;
+  padding: 0 var(--space-5);
+  border-radius: var(--radius-sm);
+  border: 1px solid transparent;
+  font: 500 var(--text-sm) / 1 var(--font-sans);
+  text-decoration: none;
+  cursor: pointer;
+  transition:
+    background-color 150ms,
+    border-color 150ms,
+    transform 150ms;
+}
+
+.btn:active {
+  transform: translateY(1px);
+}
+
+.btn--primary {
+  background: var(--accent);
+  color: var(--on-accent);
+}
+
+.btn--primary:hover {
+  background: var(--accent-hover);
+}
+
+.btn--secondary {
+  border-color: var(--border-strong);
+  color: var(--text);
+}
+
+.btn--secondary:hover {
+  background: var(--surface-raised);
+}
+
+.btn svg {
+  width: 1.1em;
+  height: 1.1em;
+}
+
+/* ---- botão só com ícone (tema, redes) ---- */
+.icon-btn {
+  display: inline-grid;
+  place-items: center;
+  width: 2.5rem;
+  height: 2.5rem;
+  border-radius: var(--radius-sm);
+  border: 1px solid transparent;
+  background: transparent;
+  color: var(--text-muted);
+  cursor: pointer;
+}
+
+.icon-btn:hover {
+  color: var(--text);
+  border-color: var(--border);
+  background: var(--surface);
+}
+
+.icon-btn svg {
+  width: 1.25rem;
+  height: 1.25rem;
+}
+
+/* ---- botão de tema: o sol no escuro (vai para o claro), a lua no claro ---- */
+.theme-toggle__moon {
+  display: none;
+}
+
+:root[data-theme="light"] .theme-toggle__sun {
+  display: none;
+}
+
+:root[data-theme="light"] .theme-toggle__moon {
+  display: block;
+}
+
+@media (prefers-color-scheme: light) {
+  :root:not([data-theme="dark"]) .theme-toggle__sun {
+    display: none;
+  }
+
+  :root:not([data-theme="dark"]) .theme-toggle__moon {
+    display: block;
+  }
+}
+
+/* ---- status (o ponto "operacional") ---- */
+.status {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2);
+  padding: var(--space-1) var(--space-3);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-full);
+  font: var(--text-xs) / 1.6 var(--font-mono);
+  color: var(--text-muted);
+}
+
+.status::before {
+  content: "";
+  width: 0.5rem;
+  height: 0.5rem;
+  border-radius: 50%;
+  background: var(--status);
+  box-shadow: 0 0 0 3px color-mix(in srgb, var(--status) 25%, transparent);
+}
+
+/* ---- rótulo de seção ---- */
+.eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2);
+  font: 500 var(--text-xs) / 1 var(--font-mono);
+  letter-spacing: var(--tracking-wide);
+  text-transform: uppercase;
+  color: var(--text-subtle);
+}
+
+.eyebrow::before {
+  content: "";
+  width: 1.25rem;
+  height: 2px;
+  background: var(--brand-gradient);
+}
+
+/* ---- texto com o gradiente (uma palavra por tela, no máximo) ---- */
+.gradient-text {
+  background: var(--brand-gradient-text);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+/* ---- card ---- */
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  padding: var(--space-6);
+}
+
+/* ---- chips (stack) ---- */
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2);
+}
+
+.chip {
+  padding: var(--space-1) var(--space-3);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-full);
+  background: var(--surface);
+  font: var(--text-xs) / 1.6 var(--font-mono);
+  color: var(--text-muted);
+}

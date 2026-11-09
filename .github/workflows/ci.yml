@@ -1,0 +1,41 @@
+name: CI
+
+# Logic lives in JonomaIT/pipelines.
+#   pull request  npm ci, lint, typecheck, tests (site and API), build and a dependency scan
+#   main          also keep the built site (the `site` artifact), then deploy: the progress table,
+#                 the site with its API, the files, an invalidation. Permanent: not tied to the lab
+#   manual        Actions → CI → Run workflow: build this commit and deploy; "destroy" removes it
+on:
+  pull_request:
+    branches:
+      - main
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+    inputs:
+      destroy:
+        type: boolean
+        default: false
+        description: Remove the site from production (data last)
+
+permissions:
+  contents: read
+  id-token: write # OIDC with AWS (deploy role in the production Environment)
+
+jobs:
+  site:
+    if: ${{ !inputs.destroy }}
+    uses: JonomaIT/pipelines/.github/workflows/build-static.yml@v2.9.0
+
+  deploy:
+    needs: site
+    if: >-
+      !cancelled() && github.ref == 'refs/heads/main' && github.event_name != 'pull_request' &&
+      (needs.site.result == 'success' || inputs.destroy)
+    uses: JonomaIT/pipelines/.github/workflows/deploy-app.yml@v2.9.0
+    with:
+      environment: production
+      destroy: ${{ inputs.destroy || false }}
+    secrets:
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}

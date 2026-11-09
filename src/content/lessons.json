@@ -1,0 +1,491 @@
+[
+  {
+    "slug": "the-decision-that-changed-everything",
+    "kind": "story",
+    "title": "The Decision That Changed Everything",
+    "paragraphs": [
+      "When Daniel was offered a promotion, he expected to feel excited. Instead, he felt strangely uncomfortable. For years, he had worked hard to build his career, and becoming a manager seemed like the obvious next step. However, the position came with a lot more responsibility, and Daniel wasn't sure whether he was ready for it. His manager, Sarah, noticed his hesitation.",
+      "“You've been working toward this for years,” she said. “Why are you having second thoughts?”",
+      "Daniel (1) __________ for a moment before answering. “I don't know. I suppose I'm afraid I'll make mistakes. As a team member, I only have to worry about my own work. As a manager, I'll be responsible for other people's performance too.” Sarah smiled. “That's completely normal. Leadership isn't about knowing everything. It's about being willing to learn.” Daniel appreciated her advice, but he still couldn't (2) __________ the feeling that he might fail.",
+      "That evening, he discussed the situation with his friend Mark. Mark listened carefully and then said, “You know what your problem is? You're focusing too much on everything that could go wrong.” “Isn't that sensible?” Daniel asked.",
+      "“Not always. Sometimes you have to (3) __________ and take a chance. If you spend your entire life trying to avoid failure, you'll never know what you're capable of.”",
+      "Daniel knew Mark had a point. He had always been (4) __________ of taking risks. He preferred situations where he knew exactly what to expect.",
+      "The next morning, Daniel decided to accept the promotion. His first few weeks were difficult. One of his team members regularly missed deadlines, while another constantly disagreed with his decisions. Daniel quickly realized that managing people was completely different from managing tasks.",
+      "At first, he tried to solve every problem himself. Eventually, however, he understood that he couldn't (5) __________ everything alone. He needed to trust his team and give them more responsibility.",
+      "One afternoon, a major client complained about a mistake made by Daniel's team. Daniel was furious. His first reaction was to blame the employee responsible.",
+      "But then he (6) __________ and thought about the situation carefully. The mistake wasn't entirely the employee's fault. Daniel had never clearly explained the procedure in the first place. Instead of criticizing his employee, Daniel admitted his own mistake.",
+      "To his surprise, the employee respected him more because of it. Over the following months, Daniel became a better leader. He learned to communicate clearly, listen to different opinions, and (7) __________ when problems appeared instead of ignoring them. He also learned an important lesson: confidence doesn't always come before action.",
+      "Sometimes, you have to take action first, make mistakes, learn from them, and gradually become confident.",
+      "A year later, Daniel looked back at his first day as a manager and smiled. He realized that accepting the promotion had (8) __________.",
+      "He hadn't become a perfect manager. In fact, he still made mistakes. But he was no longer afraid of them.",
+      "He had finally learned that growth often begins when we (9) __________."
+    ],
+    "audio": [
+      {
+        "label": "Narration",
+        "src": "/lessons/the-decision-that-changed-everything/the-decision-that-changed-everything.mp3"
+      },
+      {
+        "label": "With emotion",
+        "src": "/lessons/the-decision-that-changed-everything/the-decision-that-changed-everything-emotion.mp3"
+      }
+    ],
+    "pdf": "/lessons/the-decision-that-changed-everything/the-decision-that-changed-everything.pdf",
+    "blanks": [
+      {
+        "answer": "paused",
+        "meaning": "stopped briefly before doing or saying something"
+      },
+      {
+        "answer": "shake off",
+        "meaning": "get rid of a feeling, thought or problem"
+      },
+      {
+        "answer": "take the plunge",
+        "meaning": "finally decide to do something difficult or risky"
+      },
+      {
+        "answer": "wary",
+        "meaning": "cautious because you are aware of possible problems or danger"
+      },
+      {
+        "answer": "handle",
+        "meaning": "deal with or manage something"
+      },
+      {
+        "answer": "took a step back",
+        "meaning": "stopped and considered a situation more calmly"
+      },
+      {
+        "answer": "tackle problems head-on",
+        "meaning": "deal with problems directly rather than avoiding them"
+      },
+      {
+        "answer": "paid off",
+        "meaning": "produced a good result after effort or difficulty"
+      },
+      {
+        "answer": "step outside our comfort zone",
+        "meaning": "do something unfamiliar or challenging"
+      }
+    ],
+    "questions": [
+      "Have you ever had to take the plunge and make a difficult decision?",
+      "Are you generally comfortable stepping outside your comfort zone? Why or why not?",
+      "How do you usually handle problems when you're under pressure?",
+      "Do you think making mistakes is necessary for personal growth?",
+      "What is something you've done recently that eventually paid off?"
+    ],
+    "related": ["vocabulary-1", "vocabulary-2"]
+  },
+  {
+    "slug": "the-engineer-behind-the-infrastructure",
+    "kind": "story",
+    "title": "The Engineer Behind the Infrastructure",
+    "paragraphs": [
+      "When people think about technology companies, they often imagine websites, mobile applications, and sophisticated software. However, behind every successful digital product, there is an entire infrastructure that needs to function smoothly.",
+      "Arjun works as an Infrastructure Engineer specializing in DevOps and Site Reliability Engineering (SRE). He has several years of experience managing business-critical production environments, where even a few minutes of downtime can affect thousands of customers.",
+      "His primary responsibilities involve maintaining the stability, security, and performance of cloud infrastructure. He works extensively with Amazon Web Services (AWS), Kubernetes, and Linux-based systems. His day-to-day activities include monitoring production environments, troubleshooting technical issues, managing Kubernetes clusters, and performing infrastructure upgrades.",
+      "One of the most challenging aspects of his job is maintaining high availability. His organization operates services around the clock, which means infrastructure problems need to be identified and resolved quickly. He cannot simply shut everything down whenever maintenance is required. Instead, he needs to carefully plan upgrades and deployments to minimize disruption and achieve zero downtime whenever possible.",
+      "Automation also plays a significant role in his work. Rather than performing repetitive tasks manually, Arjun develops automated processes that make infrastructure management more efficient and reliable. This not only saves time but also reduces the possibility of human error.",
+      "Although he has strong technical expertise, Arjun understands that his job is not entirely about working with technologies. He collaborates with developers, security engineers, and other infrastructure specialists to ensure that everyone is working towards the same objectives.",
+      "When asked about his professional background during an interview, Arjun avoids simply listing the technologies he knows.",
+      "Instead, he explains how he uses those technologies, what responsibilities he handles, and the value he brings to the organization.",
+      "He believes that a good introduction should communicate more than just experience. It should demonstrate ownership, problem-solving ability, and an understanding of how technology supports business operations.",
+      "After all, keeping infrastructure running smoothly is often an achievement that nobody notices — until something goes wrong."
+    ],
+    "audio": [
+      {
+        "label": "Narration",
+        "src": "/lessons/the-engineer-behind-the-infrastructure/the-engineer-behind-the-infrastructure.mp3"
+      }
+    ],
+    "pdf": "/lessons/the-engineer-behind-the-infrastructure/the-engineer-behind-the-infrastructure.pdf",
+    "items": [
+      {
+        "term": "business-critical",
+        "definition": "Extremely important for the operation of a business.",
+        "en": "I manage business-critical production environments where downtime can have a significant impact.",
+        "pt": "Eu gerencio ambientes de produção críticos para o negócio, onde uma indisponibilidade pode ter um impacto significativo.",
+        "cardId": "734336b3bc"
+      },
+      {
+        "term": "day-to-day activities",
+        "definition": "The regular tasks and responsibilities involved in a job.",
+        "en": "My day-to-day activities include monitoring infrastructure and troubleshooting production issues.",
+        "pt": "Minhas atividades do dia a dia incluem monitorar a infraestrutura e resolver problemas de produção.",
+        "cardId": "0c9e75f116"
+      },
+      {
+        "term": "high availability",
+        "definition": "Ensuring that a system remains operational and accessible with minimal interruptions.",
+        "en": "One of my primary responsibilities is maintaining high availability across our production environments.",
+        "pt": "Uma das minhas principais responsabilidades é manter a alta disponibilidade dos nossos ambientes de produção.",
+        "cardId": "960e431ae9"
+      },
+      {
+        "term": "troubleshoot",
+        "definition": "To identify and resolve problems with a system or piece of equipment.",
+        "en": "I regularly troubleshoot Kubernetes-related issues in production.",
+        "pt": "Eu investigo e resolvo com frequência problemas de Kubernetes em produção.",
+        "cardId": "95e394ec43"
+      },
+      {
+        "term": "around the clock",
+        "definition": "Continuously, 24 hours a day.",
+        "en": "We maintain infrastructure that supports business operations around the clock.",
+        "pt": "Mantemos uma infraestrutura que sustenta as operações do negócio 24 horas por dia.",
+        "cardId": "25adeddb36"
+      },
+      {
+        "term": "minimize disruption",
+        "definition": "To reduce interruptions or negative effects.",
+        "en": "We carefully plan infrastructure upgrades to minimize disruption to customers.",
+        "pt": "Planejamos com cuidado as atualizações de infraestrutura para minimizar o impacto nos clientes.",
+        "cardId": "5a2d636c01"
+      },
+      {
+        "term": "play a significant role",
+        "definition": "To have an important influence or contribution.",
+        "en": "Automation plays a significant role in improving infrastructure reliability.",
+        "pt": "A automação tem um papel importante em melhorar a confiabilidade da infraestrutura.",
+        "cardId": "9a2f64fdf3"
+      },
+      {
+        "term": "repetitive tasks",
+        "definition": "Tasks that are performed repeatedly.",
+        "en": "We automate repetitive tasks to improve efficiency and reduce human error.",
+        "pt": "Automatizamos tarefas repetitivas para ganhar eficiência e reduzir o erro humano.",
+        "cardId": "4fa7b15a64"
+      },
+      {
+        "term": "collaborate with",
+        "definition": "To work together with other people towards a common goal.",
+        "en": "I regularly collaborate with developers and security engineers.",
+        "pt": "Colaboro com frequência com desenvolvedores e engenheiros de segurança.",
+        "cardId": "1aaa41a183"
+      }
+    ]
+  },
+  {
+    "slug": "the-last-train-home",
+    "kind": "story",
+    "title": "The Last Train Home",
+    "paragraphs": [
+      "The rain had been falling for almost an hour when Daniel stepped out of the café. The streets were unusually quiet, and the yellow lights reflected on the wet pavement like tiny pieces of gold. He checked his phone.",
+      "“Where are you?”",
+      "It was a message from his old friend, Alex.",
+      "Daniel smiled. They had been friends since university, nearly fifteen years. But lately, their friendship had started to fall apart. They rarely met, their conversations had become superficial, and neither of them seemed willing to talk about it.",
+      "Daniel put his phone away and started walking toward the train station.",
+      "“Daniel!”",
+      "He stopped.",
+      "Alex was standing across the street, completely soaked. His hair was dripping, and he was breathing heavily.",
+      "“You actually came,” Alex said.",
+      "“You said it was important.”",
+      "“It is.”",
+      "They stood there for a moment, listening to the rain. “I heard you're leaving tomorrow,” Alex finally said. Daniel nodded. “I'm moving to Canada.”",
+      "“I know.”",
+      "“You knew?”",
+      "“Your sister told me.”",
+      "Daniel looked away. “I was going to tell you.”",
+      "“But you didn't.”",
+      "There was an uncomfortable silence.",
+      "Alex took a deep breath. “Do you know what hurts the most? It isn't that you're leaving. It's that I found out from someone else.” Daniel felt a lump in his throat.",
+      "“I didn't know how to tell you,” he admitted. “Everything has changed between us. I thought maybe… you wouldn't care.” Alex looked at him in disbelief.",
+      "“Of course I care. You're my best friend.”",
+      "Daniel laughed quietly. “Are we? We haven't spoken properly in months.”",
+      "“That doesn't mean the friendship disappeared.”",
+      "Daniel looked at his friend. For the first time in months, neither of them was trying to hide behind small talk.",
+      "“I'll be honest,” Daniel said. “I've been avoiding you because I felt like you were judging every decision I made.”",
+      "Alex lowered his eyes.",
+      "“And I'll be honest too,” he said. “I was jealous.”",
+      "“Jealous?”",
+      "“You got the job you wanted. You're moving abroad. Your life seems to be moving forward, while mine feels stuck.”",
+      "Daniel didn't know what to say.",
+      "Then he smiled.",
+      "“You could have told me.”",
+      "“I know.”",
+      "“And I could have told you how I felt.”",
+      "“I know.”",
+      "The station announcement suddenly echoed through the street. “The final train will arrive in five minutes.”",
+      "Alex looked at Daniel.",
+      "“So… is this goodbye?”",
+      "Daniel shook his head.",
+      "“No. It's just a different chapter.”",
+      "The train arrived with a loud screech. Daniel picked up his suitcase.",
+      "Before stepping inside, he turned around.",
+      "“Alex?”",
+      "“Yeah?”",
+      "“Promise me something.”",
+      "“What?”",
+      "“Don't let distance decide whether we're friends.”",
+      "Alex smiled.",
+      "“Deal.”",
+      "The doors began to close.",
+      "Daniel watched his friend through the glass as the train slowly disappeared into the darkness.",
+      "For the first time in years, he understood something simple: a genuinely good friend isn't someone who is always there physically. It's someone who is willing to be honest, listen, forgive, and stand by you, even when life pulls you in different directions. Sometimes friendships don't end.",
+      "Sometimes, they simply grow up."
+    ],
+    "audio": [
+      {
+        "label": "Narration",
+        "src": "/lessons/the-last-train-home/the-last-train-home.mp3"
+      },
+      {
+        "label": "With emotion",
+        "src": "/lessons/the-last-train-home/the-last-train-home-emotion.mp3"
+      }
+    ],
+    "pdf": "/lessons/the-last-train-home/the-last-train-home.pdf",
+    "related": ["vocabulary-3"]
+  },
+  {
+    "slug": "vocabulary-1",
+    "kind": "vocabulary",
+    "title": "Vocabulary Reciting Exercise 1",
+    "items": [
+      {
+        "term": "instead of",
+        "en": "I decided to stay home instead of going out.",
+        "pt": "Decidi ficar em casa em vez de sair.",
+        "cardId": "51529e4424"
+      },
+      {
+        "term": "without hesitation",
+        "en": "She answered the question without hesitation.",
+        "pt": "Ela respondeu à pergunta sem hesitar.",
+        "cardId": "bfcd3bf79a"
+      },
+      {
+        "term": "second thoughts",
+        "en": "I'm having second thoughts about buying this car.",
+        "pt": "Estou repensando se compro este carro.",
+        "cardId": "bcb273b8c8"
+      },
+      {
+        "term": "notice",
+        "en": "Did you notice anything unusual?",
+        "pt": "Você notou algo fora do normal?",
+        "cardId": "430d55aa06"
+      },
+      {
+        "term": "worry about",
+        "en": "Don't worry about making mistakes.",
+        "pt": "Não se preocupe em errar.",
+        "cardId": "85c8dbdddd"
+      },
+      {
+        "term": "toward",
+        "en": "He walked toward the door.",
+        "pt": "Ele caminhou em direção à porta.",
+        "cardId": "bff68e43bc"
+      },
+      {
+        "term": "forget about",
+        "en": "I completely forgot about the meeting.",
+        "pt": "Esqueci completamente da reunião.",
+        "cardId": "8748460b8a"
+      },
+      {
+        "term": "willing",
+        "en": "She is willing to help us.",
+        "pt": "Ela está disposta a nos ajudar.",
+        "cardId": "eafb46f3ae"
+      },
+      {
+        "term": "carefully",
+        "en": "Please read the instructions carefully.",
+        "pt": "Por favor, leia as instruções com atenção.",
+        "cardId": "45e9d8a786"
+      },
+      {
+        "term": "pause",
+        "en": "Let's pause for a moment and think about it.",
+        "pt": "Vamos parar um momento e pensar nisso.",
+        "cardId": "904576e9f3"
+      },
+      {
+        "term": "shake off (a feeling)",
+        "en": "I couldn't shake off the feeling that something was wrong.",
+        "pt": "Eu não conseguia me livrar da sensação de que algo estava errado.",
+        "cardId": "edea3a7cc5"
+      },
+      {
+        "term": "tackle",
+        "en": "We need to tackle this problem together.",
+        "pt": "Precisamos encarar esse problema juntos.",
+        "cardId": "86d537ea6a"
+      },
+      {
+        "term": "handle",
+        "en": "She knows how to handle difficult situations.",
+        "pt": "Ela sabe lidar com situações difíceis.",
+        "cardId": "a6f7a89854"
+      },
+      {
+        "term": "take a step back",
+        "en": "Sometimes, it's better to take a step back and look at the situation calmly.",
+        "pt": "Às vezes é melhor dar um passo atrás e olhar a situação com calma.",
+        "cardId": "2c076c45be"
+      },
+      {
+        "term": "wary",
+        "en": "You should be wary of people you don't know.",
+        "pt": "Você deve desconfiar de pessoas que não conhece.",
+        "cardId": "2e00cec22e"
+      },
+      {
+        "term": "take the plunge",
+        "en": "I've been thinking about learning Portuguese, and I've finally decided to take the plunge.",
+        "pt": "Venho pensando em aprender português e finalmente decidi me jogar.",
+        "cardId": "5be19ca83d"
+      },
+      {
+        "term": "pay off",
+        "en": "All your hard work will eventually pay off.",
+        "pt": "Todo o seu esforço vai valer a pena no fim.",
+        "cardId": "ffb9aa797d"
+      },
+      {
+        "term": "step outside of your comfort zone",
+        "en": "Trying something new can help you step outside of your comfort zone.",
+        "pt": "Tentar algo novo pode te ajudar a sair da sua zona de conforto.",
+        "cardId": "8abec5234c"
+      }
+    ],
+    "pdf": "/lessons/vocabulary-1/vocabulary-1.pdf"
+  },
+  {
+    "slug": "vocabulary-2",
+    "kind": "vocabulary",
+    "title": "Vocabulary Reciting Exercise 2",
+    "items": [
+      {
+        "term": "take a chance",
+        "en": "I decided to take a chance and apply for the job.",
+        "pt": "Decidi arriscar e me candidatar à vaga.",
+        "cardId": "1373ccfcce"
+      },
+      {
+        "term": "sensible",
+        "en": "It would be sensible to leave early.",
+        "pt": "Seria sensato sair cedo.",
+        "cardId": "d3437f5705"
+      },
+      {
+        "term": "realize",
+        "en": "I didn't realize that it was already midnight.",
+        "pt": "Não percebi que já era meia-noite.",
+        "cardId": "0f8056056a"
+      },
+      {
+        "term": "however",
+        "en": "I wanted to go out. However, I was too tired.",
+        "pt": "Eu queria sair. Porém, estava cansado demais.",
+        "cardId": "21b2d92b5e"
+      },
+      {
+        "term": "complain",
+        "en": "She always complains about her job.",
+        "pt": "Ela sempre reclama do trabalho.",
+        "cardId": "23a4adab27"
+      },
+      {
+        "term": "blame",
+        "en": "Don't blame me for the mistake.",
+        "pt": "Não me culpe pelo erro.",
+        "cardId": "c7de2d2c98"
+      },
+      {
+        "term": "procedure",
+        "en": "We need to follow the correct procedure.",
+        "pt": "Precisamos seguir o procedimento correto.",
+        "cardId": "852040d6a6"
+      },
+      {
+        "term": "criticize",
+        "en": "Don't criticize him before hearing his side of the story.",
+        "pt": "Não critique ele antes de ouvir o lado dele da história.",
+        "cardId": "44fcb45a80"
+      },
+      {
+        "term": "aware",
+        "en": "Are you aware of the problem?",
+        "pt": "Você está ciente do problema?",
+        "cardId": "c986a82bcf"
+      }
+    ],
+    "pdf": "/lessons/vocabulary-2/vocabulary-2.pdf"
+  },
+  {
+    "slug": "vocabulary-3",
+    "kind": "vocabulary",
+    "title": "Vocabulary Reciting Exercise 3",
+    "items": [
+      {
+        "term": "tiny",
+        "definition": "Very small.",
+        "en": "She lives in a tiny house near the beach.",
+        "pt": "Ela mora numa casa minúscula perto da praia.",
+        "cardId": "86ae12c75c"
+      },
+      {
+        "term": "fall apart",
+        "definition": "To break into pieces or stop working properly; it can also mean to lose emotional control.",
+        "en": "He fell apart when he heard the heartbreaking news.",
+        "pt": "Ele desmoronou quando ouviu a notícia devastadora.",
+        "cardId": "c6698a3236"
+      },
+      {
+        "term": "come across",
+        "definition": "To find or discover something by chance.",
+        "en": "I came across an interesting book while cleaning my room.",
+        "pt": "Encontrei por acaso um livro interessante enquanto arrumava meu quarto.",
+        "cardId": "02b6b52e0d"
+      },
+      {
+        "term": "soak",
+        "definition": "To make something completely wet by putting it in liquid.",
+        "en": "She soaked her clothes in water before washing them.",
+        "pt": "Ela deixou as roupas de molho na água antes de lavá-las.",
+        "cardId": "2c19967afc"
+      },
+      {
+        "term": "drip",
+        "definition": "To fall in small drops of liquid.",
+        "en": "Water was dripping from the kitchen tap.",
+        "pt": "A água estava pingando da torneira da cozinha.",
+        "cardId": "75d27a149b"
+      },
+      {
+        "term": "nod",
+        "definition": "To move your head up and down to show agreement or understanding.",
+        "en": "He nodded his head to show that he understood the instructions.",
+        "pt": "Ele acenou com a cabeça para mostrar que tinha entendido as instruções.",
+        "cardId": "ada3af74de"
+      },
+      {
+        "term": "breathing heavily",
+        "definition": "Breathing quickly and deeply, usually because of physical effort or strong emotions.",
+        "en": "He was breathing heavily after running up the stairs.",
+        "pt": "Ele estava ofegante depois de subir a escada correndo.",
+        "cardId": "df9899c157"
+      },
+      {
+        "term": "a lump in someone's throat",
+        "definition": "A feeling in the throat that happens when someone is about to cry or feels strong emotions.",
+        "en": "I had a lump in my throat when I said goodbye to my best friend.",
+        "pt": "Fiquei com um nó na garganta quando me despedi do meu melhor amigo.",
+        "cardId": "f267cfaa6e"
+      },
+      {
+        "term": "disbelief",
+        "definition": "A feeling of being unable to believe something because it is surprising or shocking.",
+        "en": "She stared at the message in disbelief when she learned that she had won the competition.",
+        "pt": "Ela olhou para a mensagem sem acreditar quando soube que tinha vencido a competição.",
+        "cardId": "44616ddbf2"
+      }
+    ],
+    "pdf": "/lessons/vocabulary-3/vocabulary-3.pdf"
+  }
+]

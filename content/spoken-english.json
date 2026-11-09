@@ -1,0 +1,287 @@
+{
+  "_comment": "Spoken English course (Vinayak K Ramachandran), published with the author's permission. What the PDFs cannot give reliably is curated here: the vocabulary exercises (three layouts), the story extras (blanks with their answers, discussion questions, vocabulary lists) and text fixes. Each vocabulary item becomes a card: pt is the prompt (our translation), en the course's example.",
+  "stories": {
+    "the-decision-that-changed-everything": {
+      "related": ["vocabulary-1", "vocabulary-2"],
+      "blanks": [
+        { "answer": "paused", "meaning": "stopped briefly before doing or saying something" },
+        { "answer": "shake off", "meaning": "get rid of a feeling, thought or problem" },
+        { "answer": "take the plunge", "meaning": "finally decide to do something difficult or risky" },
+        { "answer": "wary", "meaning": "cautious because you are aware of possible problems or danger" },
+        { "answer": "handle", "meaning": "deal with or manage something" },
+        { "answer": "took a step back", "meaning": "stopped and considered a situation more calmly" },
+        {
+          "answer": "tackle problems head-on",
+          "meaning": "deal with problems directly rather than avoiding them"
+        },
+        { "answer": "paid off", "meaning": "produced a good result after effort or difficulty" },
+        { "answer": "step outside our comfort zone", "meaning": "do something unfamiliar or challenging" }
+      ],
+      "questions": [
+        "Have you ever had to take the plunge and make a difficult decision?",
+        "Are you generally comfortable stepping outside your comfort zone? Why or why not?",
+        "How do you usually handle problems when you're under pressure?",
+        "Do you think making mistakes is necessary for personal growth?",
+        "What is something you've done recently that eventually paid off?"
+      ]
+    },
+    "the-engineer-behind-the-infrastructure": {
+      "fixes": [["problemsolving", "problem-solving"]],
+      "vocabulary": [
+        {
+          "term": "business-critical",
+          "definition": "Extremely important for the operation of a business.",
+          "en": "I manage business-critical production environments where downtime can have a significant impact.",
+          "pt": "Eu gerencio ambientes de produção críticos para o negócio, onde uma indisponibilidade pode ter um impacto significativo."
+        },
+        {
+          "term": "day-to-day activities",
+          "definition": "The regular tasks and responsibilities involved in a job.",
+          "en": "My day-to-day activities include monitoring infrastructure and troubleshooting production issues.",
+          "pt": "Minhas atividades do dia a dia incluem monitorar a infraestrutura e resolver problemas de produção."
+        },
+        {
+          "term": "high availability",
+          "definition": "Ensuring that a system remains operational and accessible with minimal interruptions.",
+          "en": "One of my primary responsibilities is maintaining high availability across our production environments.",
+          "pt": "Uma das minhas principais responsabilidades é manter a alta disponibilidade dos nossos ambientes de produção."
+        },
+        {
+          "term": "troubleshoot",
+          "definition": "To identify and resolve problems with a system or piece of equipment.",
+          "en": "I regularly troubleshoot Kubernetes-related issues in production.",
+          "pt": "Eu investigo e resolvo com frequência problemas de Kubernetes em produção."
+        },
+        {
+          "term": "around the clock",
+          "definition": "Continuously, 24 hours a day.",
+          "en": "We maintain infrastructure that supports business operations around the clock.",
+          "pt": "Mantemos uma infraestrutura que sustenta as operações do negócio 24 horas por dia."
+        },
+        {
+          "term": "minimize disruption",
+          "definition": "To reduce interruptions or negative effects.",
+          "en": "We carefully plan infrastructure upgrades to minimize disruption to customers.",
+          "pt": "Planejamos com cuidado as atualizações de infraestrutura para minimizar o impacto nos clientes."
+        },
+        {
+          "term": "play a significant role",
+          "definition": "To have an important influence or contribution.",
+          "en": "Automation plays a significant role in improving infrastructure reliability.",
+          "pt": "A automação tem um papel importante em melhorar a confiabilidade da infraestrutura."
+        },
+        {
+          "term": "repetitive tasks",
+          "definition": "Tasks that are performed repeatedly.",
+          "en": "We automate repetitive tasks to improve efficiency and reduce human error.",
+          "pt": "Automatizamos tarefas repetitivas para ganhar eficiência e reduzir o erro humano."
+        },
+        {
+          "term": "collaborate with",
+          "definition": "To work together with other people towards a common goal.",
+          "en": "I regularly collaborate with developers and security engineers.",
+          "pt": "Colaboro com frequência com desenvolvedores e engenheiros de segurança."
+        }
+      ]
+    },
+    "the-last-train-home": {
+      "related": ["vocabulary-3"]
+    }
+  },
+  "lessons": [
+    {
+      "slug": "vocabulary-1",
+      "title": "Vocabulary Reciting Exercise 1",
+      "pdf": "Vocabulary Reciting Exercise 1.pdf",
+      "items": [
+        {
+          "term": "instead of",
+          "en": "I decided to stay home instead of going out.",
+          "pt": "Decidi ficar em casa em vez de sair."
+        },
+        {
+          "term": "without hesitation",
+          "en": "She answered the question without hesitation.",
+          "pt": "Ela respondeu à pergunta sem hesitar."
+        },
+        {
+          "term": "second thoughts",
+          "en": "I'm having second thoughts about buying this car.",
+          "pt": "Estou repensando se compro este carro."
+        },
+        {
+          "term": "notice",
+          "en": "Did you notice anything unusual?",
+          "pt": "Você notou algo fora do normal?"
+        },
+        {
+          "term": "worry about",
+          "en": "Don't worry about making mistakes.",
+          "pt": "Não se preocupe em errar."
+        },
+        { "term": "toward", "en": "He walked toward the door.", "pt": "Ele caminhou em direção à porta." },
+        {
+          "term": "forget about",
+          "en": "I completely forgot about the meeting.",
+          "pt": "Esqueci completamente da reunião."
+        },
+        { "term": "willing", "en": "She is willing to help us.", "pt": "Ela está disposta a nos ajudar." },
+        {
+          "term": "carefully",
+          "en": "Please read the instructions carefully.",
+          "pt": "Por favor, leia as instruções com atenção."
+        },
+        {
+          "term": "pause",
+          "en": "Let's pause for a moment and think about it.",
+          "pt": "Vamos parar um momento e pensar nisso."
+        },
+        {
+          "term": "shake off (a feeling)",
+          "en": "I couldn't shake off the feeling that something was wrong.",
+          "pt": "Eu não conseguia me livrar da sensação de que algo estava errado."
+        },
+        {
+          "term": "tackle",
+          "en": "We need to tackle this problem together.",
+          "pt": "Precisamos encarar esse problema juntos."
+        },
+        {
+          "term": "handle",
+          "en": "She knows how to handle difficult situations.",
+          "pt": "Ela sabe lidar com situações difíceis."
+        },
+        {
+          "term": "take a step back",
+          "en": "Sometimes, it's better to take a step back and look at the situation calmly.",
+          "pt": "Às vezes é melhor dar um passo atrás e olhar a situação com calma."
+        },
+        {
+          "term": "wary",
+          "en": "You should be wary of people you don't know.",
+          "pt": "Você deve desconfiar de pessoas que não conhece."
+        },
+        {
+          "term": "take the plunge",
+          "en": "I've been thinking about learning Portuguese, and I've finally decided to take the plunge.",
+          "pt": "Venho pensando em aprender português e finalmente decidi me jogar."
+        },
+        {
+          "term": "pay off",
+          "en": "All your hard work will eventually pay off.",
+          "pt": "Todo o seu esforço vai valer a pena no fim."
+        },
+        {
+          "term": "step outside of your comfort zone",
+          "en": "Trying something new can help you step outside of your comfort zone.",
+          "pt": "Tentar algo novo pode te ajudar a sair da sua zona de conforto."
+        }
+      ]
+    },
+    {
+      "slug": "vocabulary-2",
+      "title": "Vocabulary Reciting Exercise 2",
+      "pdf": "Vocabulary Reciting Exercise 2.pdf",
+      "items": [
+        {
+          "term": "take a chance",
+          "en": "I decided to take a chance and apply for the job.",
+          "pt": "Decidi arriscar e me candidatar à vaga."
+        },
+        {
+          "term": "sensible",
+          "en": "It would be sensible to leave early.",
+          "pt": "Seria sensato sair cedo."
+        },
+        {
+          "term": "realize",
+          "en": "I didn't realize that it was already midnight.",
+          "pt": "Não percebi que já era meia-noite."
+        },
+        {
+          "term": "however",
+          "en": "I wanted to go out. However, I was too tired.",
+          "pt": "Eu queria sair. Porém, estava cansado demais."
+        },
+        {
+          "term": "complain",
+          "en": "She always complains about her job.",
+          "pt": "Ela sempre reclama do trabalho."
+        },
+        { "term": "blame", "en": "Don't blame me for the mistake.", "pt": "Não me culpe pelo erro." },
+        {
+          "term": "procedure",
+          "en": "We need to follow the correct procedure.",
+          "pt": "Precisamos seguir o procedimento correto."
+        },
+        {
+          "term": "criticize",
+          "en": "Don't criticize him before hearing his side of the story.",
+          "pt": "Não critique ele antes de ouvir o lado dele da história."
+        },
+        { "term": "aware", "en": "Are you aware of the problem?", "pt": "Você está ciente do problema?" }
+      ]
+    },
+    {
+      "slug": "vocabulary-3",
+      "title": "Vocabulary Reciting Exercise 3",
+      "pdf": "Vocabulary Reciting Exercise 3.pdf",
+      "items": [
+        {
+          "term": "tiny",
+          "definition": "Very small.",
+          "en": "She lives in a tiny house near the beach.",
+          "pt": "Ela mora numa casa minúscula perto da praia."
+        },
+        {
+          "term": "fall apart",
+          "definition": "To break into pieces or stop working properly; it can also mean to lose emotional control.",
+          "en": "He fell apart when he heard the heartbreaking news.",
+          "pt": "Ele desmoronou quando ouviu a notícia devastadora."
+        },
+        {
+          "term": "come across",
+          "definition": "To find or discover something by chance.",
+          "en": "I came across an interesting book while cleaning my room.",
+          "pt": "Encontrei por acaso um livro interessante enquanto arrumava meu quarto."
+        },
+        {
+          "term": "soak",
+          "definition": "To make something completely wet by putting it in liquid.",
+          "en": "She soaked her clothes in water before washing them.",
+          "pt": "Ela deixou as roupas de molho na água antes de lavá-las."
+        },
+        {
+          "term": "drip",
+          "definition": "To fall in small drops of liquid.",
+          "en": "Water was dripping from the kitchen tap.",
+          "pt": "A água estava pingando da torneira da cozinha."
+        },
+        {
+          "term": "nod",
+          "definition": "To move your head up and down to show agreement or understanding.",
+          "en": "He nodded his head to show that he understood the instructions.",
+          "pt": "Ele acenou com a cabeça para mostrar que tinha entendido as instruções."
+        },
+        {
+          "term": "breathing heavily",
+          "definition": "Breathing quickly and deeply, usually because of physical effort or strong emotions.",
+          "en": "He was breathing heavily after running up the stairs.",
+          "pt": "Ele estava ofegante depois de subir a escada correndo."
+        },
+        {
+          "term": "a lump in someone's throat",
+          "definition": "A feeling in the throat that happens when someone is about to cry or feels strong emotions.",
+          "en": "I had a lump in my throat when I said goodbye to my best friend.",
+          "pt": "Fiquei com um nó na garganta quando me despedi do meu melhor amigo."
+        },
+        {
+          "term": "disbelief",
+          "definition": "A feeling of being unable to believe something because it is surprising or shocking.",
+          "en": "She stared at the message in disbelief when she learned that she had won the competition.",
+          "pt": "Ela olhou para a mensagem sem acreditar quando soube que tinha vencido a competição."
+        }
+      ]
+    }
+  ]
+}

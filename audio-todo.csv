@@ -1,0 +1,136 @@
+id,en
+8856c7deed,I went blank in the standup.
+176a981ce3,"By the time they asked, my mind had gone blank."
+1686f78dda,"Whenever the deploy fails, Slack notifies the team."
+ea0bc69807,"Whenever I got stuck, I asked for help."
+a7276c39da,I go to the gym every other day.
+958cd4246f,We deploy every other week.
+1be932083a,"Even though I studied, I went blank."
+3e406b8b93,"Even though I had tested it, it broke in production."
+a12bd1b673,I'm looking forward to the release.
+c3477dbc8c,I look forward to hearing from you.
+0f38b4186b,"Write it down, otherwise you'll forget."
+793fdb164c,I restarted the pod; otherwise it would have crashed.
+4fff5d9fa7,I was struggling to explain the bug.
+e66da7dfa5,I've been struggling with this deploy all morning.
+e46554cfb6,"Instead of fixing it, he rewrote the module."
+7f694f6674,"The meeting was cancelled, so I wrote docs instead."
+926910e7cd,I've only been there once.
+6d781c2f88,"Once the pipeline finishes, we can deploy."
+236d07e080,I'm wrapping up the report now.
+340028ae17,By 6 p.m. I had wrapped up everything.
+9cc4fca1ac,We review the security alerts on a daily basis.
+01815ffbd6,I've been practicing English on a daily basis.
+f77421f6ff,I need to catch up on my emails.
+789b3f7b7a,By Friday I had caught up on everything.
+1443435ae4,I'm not sure whether the deploy will work.
+e6ef9bcfe5,We hadn't decided whether to roll back or wait.
+52a195fa31,I'm working toward a promotion.
+6da9b376fd,She had worked toward this for years.
+9cc2a86841,I'm having second thoughts about this migration.
+41b1802938,He had second thoughts right before the release.
+69877de709,I'm willing to work on the weekend if needed.
+607213d3a1,She had never been willing to take that risk before.
+892da45de1,I can't shake off this feeling that we missed something.
+1ea4b70be4,By Monday he had shaken off the doubt.
+2d7363c9af,I'll take a chance and deploy on a Friday.
+961510c70e,She took a chance and switched careers.
+7ded8cc024,We avoid deploying without tests.
+4b4b5fa291,I had avoided that library for years.
+746b4a5e9f,"The fix worked; however, it broke another service."
+179449fae3,"I tested it locally; however, staging failed."
+11a6a12120,The client complained about the outage.
+d8269f49b7,He's always complaining about the pipeline being slow.
+9caecab815,Don't blame the intern for the outage.
+049a376b5c,They had blamed the wrong service at first.
+6e2aa5f9b3,"In fact, the bug was in the config, not the code."
+c6837485ae,"I thought it was fixed; in fact, it wasn't."
+2fed8cda8a,This service is no longer supported.
+c3ffacd2b9,He was no longer afraid of pushing to prod.
+5de67e56b8,I'm stepping outside my comfort zone by presenting in English.
+341e629968,She stepped outside her comfort zone and led the migration.
+63ef11e86d,I want to build a career in DevOps.
+3d2750eae0,She had built her whole career around SRE.
+bd965f7137,I notice a pattern in these errors.
+945b0dce1d,Nobody had noticed the memory leak until now.
+a1d5298c3a,The service is completely down.
+4ed81471f0,I had completely forgotten about the migration.
+51728e1a13,That's a sensible approach to rollbacks.
+dd594a1239,It had been a sensible decision after all.
+9f1ff2ac8f,You have a point about the timeout value.
+768abfc6d0,He had a point when he questioned the design.
+58aa8398ad,Follow the incident response procedure.
+252aee28cb,We had never documented that procedure before.
+f42ee2f16c,Don't criticize the fix without reading the PR.
+de21a9a0f6,He had criticized the design before seeing the data.
+3c1c9a67ec,I'm wary of deploying without a rollback plan.
+7c7e70dd1e,She had always been wary of untested code.
+7aa9cda7f5,I finally took the plunge and migrated to Kubernetes.
+c2aeeece56,We're taking the plunge and switching cloud providers.
+273f3e2f19,I handle the on-call rotation this week.
+6efbff6b20,She had handled worse incidents before.
+8f62fe1171,Let's take a step back and rethink the architecture.
+1241f3c248,He took a step back before blaming anyone.
+eb3c57ff9a,We tackle problems head-on instead of ignoring them.
+509755a083,She tackled the outage head-on.
+57e5b3b6ee,This refactor will pay off in the long run.
+281d16baa6,The extra testing had paid off during the release.
+3054fea938,I'll keep you posted on the deploy status.
+370ad5656a,She kept the team posted throughout the incident.
+a169ca1150,Have you come across this problem before?
+977b30040f,I came across a great article about Kubernetes yesterday.
+86ae12c75c,She lives in a tiny house near the beach.
+18d852a757,The bug was in a tiny line of config that nobody had noticed.
+c6698a3236,He fell apart when he heard the heartbreaking news.
+b717fa0646,The deployment is falling apart and we don't know why.
+2c19967afc,She soaked her clothes in water before washing them.
+feab859919,"I had been walking in the rain, so I was soaked when I got to the office."
+75d27a149b,Water was dripping from the kitchen tap.
+b05d2ed28b,Sweat dripped from his forehead during the demo.
+ada3af74de,He nodded his head to show that he understood the instructions.
+e0a166b8e1,She is nodding her head while I explain the plan.
+df9899c157,He was breathing heavily after running up the stairs.
+e9c42ac5d3,I always breathe heavily when I climb these stairs.
+f267cfaa6e,I had a lump in my throat when I said goodbye to my best friend.
+c1963d5e57,He gets a lump in his throat every time he talks about his father.
+44616ddbf2,She stared at the message in disbelief when she learned that she had won the competition.
+cdf2606b79,I'm still in disbelief that we shipped on time.
+0790e4de68,I had meetings throughout the day.
+a3060414a7,The outage has affected customers throughout the country.
+734336b3bc,I manage business-critical production environments where downtime can have a significant impact.
+0c9e75f116,My day-to-day activities include monitoring infrastructure and troubleshooting production issues.
+960e431ae9,One of my primary responsibilities is maintaining high availability across our production environments.
+95e394ec43,I regularly troubleshoot Kubernetes-related issues in production.
+25adeddb36,We maintain infrastructure that supports business operations around the clock.
+5a2d636c01,We carefully plan infrastructure upgrades to minimize disruption to customers.
+9a2f64fdf3,Automation plays a significant role in improving infrastructure reliability.
+4fa7b15a64,We automate repetitive tasks to improve efficiency and reduce human error.
+1aaa41a183,I regularly collaborate with developers and security engineers.
+51529e4424,I decided to stay home instead of going out.
+bfcd3bf79a,She answered the question without hesitation.
+bcb273b8c8,I'm having second thoughts about buying this car.
+430d55aa06,Did you notice anything unusual?
+85c8dbdddd,Don't worry about making mistakes.
+bff68e43bc,He walked toward the door.
+8748460b8a,I completely forgot about the meeting.
+eafb46f3ae,She is willing to help us.
+45e9d8a786,Please read the instructions carefully.
+904576e9f3,Let's pause for a moment and think about it.
+edea3a7cc5,I couldn't shake off the feeling that something was wrong.
+86d537ea6a,We need to tackle this problem together.
+a6f7a89854,She knows how to handle difficult situations.
+2c076c45be,"Sometimes, it's better to take a step back and look at the situation calmly."
+2e00cec22e,You should be wary of people you don't know.
+5be19ca83d,"I've been thinking about learning Portuguese, and I've finally decided to take the plunge."
+ffb9aa797d,All your hard work will eventually pay off.
+8abec5234c,Trying something new can help you step outside of your comfort zone.
+1373ccfcce,I decided to take a chance and apply for the job.
+d3437f5705,It would be sensible to leave early.
+0f8056056a,I didn't realize that it was already midnight.
+21b2d92b5e,"I wanted to go out. However, I was too tired."
+23a4adab27,She always complains about her job.
+c7de2d2c98,Don't blame me for the mistake.
+852040d6a6,We need to follow the correct procedure.
+44fcb45a80,Don't criticize him before hearing his side of the story.
+c986a82bcf,Are you aware of the problem?
+02b6b52e0d,I came across an interesting book while cleaning my room.

@@ -1,0 +1,1085 @@
+[
+  {
+    "id": "8856c7deed",
+    "pt": "Dei um branco na daily.",
+    "en": "I went blank in the standup.",
+    "notes": ["go / went / gone"],
+    "sources": ["obsidian:1"],
+    "audio": false
+  },
+  {
+    "id": "176a981ce3",
+    "pt": "Quando me perguntaram, minha cabeça já tinha dado um branco.",
+    "en": "By the time they asked, my mind had gone blank.",
+    "notes": ["go / went / gone"],
+    "sources": ["obsidian:2"],
+    "audio": false
+  },
+  {
+    "id": "1686f78dda",
+    "pt": "Sempre que o deploy falha, o Slack avisa o time.",
+    "en": "Whenever the deploy fails, Slack notifies the team.",
+    "notes": [],
+    "sources": ["obsidian:3"],
+    "audio": false
+  },
+  {
+    "id": "ea0bc69807",
+    "pt": "Toda vez que eu travava, eu pedia ajuda.",
+    "en": "Whenever I got stuck, I asked for help.",
+    "notes": [],
+    "sources": ["obsidian:4"],
+    "audio": false
+  },
+  {
+    "id": "a7276c39da",
+    "pt": "Vou à academia dia sim, dia não.",
+    "en": "I go to the gym every other day.",
+    "notes": [],
+    "sources": ["obsidian:5"],
+    "audio": false
+  },
+  {
+    "id": "958cd4246f",
+    "pt": "A gente faz deploy semana sim, semana não.",
+    "en": "We deploy every other week.",
+    "notes": [],
+    "sources": ["obsidian:6"],
+    "audio": false
+  },
+  {
+    "id": "1be932083a",
+    "pt": "Embora eu tivesse estudado, dei um branco.",
+    "en": "Even though I studied, I went blank.",
+    "notes": [],
+    "sources": ["obsidian:7"],
+    "audio": false
+  },
+  {
+    "id": "3e406b8b93",
+    "pt": "Apesar de eu ter testado, quebrou em produção.",
+    "en": "Even though I had tested it, it broke in production.",
+    "notes": [],
+    "sources": ["obsidian:8"],
+    "audio": false
+  },
+  {
+    "id": "a12bd1b673",
+    "pt": "Estou ansioso pelo release.",
+    "en": "I'm looking forward to the release.",
+    "notes": [],
+    "sources": ["obsidian:9"],
+    "audio": false
+  },
+  {
+    "id": "c3477dbc8c",
+    "pt": "Fico no aguardo do seu retorno.",
+    "en": "I look forward to hearing from you.",
+    "notes": [],
+    "sources": ["obsidian:10"],
+    "audio": false
+  },
+  {
+    "id": "0f38b4186b",
+    "pt": "Anota, senão você vai esquecer.",
+    "en": "Write it down, otherwise you'll forget.",
+    "notes": [],
+    "sources": ["obsidian:11"],
+    "audio": false
+  },
+  {
+    "id": "793fdb164c",
+    "pt": "Reiniciei o pod; caso contrário, teria caído.",
+    "en": "I restarted the pod; otherwise it would have crashed.",
+    "notes": [],
+    "sources": ["obsidian:12"],
+    "audio": false
+  },
+  {
+    "id": "4fff5d9fa7",
+    "pt": "Eu estava penando para explicar o bug.",
+    "en": "I was struggling to explain the bug.",
+    "notes": [],
+    "sources": ["obsidian:13"],
+    "audio": false
+  },
+  {
+    "id": "e66da7dfa5",
+    "pt": "Estou tendo dificuldade com esse deploy a manhã toda.",
+    "en": "I've been struggling with this deploy all morning.",
+    "notes": [],
+    "sources": ["obsidian:14"],
+    "audio": false
+  },
+  {
+    "id": "e46554cfb6",
+    "pt": "Em vez de corrigir, ele reescreveu o módulo.",
+    "en": "Instead of fixing it, he rewrote the module.",
+    "notes": [],
+    "sources": ["obsidian:15"],
+    "audio": false
+  },
+  {
+    "id": "7f694f6674",
+    "pt": "A reunião foi cancelada, então escrevi documentação em vez disso.",
+    "en": "The meeting was cancelled, so I wrote docs instead.",
+    "notes": [],
+    "sources": ["obsidian:16"],
+    "audio": false
+  },
+  {
+    "id": "926910e7cd",
+    "pt": "Só estive lá uma vez.",
+    "en": "I've only been there once.",
+    "notes": [],
+    "sources": ["obsidian:17"],
+    "audio": false
+  },
+  {
+    "id": "6d781c2f88",
+    "pt": "Assim que o pipeline terminar, podemos fazer o deploy.",
+    "en": "Once the pipeline finishes, we can deploy.",
+    "notes": [],
+    "sources": ["obsidian:18"],
+    "audio": false
+  },
+  {
+    "id": "236d07e080",
+    "pt": "Estou finalizando o relatório agora.",
+    "en": "I'm wrapping up the report now.",
+    "notes": [],
+    "sources": ["obsidian:19"],
+    "audio": false
+  },
+  {
+    "id": "340028ae17",
+    "pt": "Às 18h eu já tinha finalizado tudo.",
+    "en": "By 6 p.m. I had wrapped up everything.",
+    "notes": [],
+    "sources": ["obsidian:20"],
+    "audio": false
+  },
+  {
+    "id": "9cc4fca1ac",
+    "pt": "Revisamos os alertas de segurança diariamente.",
+    "en": "We review the security alerts on a daily basis.",
+    "notes": [],
+    "sources": ["obsidian:21"],
+    "audio": false
+  },
+  {
+    "id": "01815ffbd6",
+    "pt": "Tenho praticado inglês todo dia.",
+    "en": "I've been practicing English on a daily basis.",
+    "notes": [],
+    "sources": ["obsidian:22"],
+    "audio": false
+  },
+  {
+    "id": "f77421f6ff",
+    "pt": "Preciso colocar meus e-mails em dia.",
+    "en": "I need to catch up on my emails.",
+    "notes": ["catch / caught / caught"],
+    "sources": ["obsidian:23"],
+    "audio": false
+  },
+  {
+    "id": "789b3f7b7a",
+    "pt": "Até sexta eu já tinha colocado tudo em dia.",
+    "en": "By Friday I had caught up on everything.",
+    "notes": ["catch / caught / caught"],
+    "sources": ["obsidian:24"],
+    "audio": false
+  },
+  {
+    "id": "1443435ae4",
+    "pt": "Não tenho certeza se o deploy vai funcionar.",
+    "en": "I'm not sure whether the deploy will work.",
+    "notes": [],
+    "sources": ["obsidian:25"],
+    "audio": false
+  },
+  {
+    "id": "e6ef9bcfe5",
+    "pt": "Não tínhamos decidido se fazíamos rollback ou esperávamos.",
+    "en": "We hadn't decided whether to roll back or wait.",
+    "notes": [],
+    "sources": ["obsidian:26"],
+    "audio": false
+  },
+  {
+    "id": "52a195fa31",
+    "pt": "Estou trabalhando em direção a uma promoção.",
+    "en": "I'm working toward a promotion.",
+    "notes": [],
+    "sources": ["obsidian:27"],
+    "audio": false
+  },
+  {
+    "id": "6da9b376fd",
+    "pt": "Ela tinha trabalhado nisso por anos.",
+    "en": "She had worked toward this for years.",
+    "notes": [],
+    "sources": ["obsidian:28"],
+    "audio": false
+  },
+  {
+    "id": "9cc2a86841",
+    "pt": "Estou reconsiderando essa migração.",
+    "en": "I'm having second thoughts about this migration.",
+    "notes": ["have / had / had"],
+    "sources": ["obsidian:29"],
+    "audio": false
+  },
+  {
+    "id": "41b1802938",
+    "pt": "Ele ficou em dúvida bem antes do release.",
+    "en": "He had second thoughts right before the release.",
+    "notes": ["have / had / had"],
+    "sources": ["obsidian:30"],
+    "audio": false
+  },
+  {
+    "id": "69877de709",
+    "pt": "Estou disposto a trabalhar no fim de semana se precisar.",
+    "en": "I'm willing to work on the weekend if needed.",
+    "notes": ["be / was-were / been"],
+    "sources": ["obsidian:31"],
+    "audio": false
+  },
+  {
+    "id": "607213d3a1",
+    "pt": "Ela nunca tinha estado disposta a correr esse risco.",
+    "en": "She had never been willing to take that risk before.",
+    "notes": ["be / was-were / been"],
+    "sources": ["obsidian:32"],
+    "audio": false
+  },
+  {
+    "id": "892da45de1",
+    "pt": "Não consigo me livrar dessa sensação de que faltou algo.",
+    "en": "I can't shake off this feeling that we missed something.",
+    "notes": ["shake / shook / shaken"],
+    "sources": ["obsidian:33"],
+    "audio": false
+  },
+  {
+    "id": "1ea4b70be4",
+    "pt": "Na segunda ele já tinha se livrado da dúvida.",
+    "en": "By Monday he had shaken off the doubt.",
+    "notes": ["shake / shook / shaken"],
+    "sources": ["obsidian:34"],
+    "audio": false
+  },
+  {
+    "id": "2d7363c9af",
+    "pt": "Vou me arriscar e fazer deploy numa sexta.",
+    "en": "I'll take a chance and deploy on a Friday.",
+    "notes": ["take / took / taken"],
+    "sources": ["obsidian:35"],
+    "audio": false
+  },
+  {
+    "id": "961510c70e",
+    "pt": "Ela se arriscou e mudou de carreira.",
+    "en": "She took a chance and switched careers.",
+    "notes": ["take / took / taken"],
+    "sources": ["obsidian:36"],
+    "audio": false
+  },
+  {
+    "id": "7ded8cc024",
+    "pt": "A gente evita fazer deploy sem testes.",
+    "en": "We avoid deploying without tests.",
+    "notes": [],
+    "sources": ["obsidian:37"],
+    "audio": false
+  },
+  {
+    "id": "4b4b5fa291",
+    "pt": "Eu tinha evitado aquela biblioteca por anos.",
+    "en": "I had avoided that library for years.",
+    "notes": [],
+    "sources": ["obsidian:38"],
+    "audio": false
+  },
+  {
+    "id": "746b4a5e9f",
+    "pt": "O fix funcionou; entretanto, quebrou outro serviço.",
+    "en": "The fix worked; however, it broke another service.",
+    "notes": [],
+    "sources": ["obsidian:39"],
+    "audio": false
+  },
+  {
+    "id": "179449fae3",
+    "pt": "Testei localmente; porém, o staging falhou.",
+    "en": "I tested it locally; however, staging failed.",
+    "notes": [],
+    "sources": ["obsidian:40"],
+    "audio": false
+  },
+  {
+    "id": "11a6a12120",
+    "pt": "O cliente reclamou da queda.",
+    "en": "The client complained about the outage.",
+    "notes": [],
+    "sources": ["obsidian:41"],
+    "audio": false
+  },
+  {
+    "id": "d8269f49b7",
+    "pt": "Ele vive reclamando que o pipeline é lento.",
+    "en": "He's always complaining about the pipeline being slow.",
+    "notes": [],
+    "sources": ["obsidian:42"],
+    "audio": false
+  },
+  {
+    "id": "9caecab815",
+    "pt": "Não culpe o estagiário pela queda.",
+    "en": "Don't blame the intern for the outage.",
+    "notes": [],
+    "sources": ["obsidian:43"],
+    "audio": false
+  },
+  {
+    "id": "049a376b5c",
+    "pt": "Eles tinham culpado o serviço errado no início.",
+    "en": "They had blamed the wrong service at first.",
+    "notes": [],
+    "sources": ["obsidian:44"],
+    "audio": false
+  },
+  {
+    "id": "6e2aa5f9b3",
+    "pt": "Na verdade, o bug estava na config, não no código.",
+    "en": "In fact, the bug was in the config, not the code.",
+    "notes": [],
+    "sources": ["obsidian:45"],
+    "audio": false
+  },
+  {
+    "id": "c6837485ae",
+    "pt": "Achei que estava corrigido; na verdade, não estava.",
+    "en": "I thought it was fixed; in fact, it wasn't.",
+    "notes": [],
+    "sources": ["obsidian:46"],
+    "audio": false
+  },
+  {
+    "id": "2fed8cda8a",
+    "pt": "Esse serviço já não é mais suportado.",
+    "en": "This service is no longer supported.",
+    "notes": [],
+    "sources": ["obsidian:47"],
+    "audio": false
+  },
+  {
+    "id": "c3ffacd2b9",
+    "pt": "Ele já não tinha medo de dar push em prod.",
+    "en": "He was no longer afraid of pushing to prod.",
+    "notes": [],
+    "sources": ["obsidian:48"],
+    "audio": false
+  },
+  {
+    "id": "5de67e56b8",
+    "pt": "Estou saindo da minha zona de conforto ao apresentar em inglês.",
+    "en": "I'm stepping outside my comfort zone by presenting in English.",
+    "notes": [],
+    "sources": ["obsidian:49"],
+    "audio": false
+  },
+  {
+    "id": "341e629968",
+    "pt": "Ela saiu da zona de conforto e liderou a migração.",
+    "en": "She stepped outside her comfort zone and led the migration.",
+    "notes": [],
+    "sources": ["obsidian:50"],
+    "audio": false
+  },
+  {
+    "id": "63ef11e86d",
+    "pt": "Quero construir uma carreira em DevOps.",
+    "en": "I want to build a career in DevOps.",
+    "notes": [],
+    "sources": ["obsidian:51"],
+    "audio": false
+  },
+  {
+    "id": "3d2750eae0",
+    "pt": "Ela tinha construído toda a carreira em torno de SRE.",
+    "en": "She had built her whole career around SRE.",
+    "notes": [],
+    "sources": ["obsidian:52"],
+    "audio": false
+  },
+  {
+    "id": "bd965f7137",
+    "pt": "Eu percebo um padrão nesses erros.",
+    "en": "I notice a pattern in these errors.",
+    "notes": [],
+    "sources": ["obsidian:53"],
+    "audio": false
+  },
+  {
+    "id": "945b0dce1d",
+    "pt": "Ninguém tinha percebido o vazamento de memória até agora.",
+    "en": "Nobody had noticed the memory leak until now.",
+    "notes": [],
+    "sources": ["obsidian:54"],
+    "audio": false
+  },
+  {
+    "id": "a1d5298c3a",
+    "pt": "O serviço está completamente fora do ar.",
+    "en": "The service is completely down.",
+    "notes": [],
+    "sources": ["obsidian:55"],
+    "audio": false
+  },
+  {
+    "id": "4ed81471f0",
+    "pt": "Eu tinha esquecido completamente da migração.",
+    "en": "I had completely forgotten about the migration.",
+    "notes": [],
+    "sources": ["obsidian:56"],
+    "audio": false
+  },
+  {
+    "id": "51728e1a13",
+    "pt": "Essa é uma abordagem sensata para rollbacks.",
+    "en": "That's a sensible approach to rollbacks.",
+    "notes": [],
+    "sources": ["obsidian:57"],
+    "audio": false
+  },
+  {
+    "id": "dd594a1239",
+    "pt": "Tinha sido uma decisão sensata, afinal.",
+    "en": "It had been a sensible decision after all.",
+    "notes": [],
+    "sources": ["obsidian:58"],
+    "audio": false
+  },
+  {
+    "id": "9f1ff2ac8f",
+    "pt": "Você tem razão sobre o valor do timeout.",
+    "en": "You have a point about the timeout value.",
+    "notes": ["have / had / had"],
+    "sources": ["obsidian:59"],
+    "audio": false
+  },
+  {
+    "id": "768abfc6d0",
+    "pt": "Ele tinha razão quando questionou o design.",
+    "en": "He had a point when he questioned the design.",
+    "notes": ["have / had / had"],
+    "sources": ["obsidian:60"],
+    "audio": false
+  },
+  {
+    "id": "58aa8398ad",
+    "pt": "Siga o procedimento de resposta a incidentes.",
+    "en": "Follow the incident response procedure.",
+    "notes": [],
+    "sources": ["obsidian:61"],
+    "audio": false
+  },
+  {
+    "id": "252aee28cb",
+    "pt": "Nunca tínhamos documentado esse procedimento antes.",
+    "en": "We had never documented that procedure before.",
+    "notes": [],
+    "sources": ["obsidian:62"],
+    "audio": false
+  },
+  {
+    "id": "f42ee2f16c",
+    "pt": "Não critique o fix sem ler o PR.",
+    "en": "Don't criticize the fix without reading the PR.",
+    "notes": [],
+    "sources": ["obsidian:63"],
+    "audio": false
+  },
+  {
+    "id": "de21a9a0f6",
+    "pt": "Ele tinha criticado o design antes de ver os dados.",
+    "en": "He had criticized the design before seeing the data.",
+    "notes": [],
+    "sources": ["obsidian:64"],
+    "audio": false
+  },
+  {
+    "id": "3c1c9a67ec",
+    "pt": "Sou cauteloso em fazer deploy sem plano de rollback.",
+    "en": "I'm wary of deploying without a rollback plan.",
+    "notes": [],
+    "sources": ["obsidian:65"],
+    "audio": false
+  },
+  {
+    "id": "7c7e70dd1e",
+    "pt": "Ela sempre tinha sido cautelosa com código sem teste.",
+    "en": "She had always been wary of untested code.",
+    "notes": [],
+    "sources": ["obsidian:66"],
+    "audio": false
+  },
+  {
+    "id": "7aa9cda7f5",
+    "pt": "Finalmente tomei a decisão e migrei para Kubernetes.",
+    "en": "I finally took the plunge and migrated to Kubernetes.",
+    "notes": ["take / took / taken"],
+    "sources": ["obsidian:67"],
+    "audio": false
+  },
+  {
+    "id": "c2aeeece56",
+    "pt": "Estamos nos jogando e trocando de provedor de nuvem.",
+    "en": "We're taking the plunge and switching cloud providers.",
+    "notes": ["take / took / taken"],
+    "sources": ["obsidian:68"],
+    "audio": false
+  },
+  {
+    "id": "273f3e2f19",
+    "pt": "Eu cuido da escala de plantão essa semana.",
+    "en": "I handle the on-call rotation this week.",
+    "notes": [],
+    "sources": ["obsidian:69"],
+    "audio": false
+  },
+  {
+    "id": "6efbff6b20",
+    "pt": "Ela já tinha lidado com incidentes piores antes.",
+    "en": "She had handled worse incidents before.",
+    "notes": [],
+    "sources": ["obsidian:70"],
+    "audio": false
+  },
+  {
+    "id": "8f62fe1171",
+    "pt": "Vamos dar um passo atrás e repensar a arquitetura.",
+    "en": "Let's take a step back and rethink the architecture.",
+    "notes": ["take / took / taken"],
+    "sources": ["obsidian:71"],
+    "audio": false
+  },
+  {
+    "id": "1241f3c248",
+    "pt": "Ele deu um passo atrás antes de culpar alguém.",
+    "en": "He took a step back before blaming anyone.",
+    "notes": ["take / took / taken"],
+    "sources": ["obsidian:72"],
+    "audio": false
+  },
+  {
+    "id": "eb3c57ff9a",
+    "pt": "Enfrentamos os problemas de frente em vez de ignorá-los.",
+    "en": "We tackle problems head-on instead of ignoring them.",
+    "notes": [],
+    "sources": ["obsidian:73"],
+    "audio": false
+  },
+  {
+    "id": "509755a083",
+    "pt": "Ela enfrentou a queda de frente.",
+    "en": "She tackled the outage head-on.",
+    "notes": [],
+    "sources": ["obsidian:74"],
+    "audio": false
+  },
+  {
+    "id": "57e5b3b6ee",
+    "pt": "Essa refatoração vai valer a pena no longo prazo.",
+    "en": "This refactor will pay off in the long run.",
+    "notes": ["pay / paid / paid"],
+    "sources": ["obsidian:75"],
+    "audio": false
+  },
+  {
+    "id": "281d16baa6",
+    "pt": "Os testes extras tinham valido a pena durante o release.",
+    "en": "The extra testing had paid off during the release.",
+    "notes": ["pay / paid / paid"],
+    "sources": ["obsidian:76"],
+    "audio": false
+  },
+  {
+    "id": "3054fea938",
+    "pt": "Vou te manter informado sobre o status do deploy.",
+    "en": "I'll keep you posted on the deploy status.",
+    "notes": ["keep / kept / kept"],
+    "sources": ["obsidian:77"],
+    "audio": false
+  },
+  {
+    "id": "370ad5656a",
+    "pt": "Ela manteve o time informado durante todo o incidente.",
+    "en": "She kept the team posted throughout the incident.",
+    "notes": ["keep / kept / kept"],
+    "sources": ["obsidian:78"],
+    "audio": false
+  },
+  {
+    "id": "a169ca1150",
+    "pt": "Você já se deparou com esse problema antes?",
+    "en": "Have you come across this problem before?",
+    "notes": ["come / came / come"],
+    "sources": ["obsidian:79"],
+    "audio": false
+  },
+  {
+    "id": "977b30040f",
+    "pt": "Ontem eu me deparei com um artigo ótimo sobre Kubernetes.",
+    "en": "I came across a great article about Kubernetes yesterday.",
+    "notes": ["come / came / come"],
+    "sources": ["obsidian:80"],
+    "audio": false
+  },
+  {
+    "id": "86ae12c75c",
+    "pt": "Ela mora numa casinha minúscula perto da praia.",
+    "en": "She lives in a tiny house near the beach.",
+    "notes": [],
+    "sources": ["obsidian:81", "spoken-english:vocabulary-3"],
+    "audio": false
+  },
+  {
+    "id": "18d852a757",
+    "pt": "O bug estava numa linha minúscula de configuração que ninguém tinha notado.",
+    "en": "The bug was in a tiny line of config that nobody had noticed.",
+    "notes": [],
+    "sources": ["obsidian:82"],
+    "audio": false
+  },
+  {
+    "id": "c6698a3236",
+    "pt": "Ele desabou quando ouviu a notícia de cortar o coração.",
+    "en": "He fell apart when he heard the heartbreaking news.",
+    "notes": ["fall / fell / fallen"],
+    "sources": ["obsidian:83", "spoken-english:vocabulary-3"],
+    "audio": false
+  },
+  {
+    "id": "b717fa0646",
+    "pt": "O deploy está desmoronando e a gente não sabe por quê.",
+    "en": "The deployment is falling apart and we don't know why.",
+    "notes": ["fall / fell / fallen"],
+    "sources": ["obsidian:84"],
+    "audio": false
+  },
+  {
+    "id": "2c19967afc",
+    "pt": "Ela deixou as roupas de molho na água antes de lavar.",
+    "en": "She soaked her clothes in water before washing them.",
+    "notes": [],
+    "sources": ["obsidian:85", "spoken-english:vocabulary-3"],
+    "audio": false
+  },
+  {
+    "id": "feab859919",
+    "pt": "Eu tinha andado na chuva, então cheguei ao escritório ensopado.",
+    "en": "I had been walking in the rain, so I was soaked when I got to the office.",
+    "notes": [],
+    "sources": ["obsidian:86"],
+    "audio": false
+  },
+  {
+    "id": "75d27a149b",
+    "pt": "A água pingava da torneira da cozinha.",
+    "en": "Water was dripping from the kitchen tap.",
+    "notes": [],
+    "sources": ["obsidian:87", "spoken-english:vocabulary-3"],
+    "audio": false
+  },
+  {
+    "id": "b05d2ed28b",
+    "pt": "O suor pingou da testa dele durante a demo.",
+    "en": "Sweat dripped from his forehead during the demo.",
+    "notes": [],
+    "sources": ["obsidian:88"],
+    "audio": false
+  },
+  {
+    "id": "ada3af74de",
+    "pt": "Ele balançou a cabeça para mostrar que tinha entendido as instruções.",
+    "en": "He nodded his head to show that he understood the instructions.",
+    "notes": [],
+    "sources": ["obsidian:89", "spoken-english:vocabulary-3"],
+    "audio": false
+  },
+  {
+    "id": "e0a166b8e1",
+    "pt": "Ela está balançando a cabeça enquanto eu explico o plano.",
+    "en": "She is nodding her head while I explain the plan.",
+    "notes": [],
+    "sources": ["obsidian:90"],
+    "audio": false
+  },
+  {
+    "id": "df9899c157",
+    "pt": "Ele estava respirando com dificuldade depois de subir as escadas correndo.",
+    "en": "He was breathing heavily after running up the stairs.",
+    "notes": [],
+    "sources": ["obsidian:91", "spoken-english:vocabulary-3"],
+    "audio": false
+  },
+  {
+    "id": "e9c42ac5d3",
+    "pt": "Eu sempre respiro com dificuldade quando subo essas escadas.",
+    "en": "I always breathe heavily when I climb these stairs.",
+    "notes": [],
+    "sources": ["obsidian:92"],
+    "audio": false
+  },
+  {
+    "id": "f267cfaa6e",
+    "pt": "Senti um nó na garganta quando me despedi do meu melhor amigo.",
+    "en": "I had a lump in my throat when I said goodbye to my best friend.",
+    "notes": [],
+    "sources": ["obsidian:93", "spoken-english:vocabulary-3"],
+    "audio": false
+  },
+  {
+    "id": "c1963d5e57",
+    "pt": "Ele sente um nó na garganta toda vez que fala do pai.",
+    "en": "He gets a lump in his throat every time he talks about his father.",
+    "notes": [],
+    "sources": ["obsidian:94"],
+    "audio": false
+  },
+  {
+    "id": "44616ddbf2",
+    "pt": "Ela olhou para a mensagem com incredulidade quando soube que tinha ganhado a competição.",
+    "en": "She stared at the message in disbelief when she learned that she had won the competition.",
+    "notes": [],
+    "sources": ["obsidian:95", "spoken-english:vocabulary-3"],
+    "audio": false
+  },
+  {
+    "id": "cdf2606b79",
+    "pt": "Ainda estou incrédulo por termos entregado no prazo.",
+    "en": "I'm still in disbelief that we shipped on time.",
+    "notes": [],
+    "sources": ["obsidian:96"],
+    "audio": false
+  },
+  {
+    "id": "0790e4de68",
+    "pt": "Tive reuniões ao longo do dia.",
+    "en": "I had meetings throughout the day.",
+    "notes": [],
+    "sources": ["obsidian:97"],
+    "audio": false
+  },
+  {
+    "id": "a3060414a7",
+    "pt": "A queda afetou clientes em todo o país.",
+    "en": "The outage has affected customers throughout the country.",
+    "notes": [],
+    "sources": ["obsidian:98"],
+    "audio": false
+  },
+  {
+    "id": "734336b3bc",
+    "pt": "Eu gerencio ambientes de produção críticos para o negócio, onde uma indisponibilidade pode ter um impacto significativo.",
+    "en": "I manage business-critical production environments where downtime can have a significant impact.",
+    "notes": ["business-critical", "Extremely important for the operation of a business."],
+    "sources": ["spoken-english:the-engineer-behind-the-infrastructure"],
+    "audio": false
+  },
+  {
+    "id": "0c9e75f116",
+    "pt": "Minhas atividades do dia a dia incluem monitorar a infraestrutura e resolver problemas de produção.",
+    "en": "My day-to-day activities include monitoring infrastructure and troubleshooting production issues.",
+    "notes": ["day-to-day activities", "The regular tasks and responsibilities involved in a job."],
+    "sources": ["spoken-english:the-engineer-behind-the-infrastructure"],
+    "audio": false
+  },
+  {
+    "id": "960e431ae9",
+    "pt": "Uma das minhas principais responsabilidades é manter a alta disponibilidade dos nossos ambientes de produção.",
+    "en": "One of my primary responsibilities is maintaining high availability across our production environments.",
+    "notes": [
+      "high availability",
+      "Ensuring that a system remains operational and accessible with minimal interruptions."
+    ],
+    "sources": ["spoken-english:the-engineer-behind-the-infrastructure"],
+    "audio": false
+  },
+  {
+    "id": "95e394ec43",
+    "pt": "Eu investigo e resolvo com frequência problemas de Kubernetes em produção.",
+    "en": "I regularly troubleshoot Kubernetes-related issues in production.",
+    "notes": ["troubleshoot", "To identify and resolve problems with a system or piece of equipment."],
+    "sources": ["spoken-english:the-engineer-behind-the-infrastructure"],
+    "audio": false
+  },
+  {
+    "id": "25adeddb36",
+    "pt": "Mantemos uma infraestrutura que sustenta as operações do negócio 24 horas por dia.",
+    "en": "We maintain infrastructure that supports business operations around the clock.",
+    "notes": ["around the clock", "Continuously, 24 hours a day."],
+    "sources": ["spoken-english:the-engineer-behind-the-infrastructure"],
+    "audio": false
+  },
+  {
+    "id": "5a2d636c01",
+    "pt": "Planejamos com cuidado as atualizações de infraestrutura para minimizar o impacto nos clientes.",
+    "en": "We carefully plan infrastructure upgrades to minimize disruption to customers.",
+    "notes": ["minimize disruption", "To reduce interruptions or negative effects."],
+    "sources": ["spoken-english:the-engineer-behind-the-infrastructure"],
+    "audio": false
+  },
+  {
+    "id": "9a2f64fdf3",
+    "pt": "A automação tem um papel importante em melhorar a confiabilidade da infraestrutura.",
+    "en": "Automation plays a significant role in improving infrastructure reliability.",
+    "notes": ["play a significant role", "To have an important influence or contribution."],
+    "sources": ["spoken-english:the-engineer-behind-the-infrastructure"],
+    "audio": false
+  },
+  {
+    "id": "4fa7b15a64",
+    "pt": "Automatizamos tarefas repetitivas para ganhar eficiência e reduzir o erro humano.",
+    "en": "We automate repetitive tasks to improve efficiency and reduce human error.",
+    "notes": ["repetitive tasks", "Tasks that are performed repeatedly."],
+    "sources": ["spoken-english:the-engineer-behind-the-infrastructure"],
+    "audio": false
+  },
+  {
+    "id": "1aaa41a183",
+    "pt": "Colaboro com frequência com desenvolvedores e engenheiros de segurança.",
+    "en": "I regularly collaborate with developers and security engineers.",
+    "notes": ["collaborate with", "To work together with other people towards a common goal."],
+    "sources": ["spoken-english:the-engineer-behind-the-infrastructure"],
+    "audio": false
+  },
+  {
+    "id": "51529e4424",
+    "pt": "Decidi ficar em casa em vez de sair.",
+    "en": "I decided to stay home instead of going out.",
+    "notes": ["instead of"],
+    "sources": ["spoken-english:vocabulary-1"],
+    "audio": false
+  },
+  {
+    "id": "bfcd3bf79a",
+    "pt": "Ela respondeu à pergunta sem hesitar.",
+    "en": "She answered the question without hesitation.",
+    "notes": ["without hesitation"],
+    "sources": ["spoken-english:vocabulary-1"],
+    "audio": false
+  },
+  {
+    "id": "bcb273b8c8",
+    "pt": "Estou repensando se compro este carro.",
+    "en": "I'm having second thoughts about buying this car.",
+    "notes": ["second thoughts"],
+    "sources": ["spoken-english:vocabulary-1"],
+    "audio": false
+  },
+  {
+    "id": "430d55aa06",
+    "pt": "Você notou algo fora do normal?",
+    "en": "Did you notice anything unusual?",
+    "notes": ["notice"],
+    "sources": ["spoken-english:vocabulary-1"],
+    "audio": false
+  },
+  {
+    "id": "85c8dbdddd",
+    "pt": "Não se preocupe em errar.",
+    "en": "Don't worry about making mistakes.",
+    "notes": ["worry about"],
+    "sources": ["spoken-english:vocabulary-1"],
+    "audio": false
+  },
+  {
+    "id": "bff68e43bc",
+    "pt": "Ele caminhou em direção à porta.",
+    "en": "He walked toward the door.",
+    "notes": ["toward"],
+    "sources": ["spoken-english:vocabulary-1"],
+    "audio": false
+  },
+  {
+    "id": "8748460b8a",
+    "pt": "Esqueci completamente da reunião.",
+    "en": "I completely forgot about the meeting.",
+    "notes": ["forget about"],
+    "sources": ["spoken-english:vocabulary-1"],
+    "audio": false
+  },
+  {
+    "id": "eafb46f3ae",
+    "pt": "Ela está disposta a nos ajudar.",
+    "en": "She is willing to help us.",
+    "notes": ["willing"],
+    "sources": ["spoken-english:vocabulary-1"],
+    "audio": false
+  },
+  {
+    "id": "45e9d8a786",
+    "pt": "Por favor, leia as instruções com atenção.",
+    "en": "Please read the instructions carefully.",
+    "notes": ["carefully"],
+    "sources": ["spoken-english:vocabulary-1"],
+    "audio": false
+  },
+  {
+    "id": "904576e9f3",
+    "pt": "Vamos parar um momento e pensar nisso.",
+    "en": "Let's pause for a moment and think about it.",
+    "notes": ["pause"],
+    "sources": ["spoken-english:vocabulary-1"],
+    "audio": false
+  },
+  {
+    "id": "edea3a7cc5",
+    "pt": "Eu não conseguia me livrar da sensação de que algo estava errado.",
+    "en": "I couldn't shake off the feeling that something was wrong.",
+    "notes": ["shake off (a feeling)"],
+    "sources": ["spoken-english:vocabulary-1"],
+    "audio": false
+  },
+  {
+    "id": "86d537ea6a",
+    "pt": "Precisamos encarar esse problema juntos.",
+    "en": "We need to tackle this problem together.",
+    "notes": ["tackle"],
+    "sources": ["spoken-english:vocabulary-1"],
+    "audio": false
+  },
+  {
+    "id": "a6f7a89854",
+    "pt": "Ela sabe lidar com situações difíceis.",
+    "en": "She knows how to handle difficult situations.",
+    "notes": ["handle"],
+    "sources": ["spoken-english:vocabulary-1"],
+    "audio": false
+  },
+  {
+    "id": "2c076c45be",
+    "pt": "Às vezes é melhor dar um passo atrás e olhar a situação com calma.",
+    "en": "Sometimes, it's better to take a step back and look at the situation calmly.",
+    "notes": ["take a step back"],
+    "sources": ["spoken-english:vocabulary-1"],
+    "audio": false
+  },
+  {
+    "id": "2e00cec22e",
+    "pt": "Você deve desconfiar de pessoas que não conhece.",
+    "en": "You should be wary of people you don't know.",
+    "notes": ["wary"],
+    "sources": ["spoken-english:vocabulary-1"],
+    "audio": false
+  },
+  {
+    "id": "5be19ca83d",
+    "pt": "Venho pensando em aprender português e finalmente decidi me jogar.",
+    "en": "I've been thinking about learning Portuguese, and I've finally decided to take the plunge.",
+    "notes": ["take the plunge"],
+    "sources": ["spoken-english:vocabulary-1"],
+    "audio": false
+  },
+  {
+    "id": "ffb9aa797d",
+    "pt": "Todo o seu esforço vai valer a pena no fim.",
+    "en": "All your hard work will eventually pay off.",
+    "notes": ["pay off"],
+    "sources": ["spoken-english:vocabulary-1"],
+    "audio": false
+  },
+  {
+    "id": "8abec5234c",
+    "pt": "Tentar algo novo pode te ajudar a sair da sua zona de conforto.",
+    "en": "Trying something new can help you step outside of your comfort zone.",
+    "notes": ["step outside of your comfort zone"],
+    "sources": ["spoken-english:vocabulary-1"],
+    "audio": false
+  },
+  {
+    "id": "1373ccfcce",
+    "pt": "Decidi arriscar e me candidatar à vaga.",
+    "en": "I decided to take a chance and apply for the job.",
+    "notes": ["take a chance"],
+    "sources": ["spoken-english:vocabulary-2"],
+    "audio": false
+  },
+  {
+    "id": "d3437f5705",
+    "pt": "Seria sensato sair cedo.",
+    "en": "It would be sensible to leave early.",
+    "notes": ["sensible"],
+    "sources": ["spoken-english:vocabulary-2"],
+    "audio": false
+  },
+  {
+    "id": "0f8056056a",
+    "pt": "Não percebi que já era meia-noite.",
+    "en": "I didn't realize that it was already midnight.",
+    "notes": ["realize"],
+    "sources": ["spoken-english:vocabulary-2"],
+    "audio": false
+  },
+  {
+    "id": "21b2d92b5e",
+    "pt": "Eu queria sair. Porém, estava cansado demais.",
+    "en": "I wanted to go out. However, I was too tired.",
+    "notes": ["however"],
+    "sources": ["spoken-english:vocabulary-2"],
+    "audio": false
+  },
+  {
+    "id": "23a4adab27",
+    "pt": "Ela sempre reclama do trabalho.",
+    "en": "She always complains about her job.",
+    "notes": ["complain"],
+    "sources": ["spoken-english:vocabulary-2"],
+    "audio": false
+  },
+  {
+    "id": "c7de2d2c98",
+    "pt": "Não me culpe pelo erro.",
+    "en": "Don't blame me for the mistake.",
+    "notes": ["blame"],
+    "sources": ["spoken-english:vocabulary-2"],
+    "audio": false
+  },
+  {
+    "id": "852040d6a6",
+    "pt": "Precisamos seguir o procedimento correto.",
+    "en": "We need to follow the correct procedure.",
+    "notes": ["procedure"],
+    "sources": ["spoken-english:vocabulary-2"],
+    "audio": false
+  },
+  {
+    "id": "44fcb45a80",
+    "pt": "Não critique ele antes de ouvir o lado dele da história.",
+    "en": "Don't criticize him before hearing his side of the story.",
+    "notes": ["criticize"],
+    "sources": ["spoken-english:vocabulary-2"],
+    "audio": false
+  },
+  {
+    "id": "c986a82bcf",
+    "pt": "Você está ciente do problema?",
+    "en": "Are you aware of the problem?",
+    "notes": ["aware"],
+    "sources": ["spoken-english:vocabulary-2"],
+    "audio": false
+  },
+  {
+    "id": "02b6b52e0d",
+    "pt": "Encontrei por acaso um livro interessante enquanto arrumava meu quarto.",
+    "en": "I came across an interesting book while cleaning my room.",
+    "notes": ["come across", "To find or discover something by chance."],
+    "sources": ["spoken-english:vocabulary-3"],
+    "audio": false
+  }
+]

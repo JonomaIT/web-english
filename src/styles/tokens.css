@@ -1,0 +1,158 @@
+/* Tokens do design system. A marca vem do emblema Jonoma IT: o preto do fundo dele e o gradiente
+   azul → violeta → laranja do traço (cores amostradas do arquivo original).
+   Camadas: primitivos (--sky-400…) → semânticos (--bg, --text, --link…). As seções e os componentes
+   usam só os semânticos, então trocar o tema é trocar só esta lista. */
+
+@font-face {
+  font-family: "Geist";
+  src: url("/fonts/geist-latin-wght-normal.woff2") format("woff2");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Geist Mono";
+  src: url("/fonts/geist-mono-latin-wght-normal.woff2") format("woff2");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  /* ---- primitivos: marca (do emblema) ---- */
+  --sky-400: #30b1ff;
+  --sky-300: #6cc7ff;
+  --blue-500: #3169f7;
+  --blue-600: #2156d9;
+  --violet-500: #7c5ce0;
+  --violet-600: #6546c7;
+  --ember-500: #fd742a;
+  --ember-600: #c9520f;
+  --amber-400: #f7982b;
+
+  /* ---- primitivos: neutros (tinta) ---- */
+  --ink-950: #050608; /* o fundo do emblema */
+  --ink-900: #0b0d12;
+  --ink-850: #111319;
+  --ink-800: #191c23;
+  --ink-700: #262a33;
+  --ink-500: #5c6270;
+  --ink-400: #8a909c;
+  --ink-300: #b2b7c1;
+  --ink-200: #d5d8de;
+  --ink-100: #e9ebef;
+  --ink-50: #f6f7f9;
+  --white: #ffffff;
+  --green-400: #2bc48a;
+  --green-700: #137a52;
+
+  /* ---- tipografia ---- */
+  --font-sans: "Geist", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --font-mono: "Geist Mono", ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+  --text-xs: 0.75rem;
+  --text-sm: 0.875rem;
+  --text-md: 1rem;
+  --text-lg: 1.125rem;
+  --text-xl: clamp(1.25rem, 1.1rem + 0.6vw, 1.5rem);
+  --text-2xl: clamp(1.6rem, 1.3rem + 1.4vw, 2.25rem);
+  --text-3xl: clamp(2.25rem, 1.6rem + 3vw, 4rem);
+  --leading-tight: 1.1;
+  --leading-normal: 1.65;
+  --tracking-wide: 0.14em;
+
+  /* ---- espaço (escala de 4 px), raio, largura ---- */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.25rem;
+  --space-6: 1.5rem;
+  --space-8: 2rem;
+  --space-10: 2.5rem;
+  --space-12: 3rem;
+  --space-16: 4rem;
+  --space-24: 6rem;
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 16px;
+  --radius-full: 999px;
+  --container: 70rem;
+  --duration: 600ms;
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+
+  /* ---- semânticos: escuro (padrão, o tema do emblema) ---- */
+  color-scheme: dark;
+  --bg: var(--ink-950);
+  --surface: var(--ink-850);
+  --surface-raised: var(--ink-800);
+  --border: rgb(255 255 255 / 0.08);
+  --border-strong: rgb(255 255 255 / 0.16);
+  --text: #f1f2f4;
+  --text-muted: #a6abb5;
+  --text-subtle: #7e8490;
+  --link: var(--sky-300);
+  --accent: var(--amber-400); /* o botão principal: o laranja do "IT" */
+  --on-accent: var(--ink-950);
+  --accent-hover: #ffad4d;
+  --status: var(--green-400);
+  --metric-1: var(--sky-300);
+  --metric-2: #a08cf2;
+  --metric-3: var(--amber-400);
+  --metric-4: #ff9259;
+  --brand-gradient: linear-gradient(
+    90deg,
+    var(--sky-400),
+    var(--blue-500) 30%,
+    var(--violet-500) 55%,
+    var(--ember-500) 82%,
+    var(--amber-400)
+  );
+  --brand-gradient-text: linear-gradient(90deg, var(--sky-400), var(--violet-500) 50%, var(--ember-500));
+  --emblem-tile: transparent; /* o emblema já tem o fundo do site */
+  --focus: 0 0 0 2px var(--bg), 0 0 0 4px var(--sky-400);
+}
+
+/* Claro: pela preferência do sistema, ou escolhido no botão (data-theme). Os tons da marca
+   escurecem para manter o contraste (AA) sobre o branco. */
+@media (prefers-color-scheme: light) {
+  :root:not([data-theme="dark"]) {
+    color-scheme: light;
+    --bg: var(--ink-50);
+    --surface: var(--white);
+    --surface-raised: var(--ink-100);
+    --border: rgb(5 6 8 / 0.09);
+    --border-strong: rgb(5 6 8 / 0.18);
+    --text: var(--ink-900);
+    --text-muted: #4a505c;
+    --text-subtle: #646a76;
+    --link: var(--blue-600);
+    --status: var(--green-700);
+    --metric-1: var(--blue-600);
+    --metric-2: var(--violet-600);
+    --metric-3: var(--ember-600);
+    --metric-4: #b4470c;
+    --brand-gradient-text: linear-gradient(90deg, var(--blue-600), var(--violet-600) 50%, var(--ember-600));
+    --emblem-tile: var(--ink-950);
+  }
+}
+
+:root[data-theme="light"] {
+  color-scheme: light;
+  --bg: var(--ink-50);
+  --surface: var(--white);
+  --surface-raised: var(--ink-100);
+  --border: rgb(5 6 8 / 0.09);
+  --border-strong: rgb(5 6 8 / 0.18);
+  --text: var(--ink-900);
+  --text-muted: #4a505c;
+  --text-subtle: #646a76;
+  --link: var(--blue-600);
+  --status: var(--green-700);
+  --metric-1: var(--blue-600);
+  --metric-2: var(--violet-600);
+  --metric-3: var(--ember-600);
+  --metric-4: #b4470c;
+  --brand-gradient-text: linear-gradient(90deg, var(--blue-600), var(--violet-600) 50%, var(--ember-600));
+  --emblem-tile: var(--ink-950);
+}
