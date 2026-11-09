@@ -42,7 +42,7 @@ npm run content -- --quiz "<vault>/English/vocabulary quiz.md" --spoken "<folder
 | Source                                                                                                                             | Becomes                                    |
 | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
 | The Obsidian quiz (`- [ ] N. <pt>` + a `Revelar` callout)                                                                          | cards                                      |
-| The Spoken English folder (`<Title>.pdf`, `<Title>.mp3`, `<Title> (com emoção).mp3`)                                               | lessons, media copied to `public/lessons/` |
+| The Spoken English folder (`<Title>.pdf`, `<Title>.mp3`; the "com emoção" recording is left out)                                   | lessons, media copied to `public/lessons/` |
 | `content/spoken-english.json` (curated: the exercises' items with our translations, the stories' blanks, questions and vocabulary) | cards and lesson extras                    |
 
 A card's id is a hash of its English: its recording is `public/audio/cards/<id>.mp3`. The ones still to record are listed in `audio-todo.csv` (id, English); after adding recordings, run `npm run content` again.

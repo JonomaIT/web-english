@@ -6,7 +6,7 @@
 Sources
   --quiz     the Obsidian quiz: "- [ ] N. <portuguese>" followed by a "> [!question]- Revelar" callout
              whose first line is the English and the next lines are notes (e.g. "go / went / gone").
-  --spoken   the Spoken English folder: "<Title>.pdf" and "<Title>.mp3" (+ "<Title> (com emoção).mp3")
+  --spoken   the Spoken English folder: "<Title>.pdf" and "<Title>.mp3"
              for each story; "Vocabulary Reciting Exercise N.pdf" for the exercises. What the PDFs
              cannot give reliably is curated in content/spoken-english.json: the exercises' items, the
              stories' blanks, questions and vocabulary lists, and text fixes.
@@ -141,7 +141,8 @@ def stories(folder):
         dest = ROOT / "public" / "lessons" / slug
         copy(pdf, dest / f"{slug}.pdf")
         audio = []
-        for label, name, file in (("Narration", f"{title}.mp3", f"{slug}.mp3"), ("With emotion", f"{title} (com emoção).mp3", f"{slug}-emotion.mp3")):
+        # One recording per lesson: the narration ("<Title> (com emoção).mp3" is left out on purpose).
+        for label, name, file in (("Narration", f"{title}.mp3", f"{slug}.mp3"),):
             src = folder / name
             if src.exists():
                 copy(src, dest / file)
