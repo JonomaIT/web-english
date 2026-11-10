@@ -20,6 +20,10 @@ export default function StudyPage() {
   const [now, setNow] = useState(() => new Date());
   const [revealed, setRevealed] = useState(false);
   const [done, setDone] = useState(0);
+  // The card on screen stays until it is answered. The queue changes under it (the 30 s tick brings
+  // a learning card due, a sync brings another device's reviews), and that must only decide the
+  // next card, never swap the current one.
+  const [shownId, setShownId] = useState<string | null>(null);
 
   // Learning steps bring a card back within minutes: look again every 30 s.
   useEffect(() => {
@@ -31,7 +35,9 @@ export default function StudyPage() {
     () => buildQueue(ALL_IDS, progress, now, { newPerDay: settings.newPerDay, learnAheadMinutes: 20, only }),
     [progress, now, settings.newPerDay, only],
   );
-  const card = queue.next ? cardById.get(queue.next) : undefined;
+  if (shownId === null && queue.next !== null) setShownId(queue.next);
+  const currentId = shownId ?? queue.next;
+  const card = currentId ? cardById.get(currentId) : undefined;
   const isNew = card ? !progress.cards[card.id] : false;
   const intervals = useMemo(
     () => (card && revealed ? preview(card.id, now) : []),
@@ -51,6 +57,7 @@ export default function StudyPage() {
       const at = new Date();
       review(card.id, grade, at);
       setNow(at);
+      setShownId(null);
       setRevealed(false);
       setDone((n) => n + 1);
     },

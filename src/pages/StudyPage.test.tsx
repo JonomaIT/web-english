@@ -1,7 +1,7 @@
-import { render, screen } from "@testing-library/react";
+import { act, render, screen } from "@testing-library/react";
 import userEvent from "@testing-library/user-event";
 import { createMemoryRouter, RouterProvider } from "react-router";
-import { describe, expect, it } from "vitest";
+import { describe, expect, it, vi } from "vitest";
 import { routes } from "../app/router";
 import { StudyProvider } from "../app/study";
 import { cards } from "../content/content";
@@ -40,6 +40,27 @@ describe("review", () => {
     expect(screen.getByText(cards[0]!.en)).toBeInTheDocument();
     await user.keyboard("1");
     expect(JSON.parse(localStorage.getItem(KEY) ?? "{}").log[0].rating).toBe(1);
+  });
+
+  it("the card on screen stays until answered, even when an earlier one comes due meanwhile", async () => {
+    vi.useFakeTimers({ shouldAdvanceTime: true });
+    try {
+      const user = renderAt("/study");
+      expect(await screen.findByText(cards[0]!.pt)).toBeInTheDocument();
+      await user.keyboard(" ");
+      await user.keyboard("1"); // Again: the first card comes back in about a minute
+      expect(await screen.findByText(cards[1]!.pt)).toBeInTheDocument();
+      await user.keyboard(" ");
+
+      act(() => vi.advanceTimersByTime(3 * 60_000)); // the 30 s tick sees the first card due again
+      expect(screen.getByText(cards[1]!.pt)).toBeInTheDocument();
+      expect(screen.getByText(cards[1]!.en)).toBeInTheDocument();
+
+      await user.keyboard("3"); // answered: now the card that came due is next
+      expect(await screen.findByText(cards[0]!.pt)).toBeInTheDocument();
+    } finally {
+      vi.useRealTimers();
+    }
   });
 
   it("a lesson's study session uses only its cards", async () => {
