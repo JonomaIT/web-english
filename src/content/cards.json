@@ -88,9 +88,9 @@
     "audio": false
   },
   {
-    "id": "793fdb164c",
-    "pt": "Reiniciei o pod; caso contrário, teria caído.",
-    "en": "I restarted the pod; otherwise it would have crashed.",
+    "id": "7c519fc3a4",
+    "pt": "Tive que reiniciar o pod, senão ele teria caído.",
+    "en": "I had to restart the pod, otherwise it would have crashed.",
     "notes": [],
     "sources": ["obsidian:12"],
     "audio": false
