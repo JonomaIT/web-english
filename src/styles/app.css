@@ -272,10 +272,6 @@ kbd {
   color: var(--metric-3);
 }
 
-.stat__value--4 {
-  color: var(--metric-4);
-}
-
 .stat__label {
   margin-top: var(--space-2);
   color: var(--text-muted);

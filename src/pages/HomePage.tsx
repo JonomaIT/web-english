@@ -33,7 +33,6 @@ export default function HomePage() {
   const reviewsToday = progress.log.filter(
     (r) => new Date(r.at).toDateString() === now.toDateString(),
   ).length;
-  const withAudio = cards.filter((c) => c.audio).length;
   const toStudy = queue.due + queue.newLeft;
 
   const download = () => {
@@ -109,13 +108,6 @@ export default function HomePage() {
             <small>/{cards.length}</small>
           </p>
           <p className="stat__label">cards studied</p>
-        </div>
-        <div className="card stat">
-          <p className="stat__value stat__value--4">
-            {withAudio}
-            <small>/{cards.length}</small>
-          </p>
-          <p className="stat__label">with a recording</p>
         </div>
       </section>
 
