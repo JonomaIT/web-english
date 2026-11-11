@@ -101,6 +101,10 @@ a3060414a7,The outage has affected customers throughout the country.
 661f438df6,"At first glance, everything looks fine, but the pods keep restarting."
 94647b2f17,"Fixing the bug is one thing, but migrating the whole cluster is a different can of worms."
 b59744692b,"Setting up the pipeline was easy, but getting the security team's approval was a different can of worms."
+37d786af7c,Writing Terraform is one thing; running it in production is a different kettle of fish.
+09894e23e6,"I had prepared for questions about AWS, but the interview turned out to be a different kettle of fish."
+2817d5094d,I'm practicing English every day to keep the ball rolling before the interviews.
+2c25cbaaed,"After the first migration, we kept the ball rolling and moved the other services the same week."
 734336b3bc,I manage business-critical production environments where downtime can have a significant impact.
 0c9e75f116,My day-to-day activities include monitoring infrastructure and troubleshooting production issues.
 960e431ae9,One of my primary responsibilities is maintaining high availability across our production environments.

@@ -816,6 +816,38 @@
     "audio": false
   },
   {
+    "id": "37d786af7c",
+    "pt": "Escrever Terraform é uma coisa; rodar em produção é outra história.",
+    "en": "Writing Terraform is one thing; running it in production is a different kettle of fish.",
+    "notes": [],
+    "sources": ["obsidian:103"],
+    "audio": false
+  },
+  {
+    "id": "09894e23e6",
+    "pt": "Eu tinha me preparado para perguntas sobre AWS, mas a entrevista acabou sendo outra história.",
+    "en": "I had prepared for questions about AWS, but the interview turned out to be a different kettle of fish.",
+    "notes": [],
+    "sources": ["obsidian:104"],
+    "audio": false
+  },
+  {
+    "id": "2817d5094d",
+    "pt": "Estou praticando inglês todo dia para manter o ritmo antes das entrevistas.",
+    "en": "I'm practicing English every day to keep the ball rolling before the interviews.",
+    "notes": ["keep / kept / kept"],
+    "sources": ["obsidian:105"],
+    "audio": false
+  },
+  {
+    "id": "2c25cbaaed",
+    "pt": "Depois da primeira migração, a gente manteve o ritmo e moveu os outros serviços na mesma semana.",
+    "en": "After the first migration, we kept the ball rolling and moved the other services the same week.",
+    "notes": ["keep / kept / kept"],
+    "sources": ["obsidian:106"],
+    "audio": false
+  },
+  {
     "id": "734336b3bc",
     "pt": "Eu gerencio ambientes de produção críticos para o negócio, onde uma indisponibilidade pode ter um impacto significativo.",
     "en": "I manage business-critical production environments where downtime can have a significant impact.",
