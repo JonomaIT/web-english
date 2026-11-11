@@ -97,10 +97,10 @@ c1963d5e57,He gets a lump in his throat every time he talks about his father.
 cdf2606b79,I'm still in disbelief that we shipped on time.
 0790e4de68,I had meetings throughout the day.
 a3060414a7,The outage has affected customers throughout the country.
-a676d974af,"At first glance, the error looked like a DNS issue."
-bbb6c10138,"At first glance, I had thought the deploy was fine."
-9a531fea4e,"Learning English is one thing, but teaching it to advanced students is a different can of worms."
-ac444abc85,Managing a small team is relatively easy. Managing an entire department is a different can of worms.
+48347736fa,"At first glance, the error looked like a DNS issue, but it was a missing IAM permission."
+661f438df6,"At first glance, everything looks fine, but the pods keep restarting."
+94647b2f17,"Fixing the bug is one thing, but migrating the whole cluster is a different can of worms."
+b59744692b,"Setting up the pipeline was easy, but getting the security team's approval was a different can of worms."
 734336b3bc,I manage business-critical production environments where downtime can have a significant impact.
 0c9e75f116,My day-to-day activities include monitoring infrastructure and troubleshooting production issues.
 960e431ae9,One of my primary responsibilities is maintaining high availability across our production environments.

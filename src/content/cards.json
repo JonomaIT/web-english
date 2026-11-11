@@ -784,33 +784,33 @@
     "audio": false
   },
   {
-    "id": "a676d974af",
-    "pt": "À primeira vista, o erro parecia um problema de DNS.",
-    "en": "At first glance, the error looked like a DNS issue.",
+    "id": "48347736fa",
+    "pt": "À primeira vista, o erro parecia um problema de DNS, mas era uma permissão do IAM faltando.",
+    "en": "At first glance, the error looked like a DNS issue, but it was a missing IAM permission.",
     "notes": [],
     "sources": ["obsidian:99"],
     "audio": false
   },
   {
-    "id": "bbb6c10138",
-    "pt": "À primeira vista, eu tinha achado que o deploy estava certo.",
-    "en": "At first glance, I had thought the deploy was fine.",
+    "id": "661f438df6",
+    "pt": "À primeira vista, está tudo certo, mas os pods continuam reiniciando.",
+    "en": "At first glance, everything looks fine, but the pods keep restarting.",
     "notes": [],
     "sources": ["obsidian:100"],
     "audio": false
   },
   {
-    "id": "9a531fea4e",
-    "pt": "Aprender inglês é uma coisa, mas ensinar para alunos avançados é outro pepino.",
-    "en": "Learning English is one thing, but teaching it to advanced students is a different can of worms.",
+    "id": "94647b2f17",
+    "pt": "Corrigir o bug é uma coisa, mas migrar o cluster inteiro é outro pepino.",
+    "en": "Fixing the bug is one thing, but migrating the whole cluster is a different can of worms.",
     "notes": [],
     "sources": ["obsidian:101"],
     "audio": false
   },
   {
-    "id": "ac444abc85",
-    "pt": "Gerenciar um time pequeno é relativamente fácil. Gerenciar um departamento inteiro é outro pepino.",
-    "en": "Managing a small team is relatively easy. Managing an entire department is a different can of worms.",
+    "id": "b59744692b",
+    "pt": "Configurar o pipeline foi fácil, mas conseguir a aprovação do time de segurança foi outro pepino.",
+    "en": "Setting up the pipeline was easy, but getting the security team's approval was a different can of worms.",
     "notes": [],
     "sources": ["obsidian:102"],
     "audio": false
