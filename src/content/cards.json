@@ -120,9 +120,9 @@
     "audio": false
   },
   {
-    "id": "7f694f6674",
+    "id": "a065ef9915",
     "pt": "A reunião foi cancelada, então escrevi documentação em vez disso.",
-    "en": "The meeting was cancelled, so I wrote docs instead.",
+    "en": "The meeting was canceled, so I wrote docs instead.",
     "notes": [],
     "sources": ["obsidian:16"],
     "audio": false
@@ -225,7 +225,7 @@
   },
   {
     "id": "9cc2a86841",
-    "pt": "Estou reconsiderando essa migração.",
+    "pt": "Estou começando a ter dúvidas sobre essa migração.",
     "en": "I'm having second thoughts about this migration.",
     "notes": ["have / had / had"],
     "sources": ["obsidian:29"],
@@ -233,7 +233,7 @@
   },
   {
     "id": "41b1802938",
-    "pt": "Ele ficou em dúvida bem antes do release.",
+    "pt": "Ele ficou em dúvida pouco antes do release.",
     "en": "He had second thoughts right before the release.",
     "notes": ["have / had / had"],
     "sources": ["obsidian:30"],
@@ -249,24 +249,24 @@
   },
   {
     "id": "607213d3a1",
-    "pt": "Ela nunca tinha estado disposta a correr esse risco.",
+    "pt": "Ela nunca tinha se disposto a correr esse risco antes.",
     "en": "She had never been willing to take that risk before.",
     "notes": ["be / was-were / been"],
     "sources": ["obsidian:32"],
     "audio": false
   },
   {
-    "id": "892da45de1",
-    "pt": "Não consigo me livrar dessa sensação de que faltou algo.",
-    "en": "I can't shake off this feeling that we missed something.",
+    "id": "d427f07526",
+    "pt": "Não consigo me livrar da sensação de que deixamos passar algo.",
+    "en": "I can't shake off the feeling that we missed something.",
     "notes": ["shake / shook / shaken"],
     "sources": ["obsidian:33"],
     "audio": false
   },
   {
-    "id": "1ea4b70be4",
-    "pt": "Na segunda ele já tinha se livrado da dúvida.",
-    "en": "By Monday he had shaken off the doubt.",
+    "id": "b62914718d",
+    "pt": "Na segunda, ele já tinha deixado as dúvidas para trás.",
+    "en": "By Monday, he had shaken off his doubts.",
     "notes": ["shake / shook / shaken"],
     "sources": ["obsidian:34"],
     "audio": false
@@ -312,9 +312,9 @@
     "audio": false
   },
   {
-    "id": "179449fae3",
-    "pt": "Testei localmente; porém, o staging falhou.",
-    "en": "I tested it locally; however, staging failed.",
+    "id": "97cae17dd4",
+    "pt": "Testei localmente; porém, falhou em staging.",
+    "en": "I tested it locally; however, it failed in staging.",
     "notes": [],
     "sources": ["obsidian:40"],
     "audio": false
@@ -360,16 +360,16 @@
     "audio": false
   },
   {
-    "id": "c6837485ae",
-    "pt": "Achei que estava corrigido; na verdade, não estava.",
-    "en": "I thought it was fixed; in fact, it wasn't.",
+    "id": "d3b418c283",
+    "pt": "Achei que estava corrigido, mas na verdade não estava.",
+    "en": "I thought it was fixed, but in fact it wasn't.",
     "notes": [],
     "sources": ["obsidian:46"],
     "audio": false
   },
   {
     "id": "2fed8cda8a",
-    "pt": "Esse serviço já não é mais suportado.",
+    "pt": "Esse serviço não é mais suportado.",
     "en": "This service is no longer supported.",
     "notes": [],
     "sources": ["obsidian:47"],
@@ -377,7 +377,7 @@
   },
   {
     "id": "c3ffacd2b9",
-    "pt": "Ele já não tinha medo de dar push em prod.",
+    "pt": "Ele não tinha mais medo de fazer push em produção.",
     "en": "He was no longer afraid of pushing to prod.",
     "notes": [],
     "sources": ["obsidian:48"],
@@ -416,9 +416,9 @@
     "audio": false
   },
   {
-    "id": "bd965f7137",
-    "pt": "Eu percebo um padrão nesses erros.",
-    "en": "I notice a pattern in these errors.",
+    "id": "8d6d55e25c",
+    "pt": "Estou percebendo um padrão nesses erros.",
+    "en": "I'm noticing a pattern in these errors.",
     "notes": [],
     "sources": ["obsidian:53"],
     "audio": false
@@ -465,7 +465,7 @@
   },
   {
     "id": "9f1ff2ac8f",
-    "pt": "Você tem razão sobre o valor do timeout.",
+    "pt": "Faz sentido o que você falou sobre o valor do timeout.",
     "en": "You have a point about the timeout value.",
     "notes": ["have / had / had"],
     "sources": ["obsidian:59"],
@@ -529,7 +529,7 @@
   },
   {
     "id": "7aa9cda7f5",
-    "pt": "Finalmente tomei a decisão e migrei para Kubernetes.",
+    "pt": "Finalmente criei coragem e migrei para o Kubernetes.",
     "en": "I finally took the plunge and migrated to Kubernetes.",
     "notes": ["take / took / taken"],
     "sources": ["obsidian:67"],
@@ -544,9 +544,9 @@
     "audio": false
   },
   {
-    "id": "273f3e2f19",
-    "pt": "Eu cuido da escala de plantão essa semana.",
-    "en": "I handle the on-call rotation this week.",
+    "id": "64c80c0e9a",
+    "pt": "Estou cuidando do plantão essa semana.",
+    "en": "I'm handling the on-call rotation this week.",
     "notes": [],
     "sources": ["obsidian:69"],
     "audio": false
@@ -664,9 +664,9 @@
     "audio": false
   },
   {
-    "id": "b717fa0646",
-    "pt": "O deploy está desmoronando e a gente não sabe por quê.",
-    "en": "The deployment is falling apart and we don't know why.",
+    "id": "23903f70bd",
+    "pt": "O projeto está desmoronando e a gente não sabe por quê.",
+    "en": "The project is falling apart and we don't know why.",
     "notes": ["fall / fell / fallen"],
     "sources": ["obsidian:84"],
     "audio": false
@@ -688,11 +688,11 @@
     "audio": false
   },
   {
-    "id": "75d27a149b",
+    "id": "8379cd3d69",
     "pt": "A água pingava da torneira da cozinha.",
-    "en": "Water was dripping from the kitchen tap.",
+    "en": "Water was dripping from the kitchen faucet.",
     "notes": [],
-    "sources": ["obsidian:87", "spoken-english:vocabulary-3"],
+    "sources": ["obsidian:87"],
     "audio": false
   },
   {
@@ -705,7 +705,7 @@
   },
   {
     "id": "ada3af74de",
-    "pt": "Ele balançou a cabeça para mostrar que tinha entendido as instruções.",
+    "pt": "Ele fez que sim com a cabeça para mostrar que tinha entendido as instruções.",
     "en": "He nodded his head to show that he understood the instructions.",
     "notes": [],
     "sources": ["obsidian:89", "spoken-english:vocabulary-3"],
@@ -713,7 +713,7 @@
   },
   {
     "id": "e0a166b8e1",
-    "pt": "Ela está balançando a cabeça enquanto eu explico o plano.",
+    "pt": "Ela está fazendo que sim com a cabeça enquanto eu explico o plano.",
     "en": "She is nodding her head while I explain the plan.",
     "notes": [],
     "sources": ["obsidian:90"],
@@ -1143,6 +1143,14 @@
     "pt": "Encontrei por acaso um livro interessante enquanto arrumava meu quarto.",
     "en": "I came across an interesting book while cleaning my room.",
     "notes": ["come across", "To find or discover something by chance."],
+    "sources": ["spoken-english:vocabulary-3"],
+    "audio": false
+  },
+  {
+    "id": "75d27a149b",
+    "pt": "A água estava pingando da torneira da cozinha.",
+    "en": "Water was dripping from the kitchen tap.",
+    "notes": ["drip", "To fall in small drops of liquid."],
     "sources": ["spoken-english:vocabulary-3"],
     "audio": false
   }

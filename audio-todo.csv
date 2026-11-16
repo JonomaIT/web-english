@@ -14,7 +14,7 @@ c3477dbc8c,I look forward to hearing from you.
 4fff5d9fa7,I was struggling to explain the bug.
 e66da7dfa5,I've been struggling with this deploy all morning.
 e46554cfb6,"Instead of fixing it, he rewrote the module."
-7f694f6674,"The meeting was cancelled, so I wrote docs instead."
+a065ef9915,"The meeting was canceled, so I wrote docs instead."
 926910e7cd,I've only been there once.
 6d781c2f88,"Once the pipeline finishes, we can deploy."
 236d07e080,I'm wrapping up the report now.
@@ -31,27 +31,27 @@ e6ef9bcfe5,We hadn't decided whether to roll back or wait.
 41b1802938,He had second thoughts right before the release.
 69877de709,I'm willing to work on the weekend if needed.
 607213d3a1,She had never been willing to take that risk before.
-892da45de1,I can't shake off this feeling that we missed something.
-1ea4b70be4,By Monday he had shaken off the doubt.
+d427f07526,I can't shake off the feeling that we missed something.
+b62914718d,"By Monday, he had shaken off his doubts."
 2d7363c9af,I'll take a chance and deploy on a Friday.
 961510c70e,She took a chance and switched careers.
 7ded8cc024,We avoid deploying without tests.
 4b4b5fa291,I had avoided that library for years.
 746b4a5e9f,"The fix worked; however, it broke another service."
-179449fae3,"I tested it locally; however, staging failed."
+97cae17dd4,"I tested it locally; however, it failed in staging."
 11a6a12120,The client complained about the outage.
 d8269f49b7,He's always complaining about the pipeline being slow.
 9caecab815,Don't blame the intern for the outage.
 049a376b5c,They had blamed the wrong service at first.
 6e2aa5f9b3,"In fact, the bug was in the config, not the code."
-c6837485ae,"I thought it was fixed; in fact, it wasn't."
+d3b418c283,"I thought it was fixed, but in fact it wasn't."
 2fed8cda8a,This service is no longer supported.
 c3ffacd2b9,He was no longer afraid of pushing to prod.
 5de67e56b8,I'm stepping outside my comfort zone by presenting in English.
 341e629968,She stepped outside her comfort zone and led the migration.
 63ef11e86d,I want to build a career in DevOps.
 3d2750eae0,She had built her whole career around SRE.
-bd965f7137,I notice a pattern in these errors.
+8d6d55e25c,I'm noticing a pattern in these errors.
 945b0dce1d,Nobody had noticed the memory leak until now.
 a1d5298c3a,The service is completely down.
 4ed81471f0,I had completely forgotten about the migration.
@@ -67,7 +67,7 @@ de21a9a0f6,He had criticized the design before seeing the data.
 7c7e70dd1e,She had always been wary of untested code.
 7aa9cda7f5,I finally took the plunge and migrated to Kubernetes.
 c2aeeece56,We're taking the plunge and switching cloud providers.
-273f3e2f19,I handle the on-call rotation this week.
+64c80c0e9a,I'm handling the on-call rotation this week.
 6efbff6b20,She had handled worse incidents before.
 8f62fe1171,Let's take a step back and rethink the architecture.
 1241f3c248,He took a step back before blaming anyone.
@@ -82,10 +82,10 @@ a169ca1150,Have you come across this problem before?
 86ae12c75c,She lives in a tiny house near the beach.
 18d852a757,The bug was in a tiny line of config that nobody had noticed.
 c6698a3236,He fell apart when he heard the heartbreaking news.
-b717fa0646,The deployment is falling apart and we don't know why.
+23903f70bd,The project is falling apart and we don't know why.
 2c19967afc,She soaked her clothes in water before washing them.
 feab859919,"I had been walking in the rain, so I was soaked when I got to the office."
-75d27a149b,Water was dripping from the kitchen tap.
+8379cd3d69,Water was dripping from the kitchen faucet.
 b05d2ed28b,Sweat dripped from his forehead during the demo.
 ada3af74de,He nodded his head to show that he understood the instructions.
 e0a166b8e1,She is nodding her head while I explain the plan.
@@ -142,3 +142,4 @@ c7de2d2c98,Don't blame me for the mistake.
 44fcb45a80,Don't criticize him before hearing his side of the story.
 c986a82bcf,Are you aware of the problem?
 02b6b52e0d,I came across an interesting book while cleaning my room.
+75d27a149b,Water was dripping from the kitchen tap.
