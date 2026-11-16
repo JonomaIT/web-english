@@ -688,11 +688,11 @@
     "audio": false
   },
   {
-    "id": "8379cd3d69",
+    "id": "75d27a149b",
     "pt": "A água pingava da torneira da cozinha.",
-    "en": "Water was dripping from the kitchen faucet.",
+    "en": "Water was dripping from the kitchen tap.",
     "notes": [],
-    "sources": ["obsidian:87"],
+    "sources": ["obsidian:87", "spoken-english:vocabulary-3"],
     "audio": false
   },
   {
@@ -1143,14 +1143,6 @@
     "pt": "Encontrei por acaso um livro interessante enquanto arrumava meu quarto.",
     "en": "I came across an interesting book while cleaning my room.",
     "notes": ["come across", "To find or discover something by chance."],
-    "sources": ["spoken-english:vocabulary-3"],
-    "audio": false
-  },
-  {
-    "id": "75d27a149b",
-    "pt": "A água estava pingando da torneira da cozinha.",
-    "en": "Water was dripping from the kitchen tap.",
-    "notes": ["drip", "To fall in small drops of liquid."],
     "sources": ["spoken-english:vocabulary-3"],
     "audio": false
   }
