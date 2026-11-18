@@ -204,6 +204,9 @@ def main(argv=None):
 
     quiz = parse_quiz(args.quiz)
     story_lessons, story_cards = stories(args.spoken)
+    if not story_lessons:
+        # Without the course files every story (and its cards) would be dropped from the site.
+        raise SystemExit(f"{args.spoken}: no story found (<Title>.pdf with <Title>.mp3). Is it the Spoken English folder? Nothing was written.")
     vocab_lessons, vocab_cards = vocabulary(args.spoken)
     vocab_cards = story_cards + vocab_cards
     cards = merge(quiz + vocab_cards)
