@@ -1,237 +1,5 @@
 [
   {
-    "slug": "the-decision-that-changed-everything",
-    "kind": "story",
-    "title": "The Decision That Changed Everything",
-    "paragraphs": [
-      "When Daniel was offered a promotion, he expected to feel excited. Instead, he felt strangely uncomfortable. For years, he had worked hard to build his career, and becoming a manager seemed like the obvious next step. However, the position came with a lot more responsibility, and Daniel wasn't sure whether he was ready for it. His manager, Sarah, noticed his hesitation.",
-      "“You've been working toward this for years,” she said. “Why are you having second thoughts?”",
-      "Daniel (1) __________ for a moment before answering. “I don't know. I suppose I'm afraid I'll make mistakes. As a team member, I only have to worry about my own work. As a manager, I'll be responsible for other people's performance too.” Sarah smiled. “That's completely normal. Leadership isn't about knowing everything. It's about being willing to learn.” Daniel appreciated her advice, but he still couldn't (2) __________ the feeling that he might fail.",
-      "That evening, he discussed the situation with his friend Mark. Mark listened carefully and then said, “You know what your problem is? You're focusing too much on everything that could go wrong.” “Isn't that sensible?” Daniel asked.",
-      "“Not always. Sometimes you have to (3) __________ and take a chance. If you spend your entire life trying to avoid failure, you'll never know what you're capable of.”",
-      "Daniel knew Mark had a point. He had always been (4) __________ of taking risks. He preferred situations where he knew exactly what to expect.",
-      "The next morning, Daniel decided to accept the promotion. His first few weeks were difficult. One of his team members regularly missed deadlines, while another constantly disagreed with his decisions. Daniel quickly realized that managing people was completely different from managing tasks.",
-      "At first, he tried to solve every problem himself. Eventually, however, he understood that he couldn't (5) __________ everything alone. He needed to trust his team and give them more responsibility.",
-      "One afternoon, a major client complained about a mistake made by Daniel's team. Daniel was furious. His first reaction was to blame the employee responsible.",
-      "But then he (6) __________ and thought about the situation carefully. The mistake wasn't entirely the employee's fault. Daniel had never clearly explained the procedure in the first place. Instead of criticizing his employee, Daniel admitted his own mistake.",
-      "To his surprise, the employee respected him more because of it. Over the following months, Daniel became a better leader. He learned to communicate clearly, listen to different opinions, and (7) __________ when problems appeared instead of ignoring them. He also learned an important lesson: confidence doesn't always come before action.",
-      "Sometimes, you have to take action first, make mistakes, learn from them, and gradually become confident.",
-      "A year later, Daniel looked back at his first day as a manager and smiled. He realized that accepting the promotion had (8) __________.",
-      "He hadn't become a perfect manager. In fact, he still made mistakes. But he was no longer afraid of them.",
-      "He had finally learned that growth often begins when we (9) __________."
-    ],
-    "audio": [
-      {
-        "label": "Narration",
-        "src": "/lessons/the-decision-that-changed-everything/the-decision-that-changed-everything.mp3"
-      }
-    ],
-    "pdf": "/lessons/the-decision-that-changed-everything/the-decision-that-changed-everything.pdf",
-    "blanks": [
-      {
-        "answer": "paused",
-        "meaning": "stopped briefly before doing or saying something"
-      },
-      {
-        "answer": "shake off",
-        "meaning": "get rid of a feeling, thought or problem"
-      },
-      {
-        "answer": "take the plunge",
-        "meaning": "finally decide to do something difficult or risky"
-      },
-      {
-        "answer": "wary",
-        "meaning": "cautious because you are aware of possible problems or danger"
-      },
-      {
-        "answer": "handle",
-        "meaning": "deal with or manage something"
-      },
-      {
-        "answer": "took a step back",
-        "meaning": "stopped and considered a situation more calmly"
-      },
-      {
-        "answer": "tackle problems head-on",
-        "meaning": "deal with problems directly rather than avoiding them"
-      },
-      {
-        "answer": "paid off",
-        "meaning": "produced a good result after effort or difficulty"
-      },
-      {
-        "answer": "step outside our comfort zone",
-        "meaning": "do something unfamiliar or challenging"
-      }
-    ],
-    "questions": [
-      "Have you ever had to take the plunge and make a difficult decision?",
-      "Are you generally comfortable stepping outside your comfort zone? Why or why not?",
-      "How do you usually handle problems when you're under pressure?",
-      "Do you think making mistakes is necessary for personal growth?",
-      "What is something you've done recently that eventually paid off?"
-    ],
-    "related": ["vocabulary-1", "vocabulary-2"]
-  },
-  {
-    "slug": "the-engineer-behind-the-infrastructure",
-    "kind": "story",
-    "title": "The Engineer Behind the Infrastructure",
-    "paragraphs": [
-      "When people think about technology companies, they often imagine websites, mobile applications, and sophisticated software. However, behind every successful digital product, there is an entire infrastructure that needs to function smoothly.",
-      "Arjun works as an Infrastructure Engineer specializing in DevOps and Site Reliability Engineering (SRE). He has several years of experience managing business-critical production environments, where even a few minutes of downtime can affect thousands of customers.",
-      "His primary responsibilities involve maintaining the stability, security, and performance of cloud infrastructure. He works extensively with Amazon Web Services (AWS), Kubernetes, and Linux-based systems. His day-to-day activities include monitoring production environments, troubleshooting technical issues, managing Kubernetes clusters, and performing infrastructure upgrades.",
-      "One of the most challenging aspects of his job is maintaining high availability. His organization operates services around the clock, which means infrastructure problems need to be identified and resolved quickly. He cannot simply shut everything down whenever maintenance is required. Instead, he needs to carefully plan upgrades and deployments to minimize disruption and achieve zero downtime whenever possible.",
-      "Automation also plays a significant role in his work. Rather than performing repetitive tasks manually, Arjun develops automated processes that make infrastructure management more efficient and reliable. This not only saves time but also reduces the possibility of human error.",
-      "Although he has strong technical expertise, Arjun understands that his job is not entirely about working with technologies. He collaborates with developers, security engineers, and other infrastructure specialists to ensure that everyone is working towards the same objectives.",
-      "When asked about his professional background during an interview, Arjun avoids simply listing the technologies he knows.",
-      "Instead, he explains how he uses those technologies, what responsibilities he handles, and the value he brings to the organization.",
-      "He believes that a good introduction should communicate more than just experience. It should demonstrate ownership, problem-solving ability, and an understanding of how technology supports business operations.",
-      "After all, keeping infrastructure running smoothly is often an achievement that nobody notices — until something goes wrong."
-    ],
-    "audio": [
-      {
-        "label": "Narration",
-        "src": "/lessons/the-engineer-behind-the-infrastructure/the-engineer-behind-the-infrastructure.mp3"
-      }
-    ],
-    "pdf": "/lessons/the-engineer-behind-the-infrastructure/the-engineer-behind-the-infrastructure.pdf",
-    "items": [
-      {
-        "term": "business-critical",
-        "definition": "Extremely important for the operation of a business.",
-        "en": "I manage business-critical production environments where downtime can have a significant impact.",
-        "pt": "Eu gerencio ambientes de produção críticos para o negócio, onde uma indisponibilidade pode ter um impacto significativo.",
-        "cardId": "734336b3bc"
-      },
-      {
-        "term": "day-to-day activities",
-        "definition": "The regular tasks and responsibilities involved in a job.",
-        "en": "My day-to-day activities include monitoring infrastructure and troubleshooting production issues.",
-        "pt": "Minhas atividades do dia a dia incluem monitorar a infraestrutura e resolver problemas de produção.",
-        "cardId": "0c9e75f116"
-      },
-      {
-        "term": "high availability",
-        "definition": "Ensuring that a system remains operational and accessible with minimal interruptions.",
-        "en": "One of my primary responsibilities is maintaining high availability across our production environments.",
-        "pt": "Uma das minhas principais responsabilidades é manter a alta disponibilidade dos nossos ambientes de produção.",
-        "cardId": "960e431ae9"
-      },
-      {
-        "term": "troubleshoot",
-        "definition": "To identify and resolve problems with a system or piece of equipment.",
-        "en": "I regularly troubleshoot Kubernetes-related issues in production.",
-        "pt": "Eu investigo e resolvo com frequência problemas de Kubernetes em produção.",
-        "cardId": "95e394ec43"
-      },
-      {
-        "term": "around the clock",
-        "definition": "Continuously, 24 hours a day.",
-        "en": "We maintain infrastructure that supports business operations around the clock.",
-        "pt": "Mantemos uma infraestrutura que sustenta as operações do negócio 24 horas por dia.",
-        "cardId": "25adeddb36"
-      },
-      {
-        "term": "minimize disruption",
-        "definition": "To reduce interruptions or negative effects.",
-        "en": "We carefully plan infrastructure upgrades to minimize disruption to customers.",
-        "pt": "Planejamos com cuidado as atualizações de infraestrutura para minimizar o impacto nos clientes.",
-        "cardId": "5a2d636c01"
-      },
-      {
-        "term": "play a significant role",
-        "definition": "To have an important influence or contribution.",
-        "en": "Automation plays a significant role in improving infrastructure reliability.",
-        "pt": "A automação tem um papel importante em melhorar a confiabilidade da infraestrutura.",
-        "cardId": "9a2f64fdf3"
-      },
-      {
-        "term": "repetitive tasks",
-        "definition": "Tasks that are performed repeatedly.",
-        "en": "We automate repetitive tasks to improve efficiency and reduce human error.",
-        "pt": "Automatizamos tarefas repetitivas para ganhar eficiência e reduzir o erro humano.",
-        "cardId": "4fa7b15a64"
-      },
-      {
-        "term": "collaborate with",
-        "definition": "To work together with other people towards a common goal.",
-        "en": "I regularly collaborate with developers and security engineers.",
-        "pt": "Colaboro com frequência com desenvolvedores e engenheiros de segurança.",
-        "cardId": "1aaa41a183"
-      }
-    ]
-  },
-  {
-    "slug": "the-last-train-home",
-    "kind": "story",
-    "title": "The Last Train Home",
-    "paragraphs": [
-      "The rain had been falling for almost an hour when Daniel stepped out of the café. The streets were unusually quiet, and the yellow lights reflected on the wet pavement like tiny pieces of gold. He checked his phone.",
-      "“Where are you?”",
-      "It was a message from his old friend, Alex.",
-      "Daniel smiled. They had been friends since university, nearly fifteen years. But lately, their friendship had started to fall apart. They rarely met, their conversations had become superficial, and neither of them seemed willing to talk about it.",
-      "Daniel put his phone away and started walking toward the train station.",
-      "“Daniel!”",
-      "He stopped.",
-      "Alex was standing across the street, completely soaked. His hair was dripping, and he was breathing heavily.",
-      "“You actually came,” Alex said.",
-      "“You said it was important.”",
-      "“It is.”",
-      "They stood there for a moment, listening to the rain. “I heard you're leaving tomorrow,” Alex finally said. Daniel nodded. “I'm moving to Canada.”",
-      "“I know.”",
-      "“You knew?”",
-      "“Your sister told me.”",
-      "Daniel looked away. “I was going to tell you.”",
-      "“But you didn't.”",
-      "There was an uncomfortable silence.",
-      "Alex took a deep breath. “Do you know what hurts the most? It isn't that you're leaving. It's that I found out from someone else.” Daniel felt a lump in his throat.",
-      "“I didn't know how to tell you,” he admitted. “Everything has changed between us. I thought maybe… you wouldn't care.” Alex looked at him in disbelief.",
-      "“Of course I care. You're my best friend.”",
-      "Daniel laughed quietly. “Are we? We haven't spoken properly in months.”",
-      "“That doesn't mean the friendship disappeared.”",
-      "Daniel looked at his friend. For the first time in months, neither of them was trying to hide behind small talk.",
-      "“I'll be honest,” Daniel said. “I've been avoiding you because I felt like you were judging every decision I made.”",
-      "Alex lowered his eyes.",
-      "“And I'll be honest too,” he said. “I was jealous.”",
-      "“Jealous?”",
-      "“You got the job you wanted. You're moving abroad. Your life seems to be moving forward, while mine feels stuck.”",
-      "Daniel didn't know what to say.",
-      "Then he smiled.",
-      "“You could have told me.”",
-      "“I know.”",
-      "“And I could have told you how I felt.”",
-      "“I know.”",
-      "The station announcement suddenly echoed through the street. “The final train will arrive in five minutes.”",
-      "Alex looked at Daniel.",
-      "“So… is this goodbye?”",
-      "Daniel shook his head.",
-      "“No. It's just a different chapter.”",
-      "The train arrived with a loud screech. Daniel picked up his suitcase.",
-      "Before stepping inside, he turned around.",
-      "“Alex?”",
-      "“Yeah?”",
-      "“Promise me something.”",
-      "“What?”",
-      "“Don't let distance decide whether we're friends.”",
-      "Alex smiled.",
-      "“Deal.”",
-      "The doors began to close.",
-      "Daniel watched his friend through the glass as the train slowly disappeared into the darkness.",
-      "For the first time in years, he understood something simple: a genuinely good friend isn't someone who is always there physically. It's someone who is willing to be honest, listen, forgive, and stand by you, even when life pulls you in different directions. Sometimes friendships don't end.",
-      "Sometimes, they simply grow up."
-    ],
-    "audio": [
-      {
-        "label": "Narration",
-        "src": "/lessons/the-last-train-home/the-last-train-home.mp3"
-      }
-    ],
-    "pdf": "/lessons/the-last-train-home/the-last-train-home.pdf",
-    "related": ["vocabulary-3"]
-  },
-  {
     "slug": "vocabulary-1",
     "kind": "vocabulary",
     "title": "Vocabulary Reciting Exercise 1",
@@ -345,7 +113,7 @@
         "cardId": "8abec5234c"
       }
     ],
-    "pdf": "/lessons/vocabulary-1/vocabulary-1.pdf"
+    "pdf": null
   },
   {
     "slug": "vocabulary-2",
@@ -407,7 +175,7 @@
         "cardId": "c986a82bcf"
       }
     ],
-    "pdf": "/lessons/vocabulary-2/vocabulary-2.pdf"
+    "pdf": null
   },
   {
     "slug": "vocabulary-3",
@@ -478,6 +246,6 @@
         "cardId": "44616ddbf2"
       }
     ],
-    "pdf": "/lessons/vocabulary-3/vocabulary-3.pdf"
+    "pdf": null
   }
 ]

@@ -225,7 +225,7 @@
   },
   {
     "id": "9cc2a86841",
-    "pt": "Estou começando a ter dúvidas sobre essa migração.",
+    "pt": "Estou ficando em dúvida sobre essa migração.",
     "en": "I'm having second thoughts about this migration.",
     "notes": ["have / had / had"],
     "sources": ["obsidian:29"],
@@ -845,81 +845,6 @@
     "en": "After the first migration, we kept the ball rolling and moved the other services the same week.",
     "notes": ["keep / kept / kept"],
     "sources": ["obsidian:106"],
-    "audio": false
-  },
-  {
-    "id": "734336b3bc",
-    "pt": "Eu gerencio ambientes de produção críticos para o negócio, onde uma indisponibilidade pode ter um impacto significativo.",
-    "en": "I manage business-critical production environments where downtime can have a significant impact.",
-    "notes": ["business-critical", "Extremely important for the operation of a business."],
-    "sources": ["spoken-english:the-engineer-behind-the-infrastructure"],
-    "audio": false
-  },
-  {
-    "id": "0c9e75f116",
-    "pt": "Minhas atividades do dia a dia incluem monitorar a infraestrutura e resolver problemas de produção.",
-    "en": "My day-to-day activities include monitoring infrastructure and troubleshooting production issues.",
-    "notes": ["day-to-day activities", "The regular tasks and responsibilities involved in a job."],
-    "sources": ["spoken-english:the-engineer-behind-the-infrastructure"],
-    "audio": false
-  },
-  {
-    "id": "960e431ae9",
-    "pt": "Uma das minhas principais responsabilidades é manter a alta disponibilidade dos nossos ambientes de produção.",
-    "en": "One of my primary responsibilities is maintaining high availability across our production environments.",
-    "notes": [
-      "high availability",
-      "Ensuring that a system remains operational and accessible with minimal interruptions."
-    ],
-    "sources": ["spoken-english:the-engineer-behind-the-infrastructure"],
-    "audio": false
-  },
-  {
-    "id": "95e394ec43",
-    "pt": "Eu investigo e resolvo com frequência problemas de Kubernetes em produção.",
-    "en": "I regularly troubleshoot Kubernetes-related issues in production.",
-    "notes": ["troubleshoot", "To identify and resolve problems with a system or piece of equipment."],
-    "sources": ["spoken-english:the-engineer-behind-the-infrastructure"],
-    "audio": false
-  },
-  {
-    "id": "25adeddb36",
-    "pt": "Mantemos uma infraestrutura que sustenta as operações do negócio 24 horas por dia.",
-    "en": "We maintain infrastructure that supports business operations around the clock.",
-    "notes": ["around the clock", "Continuously, 24 hours a day."],
-    "sources": ["spoken-english:the-engineer-behind-the-infrastructure"],
-    "audio": false
-  },
-  {
-    "id": "5a2d636c01",
-    "pt": "Planejamos com cuidado as atualizações de infraestrutura para minimizar o impacto nos clientes.",
-    "en": "We carefully plan infrastructure upgrades to minimize disruption to customers.",
-    "notes": ["minimize disruption", "To reduce interruptions or negative effects."],
-    "sources": ["spoken-english:the-engineer-behind-the-infrastructure"],
-    "audio": false
-  },
-  {
-    "id": "9a2f64fdf3",
-    "pt": "A automação tem um papel importante em melhorar a confiabilidade da infraestrutura.",
-    "en": "Automation plays a significant role in improving infrastructure reliability.",
-    "notes": ["play a significant role", "To have an important influence or contribution."],
-    "sources": ["spoken-english:the-engineer-behind-the-infrastructure"],
-    "audio": false
-  },
-  {
-    "id": "4fa7b15a64",
-    "pt": "Automatizamos tarefas repetitivas para ganhar eficiência e reduzir o erro humano.",
-    "en": "We automate repetitive tasks to improve efficiency and reduce human error.",
-    "notes": ["repetitive tasks", "Tasks that are performed repeatedly."],
-    "sources": ["spoken-english:the-engineer-behind-the-infrastructure"],
-    "audio": false
-  },
-  {
-    "id": "1aaa41a183",
-    "pt": "Colaboro com frequência com desenvolvedores e engenheiros de segurança.",
-    "en": "I regularly collaborate with developers and security engineers.",
-    "notes": ["collaborate with", "To work together with other people towards a common goal."],
-    "sources": ["spoken-english:the-engineer-behind-the-infrastructure"],
     "audio": false
   },
   {
