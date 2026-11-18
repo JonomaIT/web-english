@@ -47,7 +47,10 @@ export default function CardsPage() {
         <input
           className="search"
           type="search"
-          placeholder="Search in Portuguese or English"
+          name="q"
+          autoComplete="off"
+          spellCheck={false}
+          placeholder="Search in Portuguese or English…"
           value={query}
           onChange={(e) => setQuery(e.target.value)}
           aria-label="Search cards"

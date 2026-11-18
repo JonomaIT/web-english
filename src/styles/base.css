@@ -77,6 +77,17 @@ a:hover {
   border-radius: var(--radius-sm);
 }
 
+/* Taps answer at once: no double-tap zoom on controls. */
+a,
+button,
+input,
+label,
+select,
+textarea,
+summary {
+  touch-action: manipulation;
+}
+
 ::selection {
   background: var(--violet-500);
   color: var(--white);

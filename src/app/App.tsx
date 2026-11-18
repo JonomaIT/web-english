@@ -9,6 +9,9 @@ function toggleTheme() {
     : window.matchMedia("(prefers-color-scheme: light)").matches;
   const next = light ? "dark" : "light";
   root.dataset.theme = next;
+  document.querySelectorAll<HTMLMetaElement>('meta[name="theme-color"]').forEach((meta) => {
+    meta.content = next === "light" ? "#f6f7f9" : "#050608";
+  });
   try {
     localStorage.setItem("theme", next);
   } catch {

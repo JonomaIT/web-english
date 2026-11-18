@@ -59,6 +59,8 @@ export function SignIn() {
             name="username"
             autoComplete="username"
             autoCapitalize="none"
+            autoCorrect="off"
+            spellCheck={false}
             required
             value={user}
             onChange={(e) => setUser(e.target.value)}

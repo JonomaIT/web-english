@@ -8,7 +8,8 @@
       name="description"
       content="English practice: say the Portuguese in English, reveal the answer and its audio, with spaced repetition; and the Spoken English lessons."
     />
-    <meta name="theme-color" content="#050608" />
+    <meta name="theme-color" content="#050608" media="(prefers-color-scheme: dark)" />
+    <meta name="theme-color" content="#f6f7f9" media="(prefers-color-scheme: light)" />
     <link rel="icon" href="/favicon.ico" sizes="any" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
     <link rel="preload" href="/fonts/geist-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin />
@@ -16,7 +17,12 @@
     <script>
       try {
         var t = localStorage.getItem("theme");
-        if (t === "light" || t === "dark") document.documentElement.dataset.theme = t;
+        if (t === "light" || t === "dark") {
+          document.documentElement.dataset.theme = t;
+          document.querySelectorAll('meta[name="theme-color"]').forEach(function (m) {
+            m.content = t === "light" ? "#f6f7f9" : "#050608";
+          });
+        }
       } catch (e) {}
     </script>
   </head>

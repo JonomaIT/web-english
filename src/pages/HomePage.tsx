@@ -148,6 +148,8 @@ export default function HomePage() {
             <span>New cards per day</span>
             <input
               type="number"
+              name="newPerDay"
+              inputMode="numeric"
               min={0}
               max={200}
               value={settings.newPerDay}

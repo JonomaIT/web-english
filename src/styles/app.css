@@ -856,3 +856,11 @@ kbd {
     grid-template-columns: 1fr;
   }
 }
+
+/* Numbers that change or sit side by side keep their width. */
+.stat__value,
+.study__meta,
+.grade__when,
+.sync {
+  font-variant-numeric: tabular-nums;
+}
