@@ -4,42 +4,18 @@
     "the-decision-that-changed-everything": {
       "related": ["vocabulary-1", "vocabulary-2"],
       "blanks": [
-        {
-          "answer": "paused",
-          "meaning": "stopped briefly before doing or saying something"
-        },
-        {
-          "answer": "shake off",
-          "meaning": "get rid of a feeling, thought or problem"
-        },
-        {
-          "answer": "take the plunge",
-          "meaning": "finally decide to do something difficult or risky"
-        },
-        {
-          "answer": "wary",
-          "meaning": "cautious because you are aware of possible problems or danger"
-        },
-        {
-          "answer": "handle",
-          "meaning": "deal with or manage something"
-        },
-        {
-          "answer": "took a step back",
-          "meaning": "stopped and considered a situation more calmly"
-        },
+        { "answer": "paused", "meaning": "stopped briefly before doing or saying something" },
+        { "answer": "shake off", "meaning": "get rid of a feeling, thought or problem" },
+        { "answer": "take the plunge", "meaning": "finally decide to do something difficult or risky" },
+        { "answer": "wary", "meaning": "cautious because you are aware of possible problems or danger" },
+        { "answer": "handle", "meaning": "deal with or manage something" },
+        { "answer": "took a step back", "meaning": "stopped and considered a situation more calmly" },
         {
           "answer": "tackle problems head-on",
           "meaning": "deal with problems directly rather than avoiding them"
         },
-        {
-          "answer": "paid off",
-          "meaning": "produced a good result after effort or difficulty"
-        },
-        {
-          "answer": "step outside our comfort zone",
-          "meaning": "do something unfamiliar or challenging"
-        }
+        { "answer": "paid off", "meaning": "produced a good result after effort or difficulty" },
+        { "answer": "step outside our comfort zone", "meaning": "do something unfamiliar or challenging" }
       ],
       "questions": [
         "Have you ever had to take the plunge and make a difficult decision?",
@@ -143,21 +119,13 @@
           "en": "Don't worry about making mistakes.",
           "pt": "Não se preocupe em errar."
         },
-        {
-          "term": "toward",
-          "en": "He walked toward the door.",
-          "pt": "Ele caminhou em direção à porta."
-        },
+        { "term": "toward", "en": "He walked toward the door.", "pt": "Ele caminhou em direção à porta." },
         {
           "term": "forget about",
           "en": "I completely forgot about the meeting.",
           "pt": "Esqueci completamente da reunião."
         },
-        {
-          "term": "willing",
-          "en": "She is willing to help us.",
-          "pt": "Ela está disposta a nos ajudar."
-        },
+        { "term": "willing", "en": "She is willing to help us.", "pt": "Ela está disposta a nos ajudar." },
         {
           "term": "carefully",
           "en": "Please read the instructions carefully.",
@@ -240,11 +208,7 @@
           "en": "She always complains about her job.",
           "pt": "Ela sempre reclama do trabalho."
         },
-        {
-          "term": "blame",
-          "en": "Don't blame me for the mistake.",
-          "pt": "Não me culpe pelo erro."
-        },
+        { "term": "blame", "en": "Don't blame me for the mistake.", "pt": "Não me culpe pelo erro." },
         {
           "term": "procedure",
           "en": "We need to follow the correct procedure.",
@@ -255,11 +219,7 @@
           "en": "Don't criticize him before hearing his side of the story.",
           "pt": "Não critique ele antes de ouvir o lado dele da história."
         },
-        {
-          "term": "aware",
-          "en": "Are you aware of the problem?",
-          "pt": "Você está ciente do problema?"
-        }
+        { "term": "aware", "en": "Are you aware of the problem?", "pt": "Você está ciente do problema?" }
       ]
     },
     {
@@ -404,11 +364,7 @@
           "en": "Many monkeys make much mischief.",
           "pt": "Muitos macacos fazem muita bagunça."
         },
-        {
-          "term": "/v/",
-          "en": "Victor viewed the vast valley.",
-          "pt": "O Victor contemplou o vale imenso."
-        },
+        { "term": "/v/", "en": "Victor viewed the vast valley.", "pt": "O Victor contemplou o vale imenso." },
         {
           "term": "/v/",
           "en": "Velvet vines grow over the village.",
@@ -444,11 +400,7 @@
           "en": "Sharp sharks share shiny shells.",
           "pt": "Tubarões afiados dividem conchas brilhantes."
         },
-        {
-          "term": "/dʒ/",
-          "en": "Jack and Jill jumped joyfully.",
-          "pt": "Jack e Jill pularam de alegria."
-        },
+        { "term": "/dʒ/", "en": "Jack and Jill jumped joyfully.", "pt": "Jack e Jill pularam de alegria." },
         {
           "term": "/dʒ/",
           "en": "Jolly giants juggle juicy oranges.",
