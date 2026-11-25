@@ -2,6 +2,7 @@ import { lazy, Suspense, useState } from "react";
 import { Link, useParams } from "react-router";
 import { playCard } from "../audio/speak";
 import { Icon } from "../components/Icon";
+import { Sentence } from "../components/Sentence";
 import {
   BLANK,
   cardById,
@@ -87,7 +88,7 @@ function Items({ items }: { items: VocabularyItem[] }) {
           <li key={it.cardId} className="item">
             <p className="item__term">{it.term}</p>
             {it.definition ? <p className="item__definition">{it.definition}</p> : null}
-            <p className="item__en">{it.en}</p>
+            <Sentence className="item__en" text={it.en} />
             <div className="item__row">
               {open ? (
                 <p className="item__pt">{it.pt}</p>
@@ -101,14 +102,24 @@ function Items({ items }: { items: VocabularyItem[] }) {
                 </button>
               )}
               {card ? (
-                <button
-                  className="icon-btn"
-                  type="button"
-                  onClick={() => playCard(card)}
-                  aria-label={`Play: ${it.en}`}
-                >
-                  <Icon name="volume" />
-                </button>
+                <span className="item__play">
+                  <button
+                    className="link-btn"
+                    type="button"
+                    onClick={() => playCard(card, "slow")}
+                    aria-label={`Play slowly: ${it.en}`}
+                  >
+                    Slow
+                  </button>
+                  <button
+                    className="icon-btn"
+                    type="button"
+                    onClick={() => playCard(card)}
+                    aria-label={`Play: ${it.en}`}
+                  >
+                    <Icon name="volume" />
+                  </button>
+                </span>
               ) : null}
             </div>
           </li>

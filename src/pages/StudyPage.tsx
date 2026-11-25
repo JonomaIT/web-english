@@ -1,11 +1,12 @@
 // Review, as in Anki: the Portuguese first; say it in English, then reveal the English and its audio
 // and answer how it went (Again, Hard, Good, Easy). Keys: Space or Enter reveals, 1-4 answer,
-// R plays the audio again.
+// R plays the audio again, S slowly; a tap on a word says that word alone.
 import { useCallback, useEffect, useMemo, useState } from "react";
 import { Link, useSearchParams } from "react-router";
 import { useStudy } from "../app/studyContext";
 import { playCard, stopAudio } from "../audio/speak";
 import { Icon } from "../components/Icon";
+import { Sentence } from "../components/Sentence";
 import { cardById, cards, lessonBySlug, lessonCardIds, sourceLabel } from "../content/content";
 import { formatInterval, GRADES, type Grade } from "../srs/scheduler";
 import { buildQueue } from "../study/queue";
@@ -75,6 +76,7 @@ export default function StudyPage() {
       const g = GRADES.find((x) => x.key === e.key);
       if (g && revealed) answer(g.grade);
       if (e.key.toLowerCase() === "r" && revealed && card) playCard(card);
+      if (e.key.toLowerCase() === "s" && revealed && card) playCard(card, "slow");
     };
     window.addEventListener("keydown", onKey);
     return () => window.removeEventListener("keydown", onKey);
@@ -129,7 +131,7 @@ export default function StudyPage() {
         {revealed ? (
           <div className="flashcard__side flashcard__answer">
             <span className="flashcard__label">English</span>
-            <p className="flashcard__en">{card.en}</p>
+            <Sentence className="flashcard__en" text={card.en} />
             {card.notes.length > 0 ? (
               <ul className="chips" role="list">
                 {card.notes.map((n) => (
@@ -143,7 +145,10 @@ export default function StudyPage() {
               <button className="btn btn--secondary" type="button" onClick={() => playCard(card)}>
                 <Icon name="volume" /> Play <kbd>R</kbd>
               </button>
-              {!card.audio ? <span className="hint">Browser voice: the recording is pending</span> : null}
+              <button className="btn btn--secondary" type="button" onClick={() => playCard(card, "slow")}>
+                <Icon name="volume" /> Slow <kbd>S</kbd>
+              </button>
+              <span className="hint">Tap a word to hear it alone, slowly.</span>
             </div>
             <p className="flashcard__source mono">{card.sources.map(sourceLabel).join(" · ")}</p>
           </div>
