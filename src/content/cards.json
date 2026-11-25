@@ -1481,5 +1481,328 @@
     "notes": ["come across", "To find or discover something by chance."],
     "sources": ["spoken-english:vocabulary-3"],
     "audio": false
+  },
+  {
+    "id": "4c22a4a2d4",
+    "pt": "Insetos pretos e grandes sangram sangue azul e preto.",
+    "en": "Big black bugs bleed blue black blood.",
+    "notes": ["/b/"],
+    "sources": ["spoken-english:speaking-practice-1"],
+    "audio": false
+  },
+  {
+    "id": "4196c03f1d",
+    "pt": "Ela vende conchas do mar à beira-mar.",
+    "en": "She sells seashells by the seashore.",
+    "notes": ["/s/ and /ʃ/"],
+    "sources": ["spoken-english:speaking-practice-1"],
+    "audio": false
+  },
+  {
+    "id": "fc2521f121",
+    "pt": "Peter Piper pegou um monte de pimentas em conserva.",
+    "en": "Peter Piper picked a peck of pickled peppers.",
+    "notes": ["/p/"],
+    "sources": ["spoken-english:speaking-practice-1"],
+    "audio": false
+  },
+  {
+    "id": "7460b0f1d1",
+    "pt": "Qual bruxa desejou qual desejo malvado?",
+    "en": "Which witch wished which wicked wish?",
+    "notes": ["/w/"],
+    "sources": ["spoken-english:speaking-practice-1"],
+    "audio": false
+  },
+  {
+    "id": "05b77dbe30",
+    "pt": "Dez tartaruguinhas pegaram dois táxis.",
+    "en": "Ten tiny turtles took two taxis.",
+    "notes": ["/t/"],
+    "sources": ["spoken-english:speaking-practice-1"],
+    "audio": false
+  },
+  {
+    "id": "9f000e6289",
+    "pt": "Quatro peixes frescos e bons para você.",
+    "en": "Four fine fresh fish for you.",
+    "notes": ["/f/"],
+    "sources": ["spoken-english:speaking-practice-1"],
+    "audio": false
+  },
+  {
+    "id": "8c2ba4b5bd",
+    "pt": "O Larry adora ouvir música alta.",
+    "en": "Larry loves listening to loud music.",
+    "notes": ["/l/"],
+    "sources": ["spoken-english:speaking-practice-1"],
+    "audio": false
+  },
+  {
+    "id": "3f7b9f8347",
+    "pt": "Caminhão vermelho, caminhão amarelo.",
+    "en": "Red lorry, yellow lorry.",
+    "notes": ["/r/ and /l/", "lorry: caminhão (inglês britânico)"],
+    "sources": ["spoken-english:speaking-practice-1"],
+    "audio": false
+  },
+  {
+    "id": "d592eb5eb0",
+    "pt": "O guepardo Chester mastiga um pedaço de queijo cheddar barato.",
+    "en": "Chester cheetah chews a chunk of cheap cheddar cheese.",
+    "notes": ["/tʃ/"],
+    "sources": ["spoken-english:speaking-practice-1"],
+    "audio": false
+  },
+  {
+    "id": "74c4acc710",
+    "pt": "Trinta e três ladrões pensaram que tinham emocionado o trono.",
+    "en": "Thirty-three thieves thought that they thrilled the throne.",
+    "notes": [
+      "/θ/",
+      "Frase sem muito sentido, só para treinar o th: \"thrilled the throne\" = \"emocionaram o trono\"."
+    ],
+    "sources": ["spoken-english:speaking-practice-1"],
+    "audio": false
+  },
+  {
+    "id": "2e34c6c27a",
+    "pt": "Um cozinheiro poderia fazer biscoitos numa cozinha limpa.",
+    "en": "A cook could cook cookies in a clean kitchen.",
+    "notes": ["/k/"],
+    "sources": ["spoken-english:speaking-practice-1"],
+    "audio": false
+  },
+  {
+    "id": "dea1ca1c90",
+    "pt": "Uvas verdes crescem em grandes jardins.",
+    "en": "Green grapes grow in great gardens.",
+    "notes": ["/g/"],
+    "sources": ["spoken-english:speaking-practice-1"],
+    "audio": false
+  },
+  {
+    "id": "1c5f3eac9b",
+    "pt": "A Betty comprou um pouco de manteiga.",
+    "en": "Betty bought a bit of butter.",
+    "notes": ["/b/ and /t/"],
+    "sources": ["spoken-english:speaking-practice-1"],
+    "audio": false
+  },
+  {
+    "id": "5b9cae9c08",
+    "pt": "O cachorro do Dan cavou fundo na terra.",
+    "en": "Dan's dog dug deep in the dirt.",
+    "notes": ["/d/"],
+    "sources": ["spoken-english:speaking-practice-1"],
+    "audio": false
+  },
+  {
+    "id": "72672d356a",
+    "pt": "Muitos macacos fazem muita bagunça.",
+    "en": "Many monkeys make much mischief.",
+    "notes": ["/m/"],
+    "sources": ["spoken-english:speaking-practice-1"],
+    "audio": false
+  },
+  {
+    "id": "b10b49ec06",
+    "pt": "Violetas bem vivas no vale.",
+    "en": "Very vivid violets in the valley.",
+    "notes": ["/v/"],
+    "sources": ["spoken-english:speaking-practice-1"],
+    "audio": false
+  },
+  {
+    "id": "6892c67b2d",
+    "pt": "O Victor contemplou o vale imenso.",
+    "en": "Victor viewed the vast valley.",
+    "notes": ["/v/"],
+    "sources": ["spoken-english:speaking-practice-1"],
+    "audio": false
+  },
+  {
+    "id": "d8929f395c",
+    "pt": "Trepadeiras aveludadas crescem sobre a vila.",
+    "en": "Velvet vines grow over the village.",
+    "notes": ["/v/"],
+    "sources": ["spoken-english:speaking-practice-1"],
+    "audio": false
+  },
+  {
+    "id": "024a87027c",
+    "pt": "Seis caracóis escorregadios deslizaram devagar em direção ao mar.",
+    "en": "Six slippery snails slid slowly seaward.",
+    "notes": ["/s/"],
+    "sources": ["spoken-english:speaking-practice-1"],
+    "audio": false
+  },
+  {
+    "id": "d1bed04c69",
+    "pt": "Sete cobras bobas cantaram baixinho.",
+    "en": "Seven silly snakes sang softly.",
+    "notes": ["/s/"],
+    "sources": ["spoken-english:speaking-practice-1"],
+    "audio": false
+  },
+  {
+    "id": "1fc0589601",
+    "pt": "Zebras malucas ziguezagueiam pelo zoológico.",
+    "en": "Zany zebras zigzag through the zoo.",
+    "notes": ["/z/"],
+    "sources": ["spoken-english:speaking-practice-1"],
+    "audio": false
+  },
+  {
+    "id": "ef6b944421",
+    "pt": "Lagartos preguiçosos passam zunindo pelo zoológico.",
+    "en": "Lazy lizards zoom across the zoo.",
+    "notes": ["/z/"],
+    "sources": ["spoken-english:speaking-practice-1"],
+    "audio": false
+  },
+  {
+    "id": "fda7551f59",
+    "pt": "Abelhas ocupadas zumbem perto dos arbustos.",
+    "en": "Busy bees buzz by the bushes.",
+    "notes": ["/z/"],
+    "sources": ["spoken-english:speaking-practice-1"],
+    "audio": false
+  },
+  {
+    "id": "8cfd1b31ba",
+    "pt": "Sapatos brilhantes brilham na loja.",
+    "en": "Shiny shoes shine in the shop.",
+    "notes": ["/ʃ/"],
+    "sources": ["spoken-english:speaking-practice-1"],
+    "audio": false
+  },
+  {
+    "id": "9a468a809a",
+    "pt": "Tubarões afiados dividem conchas brilhantes.",
+    "en": "Sharp sharks share shiny shells.",
+    "notes": ["/ʃ/"],
+    "sources": ["spoken-english:speaking-practice-1"],
+    "audio": false
+  },
+  {
+    "id": "78401b0bab",
+    "pt": "Jack e Jill pularam de alegria.",
+    "en": "Jack and Jill jumped joyfully.",
+    "notes": ["/dʒ/"],
+    "sources": ["spoken-english:speaking-practice-1"],
+    "audio": false
+  },
+  {
+    "id": "83974da822",
+    "pt": "Gigantes alegres fazem malabarismo com laranjas suculentas.",
+    "en": "Jolly giants juggle juicy oranges.",
+    "notes": ["/dʒ/"],
+    "sources": ["spoken-english:speaking-practice-1"],
+    "audio": false
+  },
+  {
+    "id": "66bd493a55",
+    "pt": "Eu costumo acordar por volta das sete da manhã.",
+    "en": "I usually wake up around seven in the morning.",
+    "notes": ["morning routine"],
+    "sources": ["spoken-english:speaking-practice-1"],
+    "audio": false
+  },
+  {
+    "id": "b6a514bbcc",
+    "pt": "A primeira coisa que faço é beber um copo d'água e olhar o celular.",
+    "en": "The first thing I do is drink a glass of water and check my phone.",
+    "notes": ["morning routine"],
+    "sources": ["spoken-english:speaking-practice-1"],
+    "audio": false
+  },
+  {
+    "id": "cf03a3ebdd",
+    "pt": "Depois disso, escovo os dentes e tomo banho.",
+    "en": "After that, I brush my teeth and take a shower.",
+    "notes": ["morning routine"],
+    "sources": ["spoken-english:speaking-practice-1"],
+    "audio": false
+  },
+  {
+    "id": "e7c7f243a2",
+    "pt": "Aí eu tomo café da manhã e começo o trabalho do dia.",
+    "en": "Then I have breakfast and start my work for the day.",
+    "notes": ["morning routine"],
+    "sources": ["spoken-english:speaking-practice-1"],
+    "audio": false
+  },
+  {
+    "id": "a0289464c4",
+    "pt": "Quero melhorar minha pronúncia.",
+    "en": "I want to improve my pronunciation.",
+    "notes": ["improve"],
+    "sources": ["spoken-english:speaking-practice-1"],
+    "audio": false
+  },
+  {
+    "id": "a164ebd4d8",
+    "pt": "Falar em público é um grande desafio para mim.",
+    "en": "Speaking in public is a big challenge for me.",
+    "notes": ["challenge"],
+    "sources": ["spoken-english:speaking-practice-1"],
+    "audio": false
+  },
+  {
+    "id": "eb96462361",
+    "pt": "Esse emprego é uma ótima oportunidade.",
+    "en": "This job is a great opportunity.",
+    "notes": ["opportunity"],
+    "sources": ["spoken-english:speaking-practice-1"],
+    "audio": false
+  },
+  {
+    "id": "dcde802b27",
+    "pt": "Ela levantou um bom ponto na reunião.",
+    "en": "She brought up a good point in the meeting.",
+    "notes": ["bring up", "bring / brought / brought"],
+    "sources": ["spoken-english:speaking-practice-1"],
+    "audio": false
+  },
+  {
+    "id": "75773b9388",
+    "pt": "Eles cancelaram a reunião em cima da hora.",
+    "en": "They called off the meeting at the last minute.",
+    "notes": ["call off"],
+    "sources": ["spoken-english:speaking-practice-1"],
+    "audio": false
+  },
+  {
+    "id": "7bdd068301",
+    "pt": "Eu ficaria calmo e olharia minhas malas com cuidado.",
+    "en": "I would stay calm and check my bags carefully.",
+    "notes": ["would (situation)"],
+    "sources": ["spoken-english:speaking-practice-1"],
+    "audio": false
+  },
+  {
+    "id": "214bb2c65d",
+    "pt": "Depois eu iria à delegacia mais próxima e registraria o problema.",
+    "en": "Then I would go to the nearest police station and report the problem.",
+    "notes": ["would (situation)"],
+    "sources": ["spoken-english:speaking-practice-1"],
+    "audio": false
+  },
+  {
+    "id": "5c3aa83458",
+    "pt": "Depois disso, eu entraria em contato com a embaixada do meu país para pedir ajuda.",
+    "en": "After that, I would contact my country's embassy for help.",
+    "notes": ["would (situation)"],
+    "sources": ["spoken-english:speaking-practice-1"],
+    "audio": false
+  },
+  {
+    "id": "b61c9a9a9a",
+    "pt": "Eles poderiam me orientar sobre como conseguir um passaporte temporário.",
+    "en": "They could guide me on how to get a temporary passport.",
+    "notes": ["would (situation)"],
+    "sources": ["spoken-english:speaking-practice-1"],
+    "audio": false
   }
 ]

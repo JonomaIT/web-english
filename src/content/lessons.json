@@ -479,5 +479,256 @@
       }
     ],
     "pdf": "/lessons/vocabulary-3/vocabulary-3.pdf"
+  },
+  {
+    "slug": "speaking-practice-1",
+    "kind": "vocabulary",
+    "title": "Warm-up and Speaking Practice 1",
+    "items": [
+      {
+        "term": "/b/",
+        "en": "Big black bugs bleed blue black blood.",
+        "pt": "Insetos pretos e grandes sangram sangue azul e preto.",
+        "cardId": "4c22a4a2d4"
+      },
+      {
+        "term": "/s/ and /ʃ/",
+        "en": "She sells seashells by the seashore.",
+        "pt": "Ela vende conchas do mar à beira-mar.",
+        "cardId": "4196c03f1d"
+      },
+      {
+        "term": "/p/",
+        "en": "Peter Piper picked a peck of pickled peppers.",
+        "pt": "Peter Piper pegou um monte de pimentas em conserva.",
+        "cardId": "fc2521f121"
+      },
+      {
+        "term": "/w/",
+        "en": "Which witch wished which wicked wish?",
+        "pt": "Qual bruxa desejou qual desejo malvado?",
+        "cardId": "7460b0f1d1"
+      },
+      {
+        "term": "/t/",
+        "en": "Ten tiny turtles took two taxis.",
+        "pt": "Dez tartaruguinhas pegaram dois táxis.",
+        "cardId": "05b77dbe30"
+      },
+      {
+        "term": "/f/",
+        "en": "Four fine fresh fish for you.",
+        "pt": "Quatro peixes frescos e bons para você.",
+        "cardId": "9f000e6289"
+      },
+      {
+        "term": "/l/",
+        "en": "Larry loves listening to loud music.",
+        "pt": "O Larry adora ouvir música alta.",
+        "cardId": "8c2ba4b5bd"
+      },
+      {
+        "term": "/r/ and /l/",
+        "definition": "lorry: caminhão (inglês britânico)",
+        "en": "Red lorry, yellow lorry.",
+        "pt": "Caminhão vermelho, caminhão amarelo.",
+        "cardId": "3f7b9f8347"
+      },
+      {
+        "term": "/tʃ/",
+        "en": "Chester cheetah chews a chunk of cheap cheddar cheese.",
+        "pt": "O guepardo Chester mastiga um pedaço de queijo cheddar barato.",
+        "cardId": "d592eb5eb0"
+      },
+      {
+        "term": "/θ/",
+        "definition": "Frase sem muito sentido, só para treinar o th: \"thrilled the throne\" = \"emocionaram o trono\".",
+        "en": "Thirty-three thieves thought that they thrilled the throne.",
+        "pt": "Trinta e três ladrões pensaram que tinham emocionado o trono.",
+        "cardId": "74c4acc710"
+      },
+      {
+        "term": "/k/",
+        "en": "A cook could cook cookies in a clean kitchen.",
+        "pt": "Um cozinheiro poderia fazer biscoitos numa cozinha limpa.",
+        "cardId": "2e34c6c27a"
+      },
+      {
+        "term": "/g/",
+        "en": "Green grapes grow in great gardens.",
+        "pt": "Uvas verdes crescem em grandes jardins.",
+        "cardId": "dea1ca1c90"
+      },
+      {
+        "term": "/b/ and /t/",
+        "en": "Betty bought a bit of butter.",
+        "pt": "A Betty comprou um pouco de manteiga.",
+        "cardId": "1c5f3eac9b"
+      },
+      {
+        "term": "/d/",
+        "en": "Dan's dog dug deep in the dirt.",
+        "pt": "O cachorro do Dan cavou fundo na terra.",
+        "cardId": "5b9cae9c08"
+      },
+      {
+        "term": "/m/",
+        "en": "Many monkeys make much mischief.",
+        "pt": "Muitos macacos fazem muita bagunça.",
+        "cardId": "72672d356a"
+      },
+      {
+        "term": "/v/",
+        "en": "Very vivid violets in the valley.",
+        "pt": "Violetas bem vivas no vale.",
+        "cardId": "b10b49ec06"
+      },
+      {
+        "term": "/v/",
+        "en": "Victor viewed the vast valley.",
+        "pt": "O Victor contemplou o vale imenso.",
+        "cardId": "6892c67b2d"
+      },
+      {
+        "term": "/v/",
+        "en": "Velvet vines grow over the village.",
+        "pt": "Trepadeiras aveludadas crescem sobre a vila.",
+        "cardId": "d8929f395c"
+      },
+      {
+        "term": "/s/",
+        "en": "Six slippery snails slid slowly seaward.",
+        "pt": "Seis caracóis escorregadios deslizaram devagar em direção ao mar.",
+        "cardId": "024a87027c"
+      },
+      {
+        "term": "/s/",
+        "en": "Seven silly snakes sang softly.",
+        "pt": "Sete cobras bobas cantaram baixinho.",
+        "cardId": "d1bed04c69"
+      },
+      {
+        "term": "/z/",
+        "en": "Zany zebras zigzag through the zoo.",
+        "pt": "Zebras malucas ziguezagueiam pelo zoológico.",
+        "cardId": "1fc0589601"
+      },
+      {
+        "term": "/z/",
+        "en": "Lazy lizards zoom across the zoo.",
+        "pt": "Lagartos preguiçosos passam zunindo pelo zoológico.",
+        "cardId": "ef6b944421"
+      },
+      {
+        "term": "/z/",
+        "en": "Busy bees buzz by the bushes.",
+        "pt": "Abelhas ocupadas zumbem perto dos arbustos.",
+        "cardId": "fda7551f59"
+      },
+      {
+        "term": "/ʃ/",
+        "en": "Shiny shoes shine in the shop.",
+        "pt": "Sapatos brilhantes brilham na loja.",
+        "cardId": "8cfd1b31ba"
+      },
+      {
+        "term": "/ʃ/",
+        "en": "Sharp sharks share shiny shells.",
+        "pt": "Tubarões afiados dividem conchas brilhantes.",
+        "cardId": "9a468a809a"
+      },
+      {
+        "term": "/dʒ/",
+        "en": "Jack and Jill jumped joyfully.",
+        "pt": "Jack e Jill pularam de alegria.",
+        "cardId": "78401b0bab"
+      },
+      {
+        "term": "/dʒ/",
+        "en": "Jolly giants juggle juicy oranges.",
+        "pt": "Gigantes alegres fazem malabarismo com laranjas suculentas.",
+        "cardId": "83974da822"
+      },
+      {
+        "term": "morning routine",
+        "en": "I usually wake up around seven in the morning.",
+        "pt": "Eu costumo acordar por volta das sete da manhã.",
+        "cardId": "66bd493a55"
+      },
+      {
+        "term": "morning routine",
+        "en": "The first thing I do is drink a glass of water and check my phone.",
+        "pt": "A primeira coisa que faço é beber um copo d'água e olhar o celular.",
+        "cardId": "b6a514bbcc"
+      },
+      {
+        "term": "morning routine",
+        "en": "After that, I brush my teeth and take a shower.",
+        "pt": "Depois disso, escovo os dentes e tomo banho.",
+        "cardId": "cf03a3ebdd"
+      },
+      {
+        "term": "morning routine",
+        "en": "Then I have breakfast and start my work for the day.",
+        "pt": "Aí eu tomo café da manhã e começo o trabalho do dia.",
+        "cardId": "e7c7f243a2"
+      },
+      {
+        "term": "improve",
+        "en": "I want to improve my pronunciation.",
+        "pt": "Quero melhorar minha pronúncia.",
+        "cardId": "a0289464c4"
+      },
+      {
+        "term": "challenge",
+        "en": "Speaking in public is a big challenge for me.",
+        "pt": "Falar em público é um grande desafio para mim.",
+        "cardId": "a164ebd4d8"
+      },
+      {
+        "term": "opportunity",
+        "en": "This job is a great opportunity.",
+        "pt": "Esse emprego é uma ótima oportunidade.",
+        "cardId": "eb96462361"
+      },
+      {
+        "term": "bring up",
+        "definition": "bring / brought / brought",
+        "en": "She brought up a good point in the meeting.",
+        "pt": "Ela levantou um bom ponto na reunião.",
+        "cardId": "dcde802b27"
+      },
+      {
+        "term": "call off",
+        "en": "They called off the meeting at the last minute.",
+        "pt": "Eles cancelaram a reunião em cima da hora.",
+        "cardId": "75773b9388"
+      },
+      {
+        "term": "would (situation)",
+        "en": "I would stay calm and check my bags carefully.",
+        "pt": "Eu ficaria calmo e olharia minhas malas com cuidado.",
+        "cardId": "7bdd068301"
+      },
+      {
+        "term": "would (situation)",
+        "en": "Then I would go to the nearest police station and report the problem.",
+        "pt": "Depois eu iria à delegacia mais próxima e registraria o problema.",
+        "cardId": "214bb2c65d"
+      },
+      {
+        "term": "would (situation)",
+        "en": "After that, I would contact my country's embassy for help.",
+        "pt": "Depois disso, eu entraria em contato com a embaixada do meu país para pedir ajuda.",
+        "cardId": "5c3aa83458"
+      },
+      {
+        "term": "would (situation)",
+        "en": "They could guide me on how to get a temporary passport.",
+        "pt": "Eles poderiam me orientar sobre como conseguir um passaporte temporário.",
+        "cardId": "b61c9a9a9a"
+      }
+    ],
+    "pdf": "/lessons/speaking-practice-1/speaking-practice-1.pdf"
   }
 ]
