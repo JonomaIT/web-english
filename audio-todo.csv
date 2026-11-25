@@ -18,7 +18,7 @@ a065ef9915,"The meeting was canceled, so I wrote docs instead."
 926910e7cd,I've only been there once.
 6d781c2f88,"Once the pipeline finishes, we can deploy."
 236d07e080,I'm wrapping up the report now.
-340028ae17,By 6 p.m. I had wrapped up everything.
+6a3f07384c,"By 6 p.m., I had wrapped everything up."
 9cc4fca1ac,We review the security alerts on a daily basis.
 01815ffbd6,I've been practicing English on a daily basis.
 f77421f6ff,I need to catch up on my emails.
@@ -67,7 +67,7 @@ de21a9a0f6,He had criticized the design before seeing the data.
 7c7e70dd1e,She had always been wary of untested code.
 7aa9cda7f5,I finally took the plunge and migrated to Kubernetes.
 c2aeeece56,We're taking the plunge and switching cloud providers.
-64c80c0e9a,I'm handling the on-call rotation this week.
+4b185e0fe7,I'm handling the on-call shift this week.
 6efbff6b20,She had handled worse incidents before.
 8f62fe1171,Let's take a step back and rethink the architecture.
 1241f3c248,He took a step back before blaming anyone.
@@ -80,11 +80,11 @@ eb3c57ff9a,We tackle problems head-on instead of ignoring them.
 a169ca1150,Have you come across this problem before?
 977b30040f,I came across a great article about Kubernetes yesterday.
 86ae12c75c,She lives in a tiny house near the beach.
-18d852a757,The bug was in a tiny line of config that nobody had noticed.
+a18a4467b1,The bug was a tiny typo in the config.
 c6698a3236,He fell apart when he heard the heartbreaking news.
 23903f70bd,The project is falling apart and we don't know why.
 2c19967afc,She soaked her clothes in water before washing them.
-feab859919,"I had been walking in the rain, so I was soaked when I got to the office."
+29b37d9afa,I got caught in the rain and arrived at the office soaked.
 75d27a149b,Water was dripping from the kitchen tap.
 b05d2ed28b,Sweat dripped from his forehead during the demo.
 ada3af74de,He nodded his head to show that he understood the instructions.
@@ -97,14 +97,56 @@ c1963d5e57,He gets a lump in his throat every time he talks about his father.
 cdf2606b79,I'm still in disbelief that we shipped on time.
 0790e4de68,I had meetings throughout the day.
 a3060414a7,The outage has affected customers throughout the country.
-48347736fa,"At first glance, the error looked like a DNS issue, but it was a missing IAM permission."
+8376beff70,"At first glance, it looked like a DNS issue, but it was a missing IAM permission."
 661f438df6,"At first glance, everything looks fine, but the pods keep restarting."
-94647b2f17,"Fixing the bug is one thing, but migrating the whole cluster is a different can of worms."
-b59744692b,"Setting up the pipeline was easy, but getting the security team's approval was a different can of worms."
+7564ee5a1e,"Fixing the bug is easy, but migrating the cluster is a whole other can of worms."
+6bc6589a79,The code was easy; the security approval was a whole other can of worms.
 37d786af7c,Writing Terraform is one thing; running it in production is a different kettle of fish.
-09894e23e6,"I had prepared for questions about AWS, but the interview turned out to be a different kettle of fish."
-2817d5094d,I'm practicing English every day to keep the ball rolling before the interviews.
-2c25cbaaed,"After the first migration, we kept the ball rolling and moved the other services the same week."
+6423f7853b,"I prepared for AWS questions, but the interview was a different kettle of fish."
+caf5aebbab,I practice English every day to keep the ball rolling.
+bd746b9379,"After the first migration, we kept the ball rolling and moved the other services."
+16f71ba1e8,I thought the problem was the database.
+dc4131a3d0,Have you thought about using a queue?
+6749a744e2,Let's go through the logs together.
+5f1ee53509,We went through every alert last night.
+9ec2e86df3,We need a thorough review before the release.
+33eddfc8e1,Her code review was thorough and fair.
+569d415de3,"It works now. I'm not sure why, though."
+d04964d8d5,"The fix was quick. The review took forever, though."
+70f93c8c27,I can't figure out why the build is failing.
+d7d52608a3,We had figured it out by lunch.
+99ed9e45b3,The extra effort was worth it.
+4a4508027a,Is it worth upgrading the cluster now?
+ceaa18074e,Can we schedule the maintenance for Sunday?
+6eef3e8e51,The release was scheduled for Thursday.
+f53855d29c,I feel comfortable speaking English at work now.
+6e03b20448,I wasn't comfortable deploying without tests.
+f85664fe78,My colleague helped me debug the issue.
+ef5b223b1e,I asked a colleague to review my PR.
+9ea3daecb4,I asked the team for feedback.
+eafebc8a93,Can I ask you a quick question?
+f09dc278b7,We need a more reliable alerting system.
+e0e10dea1d,This service has been reliable for months.
+191e9aec1a,Can you walk me through the deploy process?
+f4fba017ec,She walked us through the new architecture.
+3b4c6ac5a7,The migration took roughly three hours.
+64f7780ef2,Roughly half of the tests are flaky.
+8d19cfdf8e,We don't have enough disk space.
+7911b3cd03,Is that good enough for now?
+4b8dc3867b,I'd rather fix it now than later.
+126b2f2f47,I'd rather not deploy on a Friday.
+5e40e61d53,I'll deal with the alerts after lunch.
+0dec1ba136,We dealt with three incidents this week.
+56e77fcf75,I set up the monitoring yesterday.
+0557e3608c,Can you help me set up my laptop?
+e26c067d17,I'm available after three.
+3581fe34ed,The service wasn't available during the upgrade.
+ac271ed1a3,The health check keeps failing.
+2ffaf9da04,We added a health check to every service.
+bb606f9550,We measure latency at every step.
+5e4d04880a,How do you measure success on your team?
+c15ae877fd,Let's focus on the main issue first.
+43770bf016,I focused on the database this week.
 734336b3bc,I manage business-critical production environments where downtime can have a significant impact.
 0c9e75f116,My day-to-day activities include monitoring infrastructure and troubleshooting production issues.
 960e431ae9,One of my primary responsibilities is maintaining high availability across our production environments.

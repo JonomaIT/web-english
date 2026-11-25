@@ -152,9 +152,9 @@
     "audio": false
   },
   {
-    "id": "340028ae17",
+    "id": "6a3f07384c",
     "pt": "Às 18h eu já tinha finalizado tudo.",
-    "en": "By 6 p.m. I had wrapped up everything.",
+    "en": "By 6 p.m., I had wrapped everything up.",
     "notes": [],
     "sources": ["obsidian:20"],
     "audio": false
@@ -544,9 +544,9 @@
     "audio": false
   },
   {
-    "id": "64c80c0e9a",
+    "id": "4b185e0fe7",
     "pt": "Estou cuidando do plantão essa semana.",
-    "en": "I'm handling the on-call rotation this week.",
+    "en": "I'm handling the on-call shift this week.",
     "notes": [],
     "sources": ["obsidian:69"],
     "audio": false
@@ -648,9 +648,9 @@
     "audio": false
   },
   {
-    "id": "18d852a757",
-    "pt": "O bug estava numa linha minúscula de configuração que ninguém tinha notado.",
-    "en": "The bug was in a tiny line of config that nobody had noticed.",
+    "id": "a18a4467b1",
+    "pt": "O bug era um erro de digitação minúsculo na config.",
+    "en": "The bug was a tiny typo in the config.",
     "notes": [],
     "sources": ["obsidian:82"],
     "audio": false
@@ -680,9 +680,9 @@
     "audio": false
   },
   {
-    "id": "feab859919",
-    "pt": "Eu tinha andado na chuva, então cheguei ao escritório ensopado.",
-    "en": "I had been walking in the rain, so I was soaked when I got to the office.",
+    "id": "29b37d9afa",
+    "pt": "Peguei chuva e cheguei ao escritório ensopado.",
+    "en": "I got caught in the rain and arrived at the office soaked.",
     "notes": [],
     "sources": ["obsidian:86"],
     "audio": false
@@ -784,9 +784,9 @@
     "audio": false
   },
   {
-    "id": "48347736fa",
-    "pt": "À primeira vista, o erro parecia um problema de DNS, mas era uma permissão do IAM faltando.",
-    "en": "At first glance, the error looked like a DNS issue, but it was a missing IAM permission.",
+    "id": "8376beff70",
+    "pt": "À primeira vista, parecia um problema de DNS, mas era uma permissão do IAM faltando.",
+    "en": "At first glance, it looked like a DNS issue, but it was a missing IAM permission.",
     "notes": [],
     "sources": ["obsidian:99"],
     "audio": false
@@ -800,17 +800,17 @@
     "audio": false
   },
   {
-    "id": "94647b2f17",
-    "pt": "Corrigir o bug é uma coisa, mas migrar o cluster inteiro é outro pepino.",
-    "en": "Fixing the bug is one thing, but migrating the whole cluster is a different can of worms.",
+    "id": "7564ee5a1e",
+    "pt": "Corrigir o bug é fácil, mas migrar o cluster é outro pepino.",
+    "en": "Fixing the bug is easy, but migrating the cluster is a whole other can of worms.",
     "notes": [],
     "sources": ["obsidian:101"],
     "audio": false
   },
   {
-    "id": "b59744692b",
-    "pt": "Configurar o pipeline foi fácil, mas conseguir a aprovação do time de segurança foi outro pepino.",
-    "en": "Setting up the pipeline was easy, but getting the security team's approval was a different can of worms.",
+    "id": "6bc6589a79",
+    "pt": "O código foi fácil; a aprovação da segurança foi outro pepino.",
+    "en": "The code was easy; the security approval was a whole other can of worms.",
     "notes": [],
     "sources": ["obsidian:102"],
     "audio": false
@@ -824,27 +824,363 @@
     "audio": false
   },
   {
-    "id": "09894e23e6",
-    "pt": "Eu tinha me preparado para perguntas sobre AWS, mas a entrevista acabou sendo outra história.",
-    "en": "I had prepared for questions about AWS, but the interview turned out to be a different kettle of fish.",
+    "id": "6423f7853b",
+    "pt": "Eu me preparei para perguntas de AWS, mas a entrevista foi outra história.",
+    "en": "I prepared for AWS questions, but the interview was a different kettle of fish.",
     "notes": [],
     "sources": ["obsidian:104"],
     "audio": false
   },
   {
-    "id": "2817d5094d",
-    "pt": "Estou praticando inglês todo dia para manter o ritmo antes das entrevistas.",
-    "en": "I'm practicing English every day to keep the ball rolling before the interviews.",
+    "id": "caf5aebbab",
+    "pt": "Pratico inglês todo dia para manter o ritmo.",
+    "en": "I practice English every day to keep the ball rolling.",
     "notes": ["keep / kept / kept"],
     "sources": ["obsidian:105"],
     "audio": false
   },
   {
-    "id": "2c25cbaaed",
-    "pt": "Depois da primeira migração, a gente manteve o ritmo e moveu os outros serviços na mesma semana.",
-    "en": "After the first migration, we kept the ball rolling and moved the other services the same week.",
+    "id": "bd746b9379",
+    "pt": "Depois da primeira migração, a gente manteve o ritmo e migrou os outros serviços.",
+    "en": "After the first migration, we kept the ball rolling and moved the other services.",
     "notes": ["keep / kept / kept"],
     "sources": ["obsidian:106"],
+    "audio": false
+  },
+  {
+    "id": "16f71ba1e8",
+    "pt": "Achei que o problema fosse o banco de dados.",
+    "en": "I thought the problem was the database.",
+    "notes": ["think / thought / thought"],
+    "sources": ["obsidian:107"],
+    "audio": false
+  },
+  {
+    "id": "dc4131a3d0",
+    "pt": "Você já pensou em usar uma fila?",
+    "en": "Have you thought about using a queue?",
+    "notes": ["think / thought / thought"],
+    "sources": ["obsidian:108"],
+    "audio": false
+  },
+  {
+    "id": "6749a744e2",
+    "pt": "Vamos repassar os logs juntos.",
+    "en": "Let's go through the logs together.",
+    "notes": ["go / went / gone"],
+    "sources": ["obsidian:109"],
+    "audio": false
+  },
+  {
+    "id": "5f1ee53509",
+    "pt": "A gente repassou todos os alertas ontem à noite.",
+    "en": "We went through every alert last night.",
+    "notes": ["go / went / gone"],
+    "sources": ["obsidian:110"],
+    "audio": false
+  },
+  {
+    "id": "9ec2e86df3",
+    "pt": "Precisamos de uma revisão minuciosa antes do release.",
+    "en": "We need a thorough review before the release.",
+    "notes": [],
+    "sources": ["obsidian:111"],
+    "audio": false
+  },
+  {
+    "id": "33eddfc8e1",
+    "pt": "A revisão de código dela foi minuciosa e justa.",
+    "en": "Her code review was thorough and fair.",
+    "notes": [],
+    "sources": ["obsidian:112"],
+    "audio": false
+  },
+  {
+    "id": "569d415de3",
+    "pt": "Funciona agora. Mas não sei por quê.",
+    "en": "It works now. I'm not sure why, though.",
+    "notes": [],
+    "sources": ["obsidian:113"],
+    "audio": false
+  },
+  {
+    "id": "d04964d8d5",
+    "pt": "A correção foi rápida. Já a revisão demorou uma eternidade.",
+    "en": "The fix was quick. The review took forever, though.",
+    "notes": [],
+    "sources": ["obsidian:114"],
+    "audio": false
+  },
+  {
+    "id": "70f93c8c27",
+    "pt": "Não consigo descobrir por que o build está falhando.",
+    "en": "I can't figure out why the build is failing.",
+    "notes": ["figure / figured / figured"],
+    "sources": ["obsidian:115"],
+    "audio": false
+  },
+  {
+    "id": "d7d52608a3",
+    "pt": "Na hora do almoço a gente já tinha descoberto.",
+    "en": "We had figured it out by lunch.",
+    "notes": ["figure / figured / figured"],
+    "sources": ["obsidian:116"],
+    "audio": false
+  },
+  {
+    "id": "99ed9e45b3",
+    "pt": "O esforço extra valeu a pena.",
+    "en": "The extra effort was worth it.",
+    "notes": [],
+    "sources": ["obsidian:117"],
+    "audio": false
+  },
+  {
+    "id": "4a4508027a",
+    "pt": "Vale a pena atualizar o cluster agora?",
+    "en": "Is it worth upgrading the cluster now?",
+    "notes": [],
+    "sources": ["obsidian:118"],
+    "audio": false
+  },
+  {
+    "id": "ceaa18074e",
+    "pt": "Podemos agendar a manutenção para domingo?",
+    "en": "Can we schedule the maintenance for Sunday?",
+    "notes": [],
+    "sources": ["obsidian:119"],
+    "audio": false
+  },
+  {
+    "id": "6eef3e8e51",
+    "pt": "O release estava agendado para quinta.",
+    "en": "The release was scheduled for Thursday.",
+    "notes": [],
+    "sources": ["obsidian:120"],
+    "audio": false
+  },
+  {
+    "id": "f53855d29c",
+    "pt": "Agora me sinto à vontade falando inglês no trabalho.",
+    "en": "I feel comfortable speaking English at work now.",
+    "notes": [],
+    "sources": ["obsidian:121"],
+    "audio": false
+  },
+  {
+    "id": "6e03b20448",
+    "pt": "Eu não me sentia à vontade fazendo deploy sem testes.",
+    "en": "I wasn't comfortable deploying without tests.",
+    "notes": [],
+    "sources": ["obsidian:122"],
+    "audio": false
+  },
+  {
+    "id": "f85664fe78",
+    "pt": "Meu colega me ajudou a depurar o problema.",
+    "en": "My colleague helped me debug the issue.",
+    "notes": [],
+    "sources": ["obsidian:123"],
+    "audio": false
+  },
+  {
+    "id": "ef5b223b1e",
+    "pt": "Pedi para um colega revisar meu PR.",
+    "en": "I asked a colleague to review my PR.",
+    "notes": [],
+    "sources": ["obsidian:124"],
+    "audio": false
+  },
+  {
+    "id": "9ea3daecb4",
+    "pt": "Pedi feedback ao time.",
+    "en": "I asked the team for feedback.",
+    "notes": [],
+    "sources": ["obsidian:125"],
+    "audio": false
+  },
+  {
+    "id": "eafebc8a93",
+    "pt": "Posso te fazer uma pergunta rápida?",
+    "en": "Can I ask you a quick question?",
+    "notes": [],
+    "sources": ["obsidian:126"],
+    "audio": false
+  },
+  {
+    "id": "f09dc278b7",
+    "pt": "Precisamos de um sistema de alertas mais confiável.",
+    "en": "We need a more reliable alerting system.",
+    "notes": [],
+    "sources": ["obsidian:127"],
+    "audio": false
+  },
+  {
+    "id": "e0e10dea1d",
+    "pt": "Esse serviço tem sido confiável há meses.",
+    "en": "This service has been reliable for months.",
+    "notes": [],
+    "sources": ["obsidian:128"],
+    "audio": false
+  },
+  {
+    "id": "191e9aec1a",
+    "pt": "Você pode me explicar passo a passo o processo de deploy?",
+    "en": "Can you walk me through the deploy process?",
+    "notes": ["walk / walked / walked"],
+    "sources": ["obsidian:129"],
+    "audio": false
+  },
+  {
+    "id": "f4fba017ec",
+    "pt": "Ela explicou a nova arquitetura passo a passo pra gente.",
+    "en": "She walked us through the new architecture.",
+    "notes": ["walk / walked / walked"],
+    "sources": ["obsidian:130"],
+    "audio": false
+  },
+  {
+    "id": "3b4c6ac5a7",
+    "pt": "A migração levou mais ou menos três horas.",
+    "en": "The migration took roughly three hours.",
+    "notes": [],
+    "sources": ["obsidian:131"],
+    "audio": false
+  },
+  {
+    "id": "64f7780ef2",
+    "pt": "Mais ou menos metade dos testes é instável.",
+    "en": "Roughly half of the tests are flaky.",
+    "notes": [],
+    "sources": ["obsidian:132"],
+    "audio": false
+  },
+  {
+    "id": "8d19cfdf8e",
+    "pt": "Não temos espaço em disco suficiente.",
+    "en": "We don't have enough disk space.",
+    "notes": [],
+    "sources": ["obsidian:133"],
+    "audio": false
+  },
+  {
+    "id": "7911b3cd03",
+    "pt": "Isso está bom o suficiente por enquanto?",
+    "en": "Is that good enough for now?",
+    "notes": [],
+    "sources": ["obsidian:134"],
+    "audio": false
+  },
+  {
+    "id": "4b8dc3867b",
+    "pt": "Prefiro corrigir agora do que depois.",
+    "en": "I'd rather fix it now than later.",
+    "notes": [],
+    "sources": ["obsidian:135"],
+    "audio": false
+  },
+  {
+    "id": "126b2f2f47",
+    "pt": "Prefiro não fazer deploy numa sexta.",
+    "en": "I'd rather not deploy on a Friday.",
+    "notes": [],
+    "sources": ["obsidian:136"],
+    "audio": false
+  },
+  {
+    "id": "5e40e61d53",
+    "pt": "Vou cuidar dos alertas depois do almoço.",
+    "en": "I'll deal with the alerts after lunch.",
+    "notes": ["deal / dealt / dealt"],
+    "sources": ["obsidian:137"],
+    "audio": false
+  },
+  {
+    "id": "0dec1ba136",
+    "pt": "A gente lidou com três incidentes essa semana.",
+    "en": "We dealt with three incidents this week.",
+    "notes": ["deal / dealt / dealt"],
+    "sources": ["obsidian:138"],
+    "audio": false
+  },
+  {
+    "id": "56e77fcf75",
+    "pt": "Configurei o monitoramento ontem.",
+    "en": "I set up the monitoring yesterday.",
+    "notes": ["set / set / set"],
+    "sources": ["obsidian:139"],
+    "audio": false
+  },
+  {
+    "id": "0557e3608c",
+    "pt": "Você pode me ajudar a configurar meu notebook?",
+    "en": "Can you help me set up my laptop?",
+    "notes": ["set / set / set"],
+    "sources": ["obsidian:140"],
+    "audio": false
+  },
+  {
+    "id": "e26c067d17",
+    "pt": "Estou disponível depois das três.",
+    "en": "I'm available after three.",
+    "notes": [],
+    "sources": ["obsidian:141"],
+    "audio": false
+  },
+  {
+    "id": "3581fe34ed",
+    "pt": "O serviço ficou indisponível durante a atualização.",
+    "en": "The service wasn't available during the upgrade.",
+    "notes": [],
+    "sources": ["obsidian:142"],
+    "audio": false
+  },
+  {
+    "id": "ac271ed1a3",
+    "pt": "O health check continua falhando.",
+    "en": "The health check keeps failing.",
+    "notes": [],
+    "sources": ["obsidian:143"],
+    "audio": false
+  },
+  {
+    "id": "2ffaf9da04",
+    "pt": "Adicionamos um health check em cada serviço.",
+    "en": "We added a health check to every service.",
+    "notes": [],
+    "sources": ["obsidian:144"],
+    "audio": false
+  },
+  {
+    "id": "bb606f9550",
+    "pt": "Medimos a latência em cada etapa.",
+    "en": "We measure latency at every step.",
+    "notes": [],
+    "sources": ["obsidian:145"],
+    "audio": false
+  },
+  {
+    "id": "5e4d04880a",
+    "pt": "Como vocês medem o sucesso no seu time?",
+    "en": "How do you measure success on your team?",
+    "notes": [],
+    "sources": ["obsidian:146"],
+    "audio": false
+  },
+  {
+    "id": "c15ae877fd",
+    "pt": "Vamos focar no problema principal primeiro.",
+    "en": "Let's focus on the main issue first.",
+    "notes": ["focus / focused / focused"],
+    "sources": ["obsidian:147"],
+    "audio": false
+  },
+  {
+    "id": "43770bf016",
+    "pt": "Foquei no banco de dados essa semana.",
+    "en": "I focused on the database this week.",
+    "notes": ["focus / focused / focused"],
+    "sources": ["obsidian:148"],
     "audio": false
   },
   {
