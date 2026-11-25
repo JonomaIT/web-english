@@ -451,6 +451,30 @@ kbd {
   color: transparent;
 }
 
+/* A sentence whose words can be tapped: each word says itself, slowly. */
+.sentence__word {
+  display: inline;
+  padding: 0;
+  border: 0;
+  border-radius: 2px;
+  background: none;
+  color: inherit;
+  font: inherit;
+  letter-spacing: inherit;
+  text-decoration: underline dotted transparent;
+  text-underline-offset: 0.2em;
+  cursor: pointer;
+}
+
+.sentence__word:hover {
+  text-decoration-color: currentColor;
+}
+
+/* In the gradient sentence the text color is transparent: the underline needs a real color. */
+.flashcard__en .sentence__word:hover {
+  text-decoration-color: var(--link);
+}
+
 .flashcard__audio {
   display: flex;
   flex-wrap: wrap;
@@ -808,6 +832,12 @@ kbd {
 
 .item__en {
   font-weight: 500;
+}
+
+.item__play {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-3);
 }
 
 .item__row {

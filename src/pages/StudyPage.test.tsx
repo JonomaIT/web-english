@@ -22,10 +22,10 @@ describe("review", () => {
     const user = renderAt("/study");
     const first = cards[0]!;
     expect(await screen.findByText(first.pt)).toBeInTheDocument();
-    expect(screen.queryByText(first.en)).not.toBeInTheDocument();
+    expect(screen.queryByRole("group", { name: first.en })).not.toBeInTheDocument();
 
     await user.click(screen.getByRole("button", { name: /show answer/i }));
-    expect(screen.getByText(first.en)).toBeInTheDocument();
+    expect(screen.getByRole("group", { name: first.en })).toBeInTheDocument();
 
     await user.click(screen.getByRole("button", { name: /^good/i }));
     const saved = JSON.parse(localStorage.getItem(KEY) ?? "{}");
@@ -37,7 +37,7 @@ describe("review", () => {
     const user = renderAt("/study");
     expect(await screen.findByText(cards[0]!.pt)).toBeInTheDocument();
     await user.keyboard(" ");
-    expect(screen.getByText(cards[0]!.en)).toBeInTheDocument();
+    expect(screen.getByRole("group", { name: cards[0]!.en })).toBeInTheDocument();
     await user.keyboard("1");
     expect(JSON.parse(localStorage.getItem(KEY) ?? "{}").log[0].rating).toBe(1);
   });
@@ -54,7 +54,7 @@ describe("review", () => {
 
       act(() => vi.advanceTimersByTime(3 * 60_000)); // the 30 s tick sees the first card due again
       expect(screen.getByText(cards[1]!.pt)).toBeInTheDocument();
-      expect(screen.getByText(cards[1]!.en)).toBeInTheDocument();
+      expect(screen.getByRole("group", { name: cards[1]!.en })).toBeInTheDocument();
 
       await user.keyboard("3"); // answered: now the card that came due is next
       expect(await screen.findByText(cards[0]!.pt)).toBeInTheDocument();
@@ -67,5 +67,36 @@ describe("review", () => {
     renderAt("/study?lesson=vocabulary-2");
     expect(await screen.findByText("Decidi arriscar e me candidatar à vaga.")).toBeInTheDocument();
     expect(screen.getByText(/9 new/)).toBeInTheDocument();
+  });
+
+  it("plays slowly (button or S) and says a tapped word alone, slowly", async () => {
+    const spoken: { text: string; rate: number }[] = [];
+    class Utterance {
+      lang = "";
+      rate = 1;
+      constructor(public text: string) {}
+    }
+    vi.stubGlobal("SpeechSynthesisUtterance", Utterance);
+    vi.stubGlobal("speechSynthesis", {
+      speak: (u: Utterance) => spoken.push({ text: u.text, rate: u.rate }),
+      cancel: () => {},
+    });
+    try {
+      const user = renderAt("/study");
+      const first = cards[0]!;
+      expect(await screen.findByText(first.pt)).toBeInTheDocument();
+      await user.keyboard(" ");
+      spoken.length = 0; // autoplay
+
+      await user.click(screen.getByRole("button", { name: /^slow/i }));
+      await user.keyboard("s");
+      const word = first.en.match(/[A-Za-z']+/)![0];
+      await user.click(screen.getByRole("button", { name: `Hear "${word}"` }));
+
+      expect(spoken.map((s) => s.text)).toEqual([first.en, first.en, word]);
+      for (const s of spoken) expect(s.rate).toBeLessThan(0.95);
+    } finally {
+      vi.unstubAllGlobals();
+    }
   });
 });
