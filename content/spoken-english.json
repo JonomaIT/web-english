@@ -4,18 +4,42 @@
     "the-decision-that-changed-everything": {
       "related": ["vocabulary-1", "vocabulary-2"],
       "blanks": [
-        { "answer": "paused", "meaning": "stopped briefly before doing or saying something" },
-        { "answer": "shake off", "meaning": "get rid of a feeling, thought or problem" },
-        { "answer": "take the plunge", "meaning": "finally decide to do something difficult or risky" },
-        { "answer": "wary", "meaning": "cautious because you are aware of possible problems or danger" },
-        { "answer": "handle", "meaning": "deal with or manage something" },
-        { "answer": "took a step back", "meaning": "stopped and considered a situation more calmly" },
+        {
+          "answer": "paused",
+          "meaning": "stopped briefly before doing or saying something"
+        },
+        {
+          "answer": "shake off",
+          "meaning": "get rid of a feeling, thought or problem"
+        },
+        {
+          "answer": "take the plunge",
+          "meaning": "finally decide to do something difficult or risky"
+        },
+        {
+          "answer": "wary",
+          "meaning": "cautious because you are aware of possible problems or danger"
+        },
+        {
+          "answer": "handle",
+          "meaning": "deal with or manage something"
+        },
+        {
+          "answer": "took a step back",
+          "meaning": "stopped and considered a situation more calmly"
+        },
         {
           "answer": "tackle problems head-on",
           "meaning": "deal with problems directly rather than avoiding them"
         },
-        { "answer": "paid off", "meaning": "produced a good result after effort or difficulty" },
-        { "answer": "step outside our comfort zone", "meaning": "do something unfamiliar or challenging" }
+        {
+          "answer": "paid off",
+          "meaning": "produced a good result after effort or difficulty"
+        },
+        {
+          "answer": "step outside our comfort zone",
+          "meaning": "do something unfamiliar or challenging"
+        }
       ],
       "questions": [
         "Have you ever had to take the plunge and make a difficult decision?",
@@ -119,13 +143,21 @@
           "en": "Don't worry about making mistakes.",
           "pt": "Não se preocupe em errar."
         },
-        { "term": "toward", "en": "He walked toward the door.", "pt": "Ele caminhou em direção à porta." },
+        {
+          "term": "toward",
+          "en": "He walked toward the door.",
+          "pt": "Ele caminhou em direção à porta."
+        },
         {
           "term": "forget about",
           "en": "I completely forgot about the meeting.",
           "pt": "Esqueci completamente da reunião."
         },
-        { "term": "willing", "en": "She is willing to help us.", "pt": "Ela está disposta a nos ajudar." },
+        {
+          "term": "willing",
+          "en": "She is willing to help us.",
+          "pt": "Ela está disposta a nos ajudar."
+        },
         {
           "term": "carefully",
           "en": "Please read the instructions carefully.",
@@ -208,7 +240,11 @@
           "en": "She always complains about her job.",
           "pt": "Ela sempre reclama do trabalho."
         },
-        { "term": "blame", "en": "Don't blame me for the mistake.", "pt": "Não me culpe pelo erro." },
+        {
+          "term": "blame",
+          "en": "Don't blame me for the mistake.",
+          "pt": "Não me culpe pelo erro."
+        },
         {
           "term": "procedure",
           "en": "We need to follow the correct procedure.",
@@ -219,7 +255,11 @@
           "en": "Don't criticize him before hearing his side of the story.",
           "pt": "Não critique ele antes de ouvir o lado dele da história."
         },
-        { "term": "aware", "en": "Are you aware of the problem?", "pt": "Você está ciente do problema?" }
+        {
+          "term": "aware",
+          "en": "Are you aware of the problem?",
+          "pt": "Você está ciente do problema?"
+        }
       ]
     },
     {
@@ -280,6 +320,205 @@
           "definition": "A feeling of being unable to believe something because it is surprising or shocking.",
           "en": "She stared at the message in disbelief when she learned that she had won the competition.",
           "pt": "Ela olhou para a mensagem sem acreditar quando soube que tinha vencido a competição."
+        }
+      ]
+    },
+    {
+      "slug": "speaking-practice-1",
+      "title": "Warm-up and Speaking Practice 1",
+      "pdf": "Warm-up and Speaking Practice 1.pdf",
+      "items": [
+        {
+          "term": "/b/",
+          "en": "Big black bugs bleed blue black blood.",
+          "pt": "Insetos pretos e grandes sangram sangue azul e preto."
+        },
+        {
+          "term": "/s/ and /ʃ/",
+          "en": "She sells seashells by the seashore.",
+          "pt": "Ela vende conchas do mar à beira-mar."
+        },
+        {
+          "term": "/p/",
+          "en": "Peter Piper picked a peck of pickled peppers.",
+          "pt": "Peter Piper pegou um monte de pimentas em conserva."
+        },
+        {
+          "term": "/w/",
+          "en": "Which witch wished which wicked wish?",
+          "pt": "Qual bruxa desejou qual desejo malvado?"
+        },
+        {
+          "term": "/t/",
+          "en": "Ten tiny turtles took two taxis.",
+          "pt": "Dez tartaruguinhas pegaram dois táxis."
+        },
+        {
+          "term": "/f/",
+          "en": "Four fine fresh fish for you.",
+          "pt": "Quatro peixes frescos e bons para você."
+        },
+        {
+          "term": "/l/",
+          "en": "Larry loves listening to loud music.",
+          "pt": "O Larry adora ouvir música alta."
+        },
+        {
+          "term": "/r/ and /l/",
+          "definition": "lorry: caminhão (inglês britânico)",
+          "en": "Red lorry, yellow lorry.",
+          "pt": "Caminhão vermelho, caminhão amarelo."
+        },
+        {
+          "term": "/tʃ/",
+          "en": "Chester cheetah chews a chunk of cheap cheddar cheese.",
+          "pt": "O guepardo Chester mastiga um pedaço de queijo cheddar barato."
+        },
+        {
+          "term": "/θ/",
+          "en": "Thirty-three thieves thought they could steal the throne.",
+          "pt": "Trinta e três ladrões acharam que podiam roubar o trono."
+        },
+        {
+          "term": "/k/",
+          "en": "A cook could cook cookies in a clean kitchen.",
+          "pt": "Um cozinheiro poderia fazer biscoitos numa cozinha limpa."
+        },
+        {
+          "term": "/g/",
+          "en": "Green grapes grow in great gardens.",
+          "pt": "Uvas verdes crescem em grandes jardins."
+        },
+        {
+          "term": "/b/ and /t/",
+          "en": "Betty bought a bit of butter.",
+          "pt": "A Betty comprou um pouco de manteiga."
+        },
+        {
+          "term": "/d/",
+          "en": "Dan's dog dug deep in the dirt.",
+          "pt": "O cachorro do Dan cavou fundo na terra."
+        },
+        {
+          "term": "/m/",
+          "en": "Many monkeys make much mischief.",
+          "pt": "Muitos macacos fazem muita bagunça."
+        },
+        {
+          "term": "/v/",
+          "en": "Victor viewed the vast valley.",
+          "pt": "O Victor contemplou o vale imenso."
+        },
+        {
+          "term": "/v/",
+          "en": "Velvet vines grow over the village.",
+          "pt": "Trepadeiras aveludadas crescem sobre a vila."
+        },
+        {
+          "term": "/s/",
+          "en": "Six slippery snails slid slowly seaward.",
+          "pt": "Seis caracóis escorregadios deslizaram devagar em direção ao mar."
+        },
+        {
+          "term": "/s/",
+          "en": "Seven silly snakes sang softly.",
+          "pt": "Sete cobras bobas cantaram baixinho."
+        },
+        {
+          "term": "/z/",
+          "en": "Zany zebras zigzag through the zoo.",
+          "pt": "Zebras malucas ziguezagueiam pelo zoológico."
+        },
+        {
+          "term": "/z/",
+          "en": "Busy bees buzz by the bushes.",
+          "pt": "Abelhas ocupadas zumbem perto dos arbustos."
+        },
+        {
+          "term": "/ʃ/",
+          "en": "Shiny shoes shine in the shop.",
+          "pt": "Sapatos brilhantes brilham na loja."
+        },
+        {
+          "term": "/ʃ/",
+          "en": "Sharp sharks share shiny shells.",
+          "pt": "Tubarões afiados dividem conchas brilhantes."
+        },
+        {
+          "term": "/dʒ/",
+          "en": "Jack and Jill jumped joyfully.",
+          "pt": "Jack e Jill pularam de alegria."
+        },
+        {
+          "term": "/dʒ/",
+          "en": "Jolly giants juggle juicy oranges.",
+          "pt": "Gigantes alegres fazem malabarismo com laranjas suculentas."
+        },
+        {
+          "term": "morning routine",
+          "en": "I usually wake up around seven in the morning.",
+          "pt": "Eu costumo acordar por volta das sete da manhã."
+        },
+        {
+          "term": "morning routine",
+          "en": "The first thing I do is drink a glass of water and check my phone.",
+          "pt": "A primeira coisa que faço é beber um copo d'água e olhar o celular."
+        },
+        {
+          "term": "morning routine",
+          "en": "After that, I brush my teeth and take a shower.",
+          "pt": "Depois disso, escovo os dentes e tomo banho."
+        },
+        {
+          "term": "morning routine",
+          "en": "Then I have breakfast and start my work for the day.",
+          "pt": "Aí eu tomo café da manhã e começo o trabalho do dia."
+        },
+        {
+          "term": "improve",
+          "en": "I want to improve my pronunciation.",
+          "pt": "Quero melhorar minha pronúncia."
+        },
+        {
+          "term": "challenge",
+          "en": "Speaking in public is a big challenge for me.",
+          "pt": "Falar em público é um grande desafio para mim."
+        },
+        {
+          "term": "opportunity",
+          "en": "This job is a great opportunity.",
+          "pt": "Esse emprego é uma ótima oportunidade."
+        },
+        {
+          "term": "bring up",
+          "definition": "bring / brought / brought",
+          "en": "She brought up a good point in the meeting.",
+          "pt": "Ela levantou um bom ponto na reunião."
+        },
+        {
+          "term": "call off",
+          "en": "They called off the meeting at the last minute.",
+          "pt": "Eles cancelaram a reunião em cima da hora."
+        },
+        {
+          "term": "would (situation)",
+          "en": "I would stay calm and check my bags carefully.",
+          "pt": "Eu ficaria calmo e olharia minhas malas com cuidado."
+        },
+        {
+          "term": "would (situation)",
+          "en": "Then I would go to the nearest police station and report the problem.",
+          "pt": "Depois eu iria à delegacia mais próxima e registraria o problema."
+        },
+        {
+          "term": "would (situation)",
+          "en": "After that, I would contact my country's embassy for help.",
+          "pt": "Depois disso, eu entraria em contato com a embaixada do meu país para pedir ajuda."
+        },
+        {
+          "term": "would (situation)",
+          "en": "They could tell me how to get a temporary passport.",
+          "pt": "Eles poderiam me dizer como conseguir um passaporte temporário."
         }
       ]
     }

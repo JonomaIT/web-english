@@ -132,10 +132,11 @@ def item_cards(items, source):
 
 def stories(folder):
     extra = curated()["stories"]
+    exercises = {l["pdf"] for l in curated()["lessons"]}
     lessons, cards = [], []
     for pdf in sorted(folder.glob("*.pdf")):
         title = pdf.stem
-        if title.lower().startswith("vocabulary reciting exercise"):
+        if pdf.name in exercises or title.lower().startswith("vocabulary reciting exercise"):
             continue
         slug = slugify(title)
         dest = ROOT / "public" / "lessons" / slug
