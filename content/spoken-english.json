@@ -290,121 +290,153 @@
       "items": [
         {
           "term": "/b/",
-          "en": "Big black bugs bleed blue black blood.",
-          "pt": "Insetos pretos e grandes sangram sangue azul e preto."
+          "definition": "Tongue twister: Big black bugs bleed blue black blood.",
+          "en": "My boss booked a big table for the team's birthday lunch.",
+          "pt": "Meu chefe reservou uma mesa grande para o almoço de aniversário do time."
         },
         {
           "term": "/s/ and /ʃ/",
-          "en": "She sells seashells by the seashore.",
-          "pt": "Ela vende conchas do mar à beira-mar."
+          "definition": "Tongue twister: She sells seashells by the seashore.",
+          "en": "She shared the slides in the Slack channel before the session.",
+          "pt": "Ela compartilhou os slides no canal do Slack antes da sessão."
         },
         {
           "term": "/p/",
-          "en": "Peter Piper picked a peck of pickled peppers.",
-          "pt": "Peter Piper pegou um monte de pimentas em conserva."
+          "definition": "Tongue twister: Peter Piper picked a peck of pickled peppers.",
+          "en": "Please push the patch to production after the pipeline passes.",
+          "pt": "Por favor, suba o patch para produção depois que o pipeline passar."
         },
         {
           "term": "/w/",
-          "en": "Which witch wished which wicked wish?",
-          "pt": "Qual bruxa desejou qual desejo malvado?"
+          "definition": "Tongue twister: Which witch wished which wicked wish?",
+          "en": "We were waiting for the website to work again.",
+          "pt": "A gente estava esperando o site voltar a funcionar."
         },
         {
           "term": "/t/",
-          "en": "Ten tiny turtles took two taxis.",
-          "pt": "Dez tartaruguinhas pegaram dois táxis."
+          "definition": "Tongue twister: Ten tiny turtles took two taxis.",
+          "en": "The tests took too long, so I talked to the team.",
+          "pt": "Os testes demoraram demais, então conversei com o time."
         },
         {
           "term": "/f/",
-          "en": "Four fine fresh fish for you.",
-          "pt": "Quatro peixes frescos e bons para você."
+          "definition": "Tongue twister: Four fine fresh fish for you.",
+          "en": "I found the fix after a few failed attempts.",
+          "pt": "Achei a correção depois de algumas tentativas que falharam."
         },
         {
           "term": "/l/",
-          "en": "Larry loves listening to loud music.",
-          "pt": "O Larry adora ouvir música alta."
+          "definition": "Tongue twister: Larry loves listening to loud music.",
+          "en": "I like to listen to music while I look at the logs.",
+          "pt": "Gosto de ouvir música enquanto olho os logs."
         },
         {
           "term": "/r/ and /l/",
-          "definition": "lorry: caminhão (inglês britânico)",
-          "en": "Red lorry, yellow lorry.",
-          "pt": "Caminhão vermelho, caminhão amarelo."
+          "definition": "Tongue twister: Red lorry, yellow lorry.",
+          "en": "The release really relies on the load balancer.",
+          "pt": "O release depende muito do load balancer."
         },
         {
           "term": "/tʃ/",
-          "en": "Chester cheetah chews a chunk of cheap cheddar cheese.",
-          "pt": "O guepardo Chester mastiga um pedaço de queijo cheddar barato."
+          "definition": "Tongue twister: Chester cheetah chews a chunk of cheap cheddar cheese.",
+          "en": "Let's check the changes and choose the cheapest option.",
+          "pt": "Vamos conferir as mudanças e escolher a opção mais barata."
         },
         {
           "term": "/θ/",
-          "en": "Thirty-three thieves thought they could steal the throne.",
-          "pt": "Trinta e três ladrões acharam que podiam roubar o trono."
+          "definition": "Tongue twister: Thirty-three thieves thought they could steal the throne.",
+          "en": "I think the third thread is throwing the error.",
+          "pt": "Acho que a terceira thread está lançando o erro."
         },
         {
           "term": "/k/",
-          "en": "A cook could cook cookies in a clean kitchen.",
-          "pt": "Um cozinheiro poderia fazer biscoitos numa cozinha limpa."
+          "definition": "Tongue twister: A cook could cook cookies in a clean kitchen.",
+          "en": "Can you quickly check the cluster config?",
+          "pt": "Você pode conferir rapidinho a config do cluster?"
         },
         {
           "term": "/g/",
-          "en": "Green grapes grow in great gardens.",
-          "pt": "Uvas verdes crescem em grandes jardins."
+          "definition": "Tongue twister: Green grapes grow in great gardens.",
+          "en": "Good morning, guys. Let's go over the goals for this sprint.",
+          "pt": "Bom dia, pessoal. Vamos repassar as metas desta sprint."
         },
         {
           "term": "/b/ and /t/",
-          "en": "Betty bought a bit of butter.",
-          "pt": "A Betty comprou um pouco de manteiga."
+          "definition": "Tongue twister: Betty bought a bit of butter.",
+          "en": "I bought a bit of bread and butter for breakfast.",
+          "pt": "Comprei um pouco de pão e manteiga para o café da manhã."
         },
         {
           "term": "/d/",
-          "en": "Dan's dog dug deep in the dirt.",
-          "pt": "O cachorro do Dan cavou fundo na terra."
+          "definition": "Tongue twister: Dan's dog dug deep in the dirt.",
+          "en": "Do you think the database will be down during the deploy?",
+          "pt": "Você acha que o banco de dados vai ficar fora do ar durante o deploy?"
         },
         {
           "term": "/m/",
-          "en": "Many monkeys make much mischief.",
-          "pt": "Muitos macacos fazem muita bagunça."
+          "definition": "Tongue twister: Many monkeys make much mischief.",
+          "en": "My manager moved the meeting to Monday morning.",
+          "pt": "Meu gestor mudou a reunião para segunda de manhã."
         },
-        { "term": "/v/", "en": "Victor viewed the vast valley.", "pt": "O Victor contemplou o vale imenso." },
         {
           "term": "/v/",
-          "en": "Velvet vines grow over the village.",
-          "pt": "Trepadeiras aveludadas crescem sobre a vila."
+          "definition": "Tongue twister: Victor viewed the vast valley.",
+          "en": "We have a very valid reason to move to the new version.",
+          "pt": "Temos um motivo muito válido para ir para a nova versão."
+        },
+        {
+          "term": "/v/",
+          "definition": "Tongue twister: Velvet vines grow over the village.",
+          "en": "I'll leave the VPN on over the weekend.",
+          "pt": "Vou deixar a VPN ligada durante o fim de semana."
         },
         {
           "term": "/s/",
-          "en": "Six slippery snails slid slowly seaward.",
-          "pt": "Seis caracóis escorregadios deslizaram devagar em direção ao mar."
+          "definition": "Tongue twister: Six slippery snails slid slowly seaward.",
+          "en": "Sorry, the system is still slow this afternoon.",
+          "pt": "Desculpa, o sistema ainda está lento hoje à tarde."
         },
         {
           "term": "/s/",
-          "en": "Seven silly snakes sang softly.",
-          "pt": "Sete cobras bobas cantaram baixinho."
+          "definition": "Tongue twister: Seven silly snakes sang softly.",
+          "en": "I usually start my day with a simple status update.",
+          "pt": "Costumo começar o dia com uma atualização de status simples."
         },
         {
           "term": "/z/",
-          "en": "Zany zebras zigzag through the zoo.",
-          "pt": "Zebras malucas ziguezagueiam pelo zoológico."
+          "definition": "Tongue twister: Zany zebras zigzag through the zoo.",
+          "en": "Please zip these files and send them to the users.",
+          "pt": "Por favor, compacte esses arquivos e mande para os usuários."
         },
         {
           "term": "/z/",
-          "en": "Busy bees buzz by the bushes.",
-          "pt": "Abelhas ocupadas zumbem perto dos arbustos."
+          "definition": "Tongue twister: Busy bees buzz by the bushes.",
+          "en": "Busy days are easier when I organize my tasks.",
+          "pt": "Dias corridos são mais fáceis quando organizo minhas tarefas."
         },
         {
           "term": "/ʃ/",
-          "en": "Shiny shoes shine in the shop.",
-          "pt": "Sapatos brilhantes brilham na loja."
+          "definition": "Tongue twister: Shiny shoes shine in the shop.",
+          "en": "Should I share my screen to show you the issue?",
+          "pt": "Devo compartilhar minha tela para te mostrar o problema?"
         },
         {
           "term": "/ʃ/",
-          "en": "Sharp sharks share shiny shells.",
-          "pt": "Tubarões afiados dividem conchas brilhantes."
+          "definition": "Tongue twister: Sharp sharks share shiny shells.",
+          "en": "The shop shipped my new shoes this morning.",
+          "pt": "A loja enviou meus sapatos novos hoje de manhã."
         },
-        { "term": "/dʒ/", "en": "Jack and Jill jumped joyfully.", "pt": "Jack e Jill pularam de alegria." },
         {
           "term": "/dʒ/",
-          "en": "Jolly giants juggle juicy oranges.",
-          "pt": "Gigantes alegres fazem malabarismo com laranjas suculentas."
+          "definition": "Tongue twister: Jack and Jill jumped joyfully.",
+          "en": "My job is to manage the Jenkins jobs.",
+          "pt": "Meu trabalho é gerenciar os jobs do Jenkins."
+        },
+        {
+          "term": "/dʒ/",
+          "definition": "Tongue twister: Jolly giants juggle juicy oranges.",
+          "en": "I joined a large project in January.",
+          "pt": "Entrei num projeto grande em janeiro."
         },
         {
           "term": "morning routine",
