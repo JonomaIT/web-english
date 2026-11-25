@@ -487,178 +487,167 @@
     "items": [
       {
         "term": "/b/",
-        "definition": "Tongue twister: Big black bugs bleed blue black blood.",
-        "en": "My boss booked a big table for the team's birthday lunch.",
-        "pt": "Meu chefe reservou uma mesa grande para o almoço de aniversário do time.",
-        "cardId": "0656c32a0e"
+        "en": "Big black bugs bleed blue black blood.",
+        "pt": "Insetos pretos e grandes sangram sangue azul e preto.",
+        "cardId": "4c22a4a2d4"
       },
       {
         "term": "/s/ and /ʃ/",
-        "definition": "Tongue twister: She sells seashells by the seashore.",
-        "en": "She shared the slides in the Slack channel before the session.",
-        "pt": "Ela compartilhou os slides no canal do Slack antes da sessão.",
-        "cardId": "bfcf939d8a"
+        "en": "She sells seashells by the seashore.",
+        "pt": "Ela vende conchas do mar à beira-mar.",
+        "cardId": "4196c03f1d"
       },
       {
         "term": "/p/",
-        "definition": "Tongue twister: Peter Piper picked a peck of pickled peppers.",
-        "en": "Please push the patch to production after the pipeline passes.",
-        "pt": "Por favor, suba o patch para produção depois que o pipeline passar.",
-        "cardId": "817513e2fb"
+        "en": "Peter Piper picked a peck of pickled peppers.",
+        "pt": "Peter Piper pegou um monte de pimentas em conserva.",
+        "cardId": "fc2521f121"
       },
       {
         "term": "/w/",
-        "definition": "Tongue twister: Which witch wished which wicked wish?",
-        "en": "We were waiting for the website to work again.",
-        "pt": "A gente estava esperando o site voltar a funcionar.",
-        "cardId": "af152e9a69"
+        "en": "Which witch wished which wicked wish?",
+        "pt": "Qual bruxa desejou qual desejo malvado?",
+        "cardId": "7460b0f1d1"
       },
       {
         "term": "/t/",
-        "definition": "Tongue twister: Ten tiny turtles took two taxis.",
-        "en": "The tests took too long, so I talked to the team.",
-        "pt": "Os testes demoraram demais, então conversei com o time.",
-        "cardId": "3336d5ec03"
+        "en": "Ten tiny turtles took two taxis.",
+        "pt": "Dez tartaruguinhas pegaram dois táxis.",
+        "cardId": "05b77dbe30"
       },
       {
         "term": "/f/",
-        "definition": "Tongue twister: Four fine fresh fish for you.",
-        "en": "I found the fix after a few failed attempts.",
-        "pt": "Achei a correção depois de algumas tentativas que falharam.",
-        "cardId": "e6dd4ba5da"
+        "en": "Four fine fresh fish for you.",
+        "pt": "Quatro peixes frescos e bons para você.",
+        "cardId": "9f000e6289"
       },
       {
         "term": "/l/",
-        "definition": "Tongue twister: Larry loves listening to loud music.",
-        "en": "I like to listen to music while I look at the logs.",
-        "pt": "Gosto de ouvir música enquanto olho os logs.",
-        "cardId": "35646912eb"
+        "en": "Larry loves listening to loud music.",
+        "pt": "O Larry adora ouvir música alta.",
+        "cardId": "8c2ba4b5bd"
       },
       {
         "term": "/r/ and /l/",
-        "definition": "Tongue twister: Red lorry, yellow lorry.",
-        "en": "The release really relies on the load balancer.",
-        "pt": "O release depende muito do load balancer.",
-        "cardId": "88a4f96231"
+        "definition": "lorry: caminhão (inglês britânico)",
+        "en": "Red lorry, yellow lorry.",
+        "pt": "Caminhão vermelho, caminhão amarelo.",
+        "cardId": "3f7b9f8347"
       },
       {
         "term": "/tʃ/",
-        "definition": "Tongue twister: Chester cheetah chews a chunk of cheap cheddar cheese.",
-        "en": "Let's check the changes and choose the cheapest option.",
-        "pt": "Vamos conferir as mudanças e escolher a opção mais barata.",
-        "cardId": "d59782c42c"
+        "en": "Chester cheetah chews a chunk of cheap cheddar cheese.",
+        "pt": "O guepardo Chester mastiga um pedaço de queijo cheddar barato.",
+        "cardId": "d592eb5eb0"
       },
       {
         "term": "/θ/",
-        "definition": "Tongue twister: Thirty-three thieves thought they could steal the throne.",
-        "en": "I think the third thread is throwing the error.",
-        "pt": "Acho que a terceira thread está lançando o erro.",
-        "cardId": "24cb9f0cdb"
+        "definition": "Frase sem muito sentido, só para treinar o th: \"thrilled the throne\" = \"emocionaram o trono\".",
+        "en": "Thirty-three thieves thought that they thrilled the throne.",
+        "pt": "Trinta e três ladrões pensaram que tinham emocionado o trono.",
+        "cardId": "74c4acc710"
       },
       {
         "term": "/k/",
-        "definition": "Tongue twister: A cook could cook cookies in a clean kitchen.",
-        "en": "Can you quickly check the cluster config?",
-        "pt": "Você pode conferir rapidinho a config do cluster?",
-        "cardId": "b27761312b"
+        "en": "A cook could cook cookies in a clean kitchen.",
+        "pt": "Um cozinheiro poderia fazer biscoitos numa cozinha limpa.",
+        "cardId": "2e34c6c27a"
       },
       {
         "term": "/g/",
-        "definition": "Tongue twister: Green grapes grow in great gardens.",
-        "en": "Good morning, guys. Let's go over the goals for this sprint.",
-        "pt": "Bom dia, pessoal. Vamos repassar as metas desta sprint.",
-        "cardId": "e3d6846684"
+        "en": "Green grapes grow in great gardens.",
+        "pt": "Uvas verdes crescem em grandes jardins.",
+        "cardId": "dea1ca1c90"
       },
       {
         "term": "/b/ and /t/",
-        "definition": "Tongue twister: Betty bought a bit of butter.",
-        "en": "I bought a bit of bread and butter for breakfast.",
-        "pt": "Comprei um pouco de pão e manteiga para o café da manhã.",
-        "cardId": "b5eb55d1f5"
+        "en": "Betty bought a bit of butter.",
+        "pt": "A Betty comprou um pouco de manteiga.",
+        "cardId": "1c5f3eac9b"
       },
       {
         "term": "/d/",
-        "definition": "Tongue twister: Dan's dog dug deep in the dirt.",
-        "en": "Do you think the database will be down during the deploy?",
-        "pt": "Você acha que o banco de dados vai ficar fora do ar durante o deploy?",
-        "cardId": "1f05fbdd65"
+        "en": "Dan's dog dug deep in the dirt.",
+        "pt": "O cachorro do Dan cavou fundo na terra.",
+        "cardId": "5b9cae9c08"
       },
       {
         "term": "/m/",
-        "definition": "Tongue twister: Many monkeys make much mischief.",
-        "en": "My manager moved the meeting to Monday morning.",
-        "pt": "Meu gestor mudou a reunião para segunda de manhã.",
-        "cardId": "f971d0ae23"
+        "en": "Many monkeys make much mischief.",
+        "pt": "Muitos macacos fazem muita bagunça.",
+        "cardId": "72672d356a"
       },
       {
         "term": "/v/",
-        "definition": "Tongue twister: Victor viewed the vast valley.",
-        "en": "We have a very valid reason to move to the new version.",
-        "pt": "Temos um motivo muito válido para ir para a nova versão.",
-        "cardId": "fb2d894eb7"
+        "en": "Very vivid violets in the valley.",
+        "pt": "Violetas bem vivas no vale.",
+        "cardId": "b10b49ec06"
       },
       {
         "term": "/v/",
-        "definition": "Tongue twister: Velvet vines grow over the village.",
-        "en": "I'll leave the VPN on over the weekend.",
-        "pt": "Vou deixar a VPN ligada durante o fim de semana.",
-        "cardId": "8c92432fe6"
+        "en": "Victor viewed the vast valley.",
+        "pt": "O Victor contemplou o vale imenso.",
+        "cardId": "6892c67b2d"
+      },
+      {
+        "term": "/v/",
+        "en": "Velvet vines grow over the village.",
+        "pt": "Trepadeiras aveludadas crescem sobre a vila.",
+        "cardId": "d8929f395c"
       },
       {
         "term": "/s/",
-        "definition": "Tongue twister: Six slippery snails slid slowly seaward.",
-        "en": "Sorry, the system is still slow this afternoon.",
-        "pt": "Desculpa, o sistema ainda está lento hoje à tarde.",
-        "cardId": "f55dca25e1"
+        "en": "Six slippery snails slid slowly seaward.",
+        "pt": "Seis caracóis escorregadios deslizaram devagar em direção ao mar.",
+        "cardId": "024a87027c"
       },
       {
         "term": "/s/",
-        "definition": "Tongue twister: Seven silly snakes sang softly.",
-        "en": "I usually start my day with a simple status update.",
-        "pt": "Costumo começar o dia com uma atualização de status simples.",
-        "cardId": "958bcddf70"
+        "en": "Seven silly snakes sang softly.",
+        "pt": "Sete cobras bobas cantaram baixinho.",
+        "cardId": "d1bed04c69"
       },
       {
         "term": "/z/",
-        "definition": "Tongue twister: Zany zebras zigzag through the zoo.",
-        "en": "Please zip these files and send them to the users.",
-        "pt": "Por favor, compacte esses arquivos e mande para os usuários.",
-        "cardId": "c1e581713d"
+        "en": "Zany zebras zigzag through the zoo.",
+        "pt": "Zebras malucas ziguezagueiam pelo zoológico.",
+        "cardId": "1fc0589601"
       },
       {
         "term": "/z/",
-        "definition": "Tongue twister: Busy bees buzz by the bushes.",
-        "en": "Busy days are easier when I organize my tasks.",
-        "pt": "Dias corridos são mais fáceis quando organizo minhas tarefas.",
-        "cardId": "4bd1f2eac8"
+        "en": "Lazy lizards zoom across the zoo.",
+        "pt": "Lagartos preguiçosos passam zunindo pelo zoológico.",
+        "cardId": "ef6b944421"
+      },
+      {
+        "term": "/z/",
+        "en": "Busy bees buzz by the bushes.",
+        "pt": "Abelhas ocupadas zumbem perto dos arbustos.",
+        "cardId": "fda7551f59"
       },
       {
         "term": "/ʃ/",
-        "definition": "Tongue twister: Shiny shoes shine in the shop.",
-        "en": "Should I share my screen to show you the issue?",
-        "pt": "Devo compartilhar minha tela para te mostrar o problema?",
-        "cardId": "7eefbca029"
+        "en": "Shiny shoes shine in the shop.",
+        "pt": "Sapatos brilhantes brilham na loja.",
+        "cardId": "8cfd1b31ba"
       },
       {
         "term": "/ʃ/",
-        "definition": "Tongue twister: Sharp sharks share shiny shells.",
-        "en": "The shop shipped my new shoes this morning.",
-        "pt": "A loja enviou meus sapatos novos hoje de manhã.",
-        "cardId": "1589574d21"
+        "en": "Sharp sharks share shiny shells.",
+        "pt": "Tubarões afiados dividem conchas brilhantes.",
+        "cardId": "9a468a809a"
       },
       {
         "term": "/dʒ/",
-        "definition": "Tongue twister: Jack and Jill jumped joyfully.",
-        "en": "My job is to manage the Jenkins jobs.",
-        "pt": "Meu trabalho é gerenciar os jobs do Jenkins.",
-        "cardId": "c51b36ff55"
+        "en": "Jack and Jill jumped joyfully.",
+        "pt": "Jack e Jill pularam de alegria.",
+        "cardId": "78401b0bab"
       },
       {
         "term": "/dʒ/",
-        "definition": "Tongue twister: Jolly giants juggle juicy oranges.",
-        "en": "I joined a large project in January.",
-        "pt": "Entrei num projeto grande em janeiro.",
-        "cardId": "9598f5191f"
+        "en": "Jolly giants juggle juicy oranges.",
+        "pt": "Gigantes alegres fazem malabarismo com laranjas suculentas.",
+        "cardId": "83974da822"
       },
       {
         "term": "morning routine",
@@ -735,9 +724,9 @@
       },
       {
         "term": "would (situation)",
-        "en": "They could tell me how to get a temporary passport.",
-        "pt": "Eles poderiam me dizer como conseguir um passaporte temporário.",
-        "cardId": "562428f935"
+        "en": "They could guide me on how to get a temporary passport.",
+        "pt": "Eles poderiam me orientar sobre como conseguir um passaporte temporário.",
+        "cardId": "b61c9a9a9a"
       }
     ],
     "pdf": "/lessons/speaking-practice-1/speaking-practice-1.pdf"
