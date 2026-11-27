@@ -1,0 +1,5 @@
+# Owners by path (ADR-014). The last matching line wins, so the pipeline and the production
+# values need the platform team.
+*                               @JoshuelNobre
+/deploy/env/production.tfvars   @JonomaIT/gh-infra
+/.github/                       @JonomaIT/gh-infra
