@@ -1,0 +1,15 @@
+# Software catalog entry (Backstage format). It is the source of truth for what this repo is,
+# who owns it and how it runs; a portal or a script can read every repo's file.
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: web-english
+  description: "English study app: spaced-repetition flashcards and lessons, with a Lambda API for progress sync."
+  annotations:
+    github.com/project-slug: JonomaIT/web-english
+  tags: [cloudfront, static-site, lambda]
+spec:
+  type: website
+  lifecycle: production
+  owner: group:jonomait/gh-infra
+  system: personal
