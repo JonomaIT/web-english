@@ -16,11 +16,11 @@
     "set-login": "node scripts/set-login.mjs"
   },
   "dependencies": {
-    "pdfjs-dist": "6.4.299",
+    "pdfjs-dist": "6.5.438",
     "react": "19.3.1",
     "react-dom": "19.3.1",
-    "react-router": "8.5.0",
-    "ts-fsrs": "6.0.0"
+    "react-router": "8.5.3",
+    "ts-fsrs": "6.0.1"
   },
   "devDependencies": {
     "@aws-sdk/client-dynamodb": "3.1152.0",
