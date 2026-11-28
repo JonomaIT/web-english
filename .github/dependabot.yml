@@ -5,11 +5,20 @@ updates:
     directory: /
     schedule:
       interval: weekly
+    # TypeScript 7 (the native compiler) is not supported by typescript-eslint yet (peer < 6.1):
+    # its major waits here. Remove this once typescript-eslint supports it.
+    ignore:
+      - dependency-name: typescript
+        update-types: ["version-update:semver-major"]
+    # Groups take only minor and patch, which merge by themselves; a major comes as its own PR and
+    # waits for a person (label dependabot:manual).
     groups:
       runtime:
         dependency-type: production
+        update-types: ["minor", "patch"]
       tooling:
         dependency-type: development
+        update-types: ["minor", "patch"]
   - package-ecosystem: github-actions
     directory: /
     schedule:
